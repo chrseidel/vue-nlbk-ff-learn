@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "title": "Die Gemeinden haben in ihrem Gebiet die Aufgaben,",
+      "category": "Technische Hilfeleistung",
+      "options": [
+        {
+          "description": "eine leistungsfähige Feuerwehr aufzustellen.",
+          "correct": true
+        },
+        {
+          "description": "die Aus- und Fortbildung der Feuerwehrangehörigen sicherzustellen.",
+          "correct": false
+        },
+        {
+          "description": "eine Feuerwehrtechnische Zentrale (FTZ) einzurichten.",
+          "correct": true
+        },
+        {
+          "description": "den Brandschutz und Hilfeleistung sicherzustellen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "something something 2",
+      "category": "Technische Hilfeleistung",
+      "options": [
+        {
+          "description": "some answer 2",
+          "correct": false
+        },
+        {
+          "description": "some other answer 2",
+          "correct": false
+        },
+        {
+          "description": "some other other answer 2",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "something something 3",
+      "category": "Technische Hilfeleistung",
+      "options": [
+        {
+          "description": "some answer 3",
+          "correct": false
+        },
+        {
+          "description": "some other answer 3",
+          "correct": false
+        },
+        {
+          "description": "some other other answer 3",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "something something 4",
+      "category": "Technische Hilfeleistung",
+      "options": [
+        {
+          "description": "some answer 4",
+          "correct": false
+        },
+        {
+          "description": "some other answer 4",
+          "correct": false
+        },
+        {
+          "description": "some other other answer 4",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "something something 5",
+      "category": "Technische Hilfeleistung",
+      "options": [
+        {
+          "description": "some answer 5",
+          "correct": false
+        },
+        {
+          "description": "some other answer 5",
+          "correct": false
+        },
+        {
+          "description": "some other other answer 5",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
