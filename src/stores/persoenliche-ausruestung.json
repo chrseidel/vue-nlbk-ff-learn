@@ -1,0 +1,194 @@
+{
+    "category": "Persönliche Ausrüstung",
+    "questions": [
+      {
+        "title": "Zur persönlichen Ausrüstung (Mindestschutzausrüstung) gehören unter anderem",
+        "options": [
+          {
+            "description": "Feuerwehr-Schutzanzug und Beleuchtungsgerät.",
+            "correct": false
+          },
+          {
+            "description": "Feuerwehr-Schutzanzug und Feuerwehr-Schutzhandschuhe.",
+            "correct": true
+          },
+          {
+            "description": "Feuerwehr-Schutzhelm und Atemschutzgerät.",
+            "correct": false
+          },
+          {
+            "description": "Gesichtsschutz (Visier) und Feuerwehrhaltegurt.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Warnkleidung (Warnweste) ist zu tragen",
+        "options": [
+          {
+            "description": "bei schlechten Sichtverhältnissen.",
+            "correct": true
+          },
+          {
+            "description": "bei Gefahrguteinsätzen.",
+            "correct": false
+          },
+          {
+            "description": "bei Tätigkeiten im Straßenverkehr.",
+            "correct": true
+          },
+          {
+            "description": "bei entsprechender Anordnung des Gruppenführers.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Ergänzungen zur persönlichen Schutzausrüstung für den Löscheinsatz (Innenangriff) ist/sind",
+        "options": [
+          {
+            "description": "Feuerwehrhaltegurt mit Feuerwehrbeil.",
+            "correct": true
+          },
+          {
+            "description": "Feuerwehrleine mit Feuerwehrleinenbeutel.",
+            "correct": true
+          },
+          {
+            "description": "Atemschutzgerät.",
+            "correct": true
+          },
+          {
+            "description": "Kontaminationsschutzanzug.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Ergänzungen zur persönlichen Schutzausrüstung für den Hilfeleistungseinsatz ist/sind",
+        "options": [
+          {
+            "description": "Warnkleidung.",
+            "correct": true
+          },
+          {
+            "description": "die Schutzbrille.",
+            "correct": true
+          },
+          {
+            "description": "der Gehörschutz.",
+            "correct": true
+          },
+          {
+            "description": "Schnittschutzkleidung.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Der Gesichtsschutz zum Feuerwehrhelm (Klappvisier) ist zu verwenden",
+        "options": [
+          {
+            "description": "bei Gefahren für das Gesicht und die Augen.",
+            "correct": true
+          },
+          {
+            "description": "bei Gefahren bspw. durch Splitter.",
+            "correct": true
+          },
+          {
+            "description": "bei Gefahren durch wegschnellende Teile.",
+            "correct": true
+          },
+          {
+            "description": "bei Gefahren durch Funken oder Spritzer gefährlicher Stoffe.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Beim Einsatz eines Brennschneidgerätes bzw. Plasmaschneidgerätes sind speziell hierfür vorgesehene, zum Zubehör des Gerätes gehörende Schutzbrillen zu tragen. Diese schützen die Augen vor Fremdkörpern und vor ultravioletter Strahlung. Der Gesichtsschutz (Klappvisier) sollte hierbei nicht verwendet werden,",
+        "options": [
+          {
+            "description": "um den Träger nicht zusätzlich zu behindern.",
+            "correct": false
+          },
+          {
+            "description": "da ein umfassender Schutz der Augen nicht gegeben ist.",
+            "correct": true
+          },
+          {
+            "description": "um einer möglichen Ventilation von Atemgiften über dem Helm vorzubeugen.",
+            "correct": false
+          },
+          {
+            "description": "um Kosten zu sparen.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Hitzeschutzkleidung schützt vorgehende Einsatzkräfte bei der Brandbekämpfung vorrangig gegen",
+        "options": [
+          {
+            "description": "einen Fliehkraftzerfall.",
+            "correct": false
+          },
+          {
+            "description": "herumfliegende Splitter.",
+            "correct": false
+          },
+          {
+            "description": "Strahlungswärme.",
+            "correct": true
+          },
+          {
+            "description": "tiefkalte, verflüssigte Gase.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Beim Gebrauch der Feuerwehr-Einsatzüberjacke ist darauf zu achten, dass",
+        "options": [
+          {
+            "description": "die Jacke nach einem Einsatz ggf. gereinigt und imprägniert werden muss.",
+            "correct": true
+          },
+          {
+            "description": "die Jacke nach einem Einsatz nicht in Sozialräumen (z.B. Kantine) getragen werden soll, um eine Kontaminationsverschleppung zu unterbinden.",
+            "correct": true
+          },
+          {
+            "description": "die Jacke den gültigen Normenstandards entspricht.",
+            "correct": true
+          },
+          {
+            "description": "die Jacke bei Beschädigungen ggf. ausgesondert werden muss.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Abweichungen zur persönlichen Schutzausrüstung sind entsprechend",
+        "options": [
+          {
+            "description": "„UVV Feuerwehren“ auf Befehl des Einheitsführers möglich.",
+            "correct": true
+          },
+          {
+            "description": "„UVV Feuerwehren“ auf Befehl des Einheitsführers nicht möglich.",
+            "correct": false
+          },
+          {
+            "description": "„UVV Feuerwehren“ auf Befehl des Landesbranddirektors möglich.",
+            "correct": false
+          },
+          {
+            "description": "„VUU Pflichtfeuerwehren“ auf Befehl des Einheitsführers möglich.",
+            "correct": false
+          }
+        ]
+      }
+    ]
+}
