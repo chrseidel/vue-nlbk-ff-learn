@@ -1,0 +1,532 @@
+{
+    "category": "Gerätekunde: Löschgeräte, Schläuche, Armaturen",
+    "questions": [
+      {
+        "title": "Ein formstabiler Schlauch für Pumpen und Feuerwehrfahrzeuge ist",
+        "options": [
+          {
+            "description": "ein Schlauch für den Schaumeinsatz.",
+            "correct": false
+          },
+          {
+            "description": "ein formstabiler Druckschlauch, der z.B. auf einer Haspel gelagert wird.",
+            "correct": true
+          },
+          {
+            "description": "ein Schlauch, der nur zum Ansaugen von Löschwasser Verwendung findet.",
+            "correct": false
+          },
+          {
+            "description": "nicht flach aufrollbar.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Ein B-Druckschlauch hat einen Innendurchmesser (Nennweite) von",
+        "options": [
+          {
+            "description": "7,5 m.",
+            "correct": false
+          },
+          {
+            "description": "7,5 mm.",
+            "correct": false
+          },
+          {
+            "description": "75 mm.",
+            "correct": true
+          },
+          {
+            "description": "7,5 dm.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Bei einem „Mehrzweckstrahlrohr“ handelt es sich um ein",
+        "options": [
+          {
+            "description": "Strahlrohr für Voll- und Sprühstrahl.",
+            "correct": true
+          },
+          {
+            "description": "Strahlrohr für Sprüh- und Mittelschaumstrahl.",
+            "correct": false
+          },
+          {
+            "description": "Strahlrohr mit B-, C- oder D-Kupplung.",
+            "correct": true
+          },
+          {
+            "description": "Strahlrohr, welches für unterschiedliche Zwecke (Löschwasserentnahme, -fortleitung und –abgabe) Verwendung findet.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Am mittleren Ausgangsstutzen des Verteilers (B-CBC) ist",
+        "options": [
+          {
+            "description": "ein B/C-Übergangsstück angekuppelt.",
+            "correct": true
+          },
+          {
+            "description": "ein A/C-Übergangsstück angekuppelt.",
+            "correct": false
+          },
+          {
+            "description": "ein A/B-Übergangsstück angekuppelt.",
+            "correct": false
+          },
+          {
+            "description": "ein C/D-Übergangsstück angekuppelt.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Ein C-Mehrzweckstrahlrohr mit Mundstück hat bei einem Druck von 4 bar eine Wasserdurchflussmenge pro Minute von",
+        "options": [
+          {
+            "description": "ca. 200 l.",
+            "correct": false
+          },
+          {
+            "description": "ca. 100 l.",
+            "correct": true
+          },
+          {
+            "description": "ca. 300 l.",
+            "correct": false
+          },
+          {
+            "description": "ca. 400 l.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Eine Wasserstrahlpumpe",
+        "options": [
+          {
+            "description": "kann zum Fördern von flüssigen Gefahrstoffen eingesetzt werden.",
+            "correct": false
+          },
+          {
+            "description": "dient zur Entleerung von Kellern, Schächten, Baugruben etc.",
+            "correct": true
+          },
+          {
+            "description": "funktioniert nach dem Injektor-Prinzip.",
+            "correct": true
+          },
+          {
+            "description": "dient der Förderung von Wasser über lange Wegstrecke.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Ein B-Mehrzweckstrahlrohr mit Mundstück hat bei 4 bar Strahlrohrdruck eine Wasserdurchflussmenge von",
+        "options": [
+          {
+            "description": "ca. 400 l/min.",
+            "correct": false
+          },
+          {
+            "description": "ca. 300 l/min.",
+            "correct": true
+          },
+          {
+            "description": "ca. 600 l/min.",
+            "correct": false
+          },
+          {
+            "description": "ca. 500 l/min.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "B-Druckschläuche können nach Norm wie folgt bemessen sein:",
+        "options": [
+          {
+            "description": "85 mm Nennweite; 20 m und 30 m Schlauchlänge.",
+            "correct": false
+          },
+          {
+            "description": "75 mm Nennweite; 5 m, 20 m und 35 m Schlauchlänge.",
+            "correct": true
+          },
+          {
+            "description": "75 mm Nennweite; 15 m und 30 m Schlauchlänge.",
+            "correct": false
+          },
+          {
+            "description": "52 mm Nennweite; 20 m und 30 m Schlauchlänge (nur bei B-52).",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Zu den wasserführenden Armaturen zählen",
+        "options": [
+          {
+            "description": "Standrohr, Saugkorb, Sammelstück und Verteiler.",
+            "correct": true
+          },
+          {
+            "description": "Kübelspritze, Wasserlöscher, Entlüftungseinrichtung.",
+            "correct": false
+          },
+          {
+            "description": "Tauchpumpe, Hydrantenschlüssel, Auffülltrichter.",
+            "correct": false
+          },
+          {
+            "description": "Schlauchkupplungen, Strahlrohre, Verteiler, Entlüftungseinrichtung.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Zum Halten eines B-Strahlrohres mit Stützkrümmer sind mindestens",
+        "options": [
+          {
+            "description": "zwei Feuerwehrleute erforderlich.",
+            "correct": true
+          },
+          {
+            "description": "drei bis vier Feuerwehrleute erforderlich.",
+            "correct": false
+          },
+          {
+            "description": "ein kräftiger Feuerwehrmann erforderlich.",
+            "correct": false
+          },
+          {
+            "description": "Einsatzkräfte nach Weisung des Gruppenführers, mindestens einer.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Ein A-Saugschlauch mit der Kennzeichnung A-110-1500-K hat einen Innendurchmesser von",
+        "options": [
+          {
+            "description": "10 cm.",
+            "correct": false
+          },
+          {
+            "description": "95 mm.",
+            "correct": false
+          },
+          {
+            "description": "110 mm.",
+            "correct": true
+          },
+          {
+            "description": "120 mm.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Bei einem Mehrzweckstrahlrohr gibt es die Schaltstellungen",
+        "options": [
+          {
+            "description": "nur Vollstrahl und Sprühstrahl.",
+            "correct": false
+          },
+          {
+            "description": "Vollstrahl, Sprühstrahl und Wasser halt.",
+            "correct": true
+          },
+          {
+            "description": "Vollstrahl und Wasser halt.",
+            "correct": false
+          },
+          {
+            "description": "Hohlstrahl, Vollstrahl, Kegelstrahl.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Das Standrohr dient zur",
+        "options": [
+          {
+            "description": "Wasserentnahme aus Unterflurhydranten.",
+            "correct": true
+          },
+          {
+            "description": "Wasserentnahme aus Überflurhydranten.",
+            "correct": false
+          },
+          {
+            "description": "Straßenüberführung von Schlauchleitungen.",
+            "correct": false
+          },
+          {
+            "description": "Stabilisierung von Strahlrohren beim stationären Einsatz.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Die Kübelspritze dient zum/zur",
+        "options": [
+          {
+            "description": "Löschen eines Großbrandes.",
+            "correct": false
+          },
+          {
+            "description": "Ablöschen von Brandnestern und Entstehungsbränden.",
+            "correct": true
+          },
+          {
+            "description": "Begrenzung möglicher Löschwasserschäden.",
+            "correct": true
+          },
+          {
+            "description": "Löschen von Benzinbränden.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Ein Schaumrohr wird am Verteiler angeschlossen",
+        "options": [
+          {
+            "description": "am mittleren Ausgangsstutzen / an der mittleren Kupplung",
+            "correct": true
+          },
+          {
+            "description": "nur bei Vornahme eines Schaumrohres S 4.",
+            "correct": false
+          },
+          {
+            "description": "nach Reihenfolge der eingesetzten Rohre.",
+            "correct": false
+          },
+          {
+            "description": "nach Vorgabe des Gruppenführers.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Für die Inbetriebnahme eines Unterflurhydranten werden",
+        "options": [
+          {
+            "description": "Standrohr und Unterflurhydrantenschlüssel benötigt.",
+            "correct": true
+          },
+          {
+            "description": "Sammelstück und Kupplungsschlüssel benötigt.",
+            "correct": false
+          },
+          {
+            "description": "Standrohr und Feuerwehrschlüssel benötigt.",
+            "correct": false
+          },
+          {
+            "description": "Ausrüstungsteile nach Vorgabe des Gruppenführers benötigt.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Beispiele für genormte Schläuche ist/sind",
+        "options": [
+          {
+            "description": "der Saugschlauch.",
+            "correct": true
+          },
+          {
+            "description": "der Druckschlauch.",
+            "correct": true
+          },
+          {
+            "description": "formstabile Druckschläuche für Pumpen und Feuerwehrfahrzeuge.",
+            "correct": true
+          },
+          {
+            "description": "Flachschläuche für Wandhydranten.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Ein Schild mit der Beschriftung \"H 100\" weist auf",
+        "options": [
+          {
+            "description": "einen Hydranten für die Löschwasserentnahme in 100 m Entfernung hin.",
+            "correct": false
+          },
+          {
+            "description": "einen Hydranten für Löschwasser mit einer Ergiebigkeit von 100 l/min hin.",
+            "correct": false
+          },
+          {
+            "description": "einen Hydranten hin, der auf einer Versorgungsleitung von 100 mm Innendurchmesser montiert ist.",
+            "correct": true
+          },
+          {
+            "description": "einen Hydranten hin, für den ein Hydrantenschlüssel NW 100 mm erforderlich ist.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Ein Standrohr mit passendem Schlüssel wird gebraucht zur Inbetriebnahme von",
+        "options": [
+          {
+            "description": "Überflurhydranten.",
+            "correct": false
+          },
+          {
+            "description": "Wandhydranten.",
+            "correct": false
+          },
+          {
+            "description": "Unterflurhydranten.",
+            "correct": true
+          },
+          {
+            "description": "gegen Missbrauch gesicherten Hydranten.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Welche Schaltmöglichkeiten müssen bei einem genormten Hohlstrahlrohr gegeben sein?",
+        "options": [
+          {
+            "description": "Strahlrohr auf/dreiviertel-zu",
+            "correct": false
+          },
+          {
+            "description": "Strahlrohr auf/zu und Durchflussmengeneinstellung",
+            "correct": false
+          },
+          {
+            "description": "Strahlrohr auf/zu und Einstellmöglichkeit der Wasserstrahlform",
+            "correct": false
+          },
+          {
+            "description": "Strahlrohr auf/zu, Einstellmöglichkeit der Wasserstrahlform und Durchflussmengeneinstellung",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Für das Anschließen an Leitungen an den Verteiler gilt gemäß nebenstehender Abbildung",
+        "img": "verteiler-a-b-c.png",
+        "options": [
+          {
+            "description": "Anschluss A = 2. Rohr",
+            "correct": false
+          },
+          {
+            "description": "Anschluss C = 1. Rohr",
+            "correct": false
+          },
+          {
+            "description": "Anschluss B = 3. Rohr",
+            "correct": true
+          },
+          {
+            "description": "Anschluss B = B-Rohr bzw. Schaumrohr",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Bei der Handhabung eines B-Strahlrohres gilt:",
+        "options": [
+          {
+            "description": "Der Truppführer und der Truppmann kuppeln das B-Strahlrohr mit Stützkrümmer an den B-Druckschlauch an.",
+            "correct": true
+          },
+          {
+            "description": "Der Truppführer und der Truppmann kuppeln das B-Strahlrohr ohne Stützkrümmer an den B-Druckschlauch an.",
+            "correct": false
+          },
+          {
+            "description": "Die Entfernung des Mundstückes erfolgt nur auf den Befehl des Einheitsführers.",
+            "correct": true
+          },
+          {
+            "description": "Sicherheitsabstände im Löscheinsatz in elektrischen Anlagen gelten nur ab einem Strahlrohrdruck von sechs bar.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Folgende Sicherheitshinweise beim Einsatz von Hohlstrahlrohren finden im Einsatz Beachtung:",
+        "options": [
+          {
+            "description": "Sicherheitsabstände im Löscheinsatz müssen in elektrischen Anlagen beachtet werden!",
+            "correct": true
+          },
+          {
+            "description": "Sicherheitsabstände im Löscheinsatz müssen in elektrischen Anlagen nicht beachtet werden!",
+            "correct": false
+          },
+          {
+            "description": "der vorgehende Trupp muss mit der Bedienung und den Besonderheiten des Hohlstrahlrohres vertraut sein.",
+            "correct": true
+          },
+          {
+            "description": "Der vorgehende Trupp muss nicht mit der Bedienung und den Besonderheiten des Hohlstrahlrohres vertraut sein.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Für die Handhabung des tragbaren Zumischers (siehe nebenstehende Abbildung) gilt:",
+        "img": "zumischer.png",
+        "options": [
+          {
+            "description": "Der Zumischer wird in Richtung des Pfeils auf dem Zumischer zwischen Verteiler und das Schaumstrahlrohr in die Druckschlauchleitung eingekuppelt.",
+            "correct": true
+          },
+          {
+            "description": "Die Dosiereinrichtung wird generell auf 5% Zumischrate eingestellt.",
+            "correct": false
+          },
+          {
+            "description": "Der Ansaugschlauch findet nur in Ausnahmesituationen Verwendung.",
+            "correct": false
+          },
+          {
+            "description": "Der Zumischer muss nach dem Einsatz gründlich gespült werden.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Welches der nachfolgenden Mehrzweckstrahlrohre ist das Kleinste?",
+        "options": [
+          {
+            "description": "AM",
+            "correct": false
+          },
+          {
+            "description": "BM",
+            "correct": false
+          },
+          {
+            "description": "CM",
+            "correct": false
+          },
+          {
+            "description": "DM",
+            "correct": true
+          }
+        ]
+      }
+    ]
+}
