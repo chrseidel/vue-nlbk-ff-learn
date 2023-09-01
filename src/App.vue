@@ -1,15 +1,13 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
   <nav>
-    <router-link to="/questions">Fragen starten</router-link>
+    <router-link to="/questions">Fragen</router-link>
     <router-link to="/settings">Einstellungen</router-link>
   </nav>
   <main>
     <router-view></router-view>
-</main>
+  </main>
 </template>
 
 <style scoped>
@@ -34,6 +32,7 @@ a {
 
 main {
   padding-top: 3rem;
+  width: 100%;
 }
 
 #start-quiz {
@@ -44,7 +43,6 @@ main {
 }
 
 #start-quiz > a {
- color: black;
+  color: black;
 }
-
 </style>

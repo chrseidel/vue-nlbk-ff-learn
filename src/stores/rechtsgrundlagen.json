@@ -1,0 +1,246 @@
+{
+  "questions": [
+    {
+      "title": "Die Gemeinden haben in ihrem Gebiet die Aufgaben,",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "eine leistungsfähige Feuerwehr aufzustellen.",
+          "correct": true
+        },
+        {
+          "description": "die Aus- und Fortbildung der Feuerwehrangehörigen sicherzustellen.",
+          "correct": false
+        },
+        {
+          "description": "eine Feuerwehrtechnische Zentrale (FTZ) einzurichten.",
+          "correct": true
+        },
+        {
+          "description": "den Brandschutz und Hilfeleistung sicherzustellen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Aktive Mitglieder der Freiwilligen Feuerwehren sind verpflichtet,",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "an Brandbekämpfungs- und Hilfeleistungseinsätzen teilzunehmen.",
+          "correct": true
+        },
+        {
+          "description": "Arbeiten zum Auspumpen von Baugruben im Rahmen von Bauarbeiten durchzuführen.",
+          "correct": false
+        },
+        {
+          "description": "Sicherungsmaßnahmen bei Laternenumzügen im eigenen Ermessen durchzuführen.",
+          "correct": false
+        },
+        {
+          "description": "durch den Ortsbrandmeister angesetzten, nicht dienstlichen Veranstaltungen teilzunehmen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Berufsfeuerwehren müssen aufgestellt werden",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "in Städten mit mehr als 100000 Einwohnern.",
+          "correct": true
+        },
+        {
+          "description": "in Städten mit viel Industrie und mehr als 50000 Einwohnern.",
+          "correct": false
+        },
+        {
+          "description": "in Städten ohne Freiwillige Feuerwehren.",
+          "correct": false
+        },
+        {
+          "description": "in Städten mit besonders hohem Gefahrenpotenzial und einer anerkannten Werkfeuerwehr.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Feuerwehrangehörige dürfen im Einsatz",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "eine Straßensperrung vornehmen.",
+          "correct": true
+        },
+        {
+          "description": "grundsätzlich keine Eingriffe in den Straßenverkehr vornehmen, da es in den Zuständigkeitsbereich der Polizei fällt.",
+          "correct": false
+        },
+        {
+          "description": "den Verkehr im Bereich von Einsatzstellen regeln (Verkehrslenkung und -leitung).",
+          "correct": false
+        },
+        {
+          "description": "beliebig in den Straßenverkehr eingreifen, mit der Einschränkung, dass das nur auf Anforderung des Einsatzleiters der Feuerwehr erfolgen darf.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Im Alarmfall besteht für aktive Mitglieder einer Freiwilligen Feuerwehr die Verpflichtung,",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "beim Ortsbrandmeister telefonisch zurückzurufen.",
+          "correct": false
+        },
+        {
+          "description": "sich unverzüglich am Feuerwehrhaus einzufinden.",
+          "correct": true
+        },
+        {
+          "description": "sich während der Arbeitszeit nach Möglichkeit beim Arbeitgeber abzumelden.",
+          "correct": true
+        },
+        {
+          "description": "sich bei der Feuerwehr-Einsatzleitstelle telefonisch nach der Dringlichkeit des Einsatzes zu erkundigen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Aufnahme als aktives Mitglied in die Freiwillige Feuerwehr",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "ist ab einem Alter von zehn Jahren möglich",
+          "correct": false
+        },
+        {
+          "description": "ist ab einem Alter von sechzehn Jahren möglich.",
+          "correct": true
+        },
+        {
+          "description": "ist ab fünfunddreißig Jahren nicht mehr möglich.",
+          "correct": false
+        },
+        {
+          "description": "ist gegebenenfalls von der Einschätzung eines ermächtigten Arztes abhängig.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Aufgaben der Gemeinden und Landkreise nach dem Nds. Brandschutzgesetz sind",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "Brandschutz und Hilfeleistung.",
+          "correct": true
+        },
+        {
+          "description": "Brandschutz und Rettungsdienst.",
+          "correct": false
+        },
+        {
+          "description": "Brandschutz und Krankentransport.",
+          "correct": false
+        },
+        {
+          "description": "Zivilschutzbezogene Aufgaben, hier: Schulung des THW.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Freiwillige Feuerwehr einer Stadt bzw. Gemeinde wird geleitet durch",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "den Stadt-/Gemeindebrandmeister.",
+          "correct": true
+        },
+        {
+          "description": "den Stadt-/Gemeindedirektor.",
+          "correct": false
+        },
+        {
+          "description": "den für die jeweilige Gemeinde oder Stadt zuständigen Abschnittsleiter.",
+          "correct": false
+        },
+        {
+          "description": "den vom Feuerschutzausschuss ernannten Ehrenbeamten.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der feuerwehrtechnische Aufsichtsbeamte des Landkreises ist",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "der Oberkreisdirektor.",
+          "correct": false
+        },
+        {
+          "description": "der Kreisbrandmeister.",
+          "correct": true
+        },
+        {
+          "description": "der Brandschutzprüfer.",
+          "correct": false
+        },
+        {
+          "description": "der Kreisbrandinspektor.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Im Einsatz bei der Anfahrt zum Feuerwehrhaus mit Kraftfahrzeugen",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "ist die Schnelligkeit oberstes Gebot.",
+          "correct": false
+        },
+        {
+          "description": "ist im Interesse der Sicherheit immer besonders vorsichtig und umsichtig zu fahren.",
+          "correct": true
+        },
+        {
+          "description": "ist auf die Inanspruchnahme von Sonderrechten zu verzichten, da andere Verkehrsteilnehmer diese nicht erkennen können.",
+          "correct": true
+        },
+        {
+          "description": "gilt der Grundsatz: Sicherheit vor Schnelligkeit.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Im Alarmfall dürfen nur Feuerwehrangehörige ausrücken,",
+      "category": "Rechtsgrundlagen",
+      "options": [
+        {
+          "description": "die zwar Alkohol getrunken haben, sich aber noch fit fühlen.",
+          "correct": false
+        },
+        {
+          "description": "die krankgeschrieben sind, aber nur, wenn es der Gesundheitszustand nach eigener Einschätzung zulässt.",
+          "correct": false
+        },
+        {
+          "description": "die uneingeschränkt körperlich und geistig tauglich sind.",
+          "correct": true
+        },
+        {
+          "description": "die Drogen konsumiert haben, sich aber noch fit fühlen.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

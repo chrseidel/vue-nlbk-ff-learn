@@ -1,0 +1,357 @@
+{
+  "questions": [
+    {
+      "title": "Eine Löschwirkung kann durch",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "den Entzug von Sauerstoff erzielt werden.",
+          "correct": true
+        },
+        {
+          "description": "den Entzug von Wärme erzielt werden.",
+          "correct": true
+        },
+        {
+          "description": "die Zuführung von Luft erzielt werden.",
+          "correct": false
+        },
+        {
+          "description": "nur durch den Entzug von Wärme und Sauerstoff erzielt werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Eine Verbrennung ist eine",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "schnell ablaufende Reaktion zwischen einem brennbaren Stoff und Kohlenstoffdioxid.",
+          "correct": false
+        },
+        {
+          "description": "schnell ablaufende Oxidation unter Licht- und Wärmeerscheinung.",
+          "correct": true
+        },
+        {
+          "description": "Oxidbildung bei Metallen (Rosten).",
+          "correct": false
+        },
+        {
+          "description": "schnell verlaufende Reduktion eines brennbaren Stoffs.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Benzin wird der",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "Brandklasse A zugeordnet.",
+          "correct": false
+        },
+        {
+          "description": "Brandklasse B zugeordnet.",
+          "correct": true
+        },
+        {
+          "description": "Brandklasse C zugeordnet.",
+          "correct": false
+        },
+        {
+          "description": "Brandklasse F zugeordnet.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Das Löschmittel Wasser darf nicht eingesetzt werden",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "beim Auftreten von elektrischen Spannungen bis 1000 Volt.",
+          "correct": false
+        },
+        {
+          "description": "bei Metallbränden",
+          "correct": true
+        },
+        {
+          "description": "bei brennenden Fritteusen.",
+          "correct": true
+        },
+        {
+          "description": "wenn hierdurch ein Wasserschaden (auch in geringfügigem Umfang) entstehen könnte.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Zur Bekämpfung von Bränden der Brandklasse „A“ ist",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "Wasser geeignet.",
+          "correct": true
+        },
+        {
+          "description": "Kohlenstoffmonoxid geeignet.",
+          "correct": false
+        },
+        {
+          "description": "Glutbrandpulver nicht einzusetzen.",
+          "correct": false
+        },
+        {
+          "description": "nur ein Löschmittel einzusetzen, das mit einem ‚X’ gekennzeichnet ist.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Zur Brandklasse C gehören",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "feste, brennbare Stoffe.",
+          "correct": false
+        },
+        {
+          "description": "flüssige, brennbare Stoffe.",
+          "correct": false
+        },
+        {
+          "description": "gasförmige, brennbare Stoffe.",
+          "correct": true
+        },
+        {
+          "description": "Dämpfe brennbarer Flüssigkeiten.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Nur mit Glut verbrennen",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "Holz, Kohle, Papier.",
+          "correct": false
+        },
+        {
+          "description": "Holzkohle, Koks.",
+          "correct": true
+        },
+        {
+          "description": "Wachs, Stearin, Fett.",
+          "correct": false
+        },
+        {
+          "description": "Hartwachs und entgaste Kohle.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Zur Brandklasse A gehören",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "feste brennbare Stoffe.",
+          "correct": true
+        },
+        {
+          "description": "flüssige brennbare Stoffe.",
+          "correct": false
+        },
+        {
+          "description": "gasförmige brennbare Stoffe.",
+          "correct": false
+        },
+        {
+          "description": "anorganische nicht brennbare Stoffe.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Hauptlöschwirkung des Wassers besteht im",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "Kühlen.",
+          "correct": true
+        },
+        {
+          "description": "Ersticken.",
+          "correct": false
+        },
+        {
+          "description": "Verdünnen.",
+          "correct": false
+        },
+        {
+          "description": "Abmagern.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Mit Flamme und Glut brennen",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "Holz, Kohle, Papier.",
+          "correct": true
+        },
+        {
+          "description": "Metalle.",
+          "correct": false
+        },
+        {
+          "description": "Wachs, Stearin, Fett.",
+          "correct": false
+        },
+        {
+          "description": "Gase.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Grundvoraussetzungen für einen Verbrennungsvorgang sind unter anderem",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "brennbarer Stoff, Sauerstoff, Zündtemperatur, richtiges Mengenverhältnis.",
+          "correct": true
+        },
+        {
+          "description": "Sauerstoff, Flammtemperatur, Oberflächenspannung.",
+          "correct": false
+        },
+        {
+          "description": "Stickstoff, richtiges Mengenverhältnis, brennbarer Stoff, Funken.",
+          "correct": false
+        },
+        {
+          "description": "Katalysatoren, brennbarer Stoff, spezifische Oberflächen, richtige Reaktionstemperatur.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Für welche Stoffe gilt nebenstehendes Bildzeichen? (BILD KOMMT NOCH)",
+      "img": "",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "Brände von Metallen",
+          "correct": false
+        },
+        {
+          "description": "Brennbare Gase",
+          "correct": true
+        },
+        {
+          "description": "Brennbare flüssige Stoffe",
+          "correct": false
+        },
+        {
+          "description": "Brennbare Chemikalien",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Leichtentzündliche Stoffe sind",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "Stoffe, die ohne äußere Energiezufuhr zur Entzündung kommen.",
+          "correct": false
+        },
+        {
+          "description": "Stoffe, die auf 100° C erwärmt werden müssen, um zu brennen.",
+          "correct": false
+        },
+        {
+          "description": "Stoffe, die durch kurzzeitige Einwirkung einer Zündquelle leicht entzündet werden können und nach deren Entfernung weiter brennen oder weiter glimmen.",
+          "correct": true
+        },
+        {
+          "description": "auf Warntafeln mit einem „X“ vor der Gefahrnummer zu kennzeichnen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Folgende(s) Löschmittel dürfen/darf bei Schornsteinbränden nicht eingesetzt werden:",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "ABC-Löschpulver",
+          "correct": false
+        },
+        {
+          "description": "BC-Löschpulver",
+          "correct": false
+        },
+        {
+          "description": "Wasser",
+          "correct": true
+        },
+        {
+          "description": "Sand",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Speiseöle, die Anwendung in einer Fritteuse finden, werden der",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "Brandklasse A zugeordnet.",
+          "correct": false
+        },
+        {
+          "description": "Brandklasse B zugeordnet.",
+          "correct": false
+        },
+        {
+          "description": "Brandklasse C zugeordnet.",
+          "correct": false
+        },
+        {
+          "description": "Brandklasse F zugeordnet.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Folgende brennbare Stoffe dürfen nicht mit Wasser gelöscht werden:",
+      "category": "Brennen und Löschen",
+      "options": [
+        {
+          "description": "Chemikalien, die mit Wasser heftig reagieren.",
+          "correct": true
+        },
+        {
+          "description": "Benzin, Leichtmetalle.",
+          "correct": true
+        },
+        {
+          "description": "Holz, Kohle, Papier",
+          "correct": false
+        },
+        {
+          "description": "Stoffe, bei denen ein „X“ vor der Gefahrnummer steht.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

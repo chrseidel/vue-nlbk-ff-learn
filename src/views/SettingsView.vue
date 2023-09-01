@@ -1,11 +1,7 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
-  <p>Anwendung zum Üben der Trupmann1 Ausbildung</p>
+  <p>Kommt vielleicht noch...</p>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>

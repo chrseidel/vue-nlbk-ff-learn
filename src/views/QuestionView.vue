@@ -1,38 +1,49 @@
 <script setup>
 import QuestionSet from '../components/QuestionSet.vue'
-import questionsJson from '../questions.json'
-import { useQuestionsStore } from '../stores/store';
+
+import { useQuestionsStore } from '../stores/store'
 import { ref } from 'vue'
 
-const shuffleArray = (array) => {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1))
-    const temp = array[i]
-    array[i] = array[j]
-    array[j] = temp
-  }
-  return array
+const questionsStore = useQuestionsStore()
+const questions = ref(questionsStore.allQuestions())
+const isCheckBtnVisible = ref(true)
+const isNextBtnVisisble = ref(false)
+const showResult = ref(false)
+
+const checkAnswers = () => {
+  showNextButton()
+  showResult.value = true
 }
 
-const randomQuestions = shuffleArray(questionsJson.questions).slice(0, 4)
-const randomSelection = ref(randomQuestions)
-const questionsStore = useQuestionsStore()
-questionsStore.setNumQuestions(randomQuestions.length)
+const nextQuestion = () => {
+  showResult.value = false
+  showCheckButton()
+  questionsStore.nextQuestion()
+}
 
+const showNextButton = () => {
+  isCheckBtnVisible.value = false
+  isNextBtnVisisble.value = true
+}
+
+const showCheckButton = () => {
+  isCheckBtnVisible.value = true
+  isNextBtnVisisble.value = false
+}
 </script>
 
 <template>
-    <div id="main">
-    <QuestionSet :questions="randomSelection"/>
+  <div id="main">
+    <QuestionSet :questions="questions" :show-results="showResult" />
     <div id="control">
-      <button id="btn-prev" v-on:click="questionsStore.prevQuestion()">zurück</button>
-      <button id="btn-next" v-on:click="questionsStore.nextQuestion()">weiter</button>
+      <button id="btn-prev" @click="questionsStore.prevQuestion()">zurück</button>
+      <button v-if="isCheckBtnVisible" id="btn-check" @click="checkAnswers()">Lösung</button>
+      <button v-if="isNextBtnVisisble" id="btn-next" @click="nextQuestion()">weiter</button>
     </div>
-</div>
+  </div>
 </template>
 
 <style scoped>
-
 #main {
   display: flex;
   flex-direction: column;
@@ -59,6 +70,12 @@ button {
 
 #btn-next {
   background-color: green;
+}
+
+#btn-check {
+  border: 1px solid green;
+  color: black;
+  background-color: white;
 }
 
 #btn-prev {
