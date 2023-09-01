@@ -54,15 +54,10 @@ watch(
   margin-bottom: 1rem;
 }
 
-.indicator {
-  position: absolute;
-  left: 0;
-}
-
 label {
   width: 100%;
   font-size: 1.3rem;
-  padding: 1rem;
+  padding: 0.7rem;
   border: 2px solid lightgray;
   border-radius: 5px;
 }
