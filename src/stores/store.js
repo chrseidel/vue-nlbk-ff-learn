@@ -2,10 +2,12 @@ import { defineStore } from 'pinia'
 import rechtsgrundlagenJson from './rechtsgrundlagen.json'
 import brennenUndLoeschenJson from './brennen-und-loeschen.json'
 import fahrzeugkundeJson from './fahrzeugkunde.json'
+import persoenlicheAusruestungJson from './persoenliche-ausruestung.json'
+import geraetekundeJson from './geraetekunde-loeschgeraete.json'
 import { ref } from 'vue'
 
 export const useQuestionsStore = defineStore('questions', () => {
-  const categories = [rechtsgrundlagenJson, brennenUndLoeschenJson, fahrzeugkundeJson].map((json) => ({
+  const categories = [rechtsgrundlagenJson, brennenUndLoeschenJson, fahrzeugkundeJson, persoenlicheAusruestungJson, geraetekundeJson].map((json) => ({
       name: json.category,
       questions: json.questions,
       include: true,
