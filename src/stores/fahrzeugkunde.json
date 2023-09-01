@@ -3,7 +3,6 @@
     "questions": [
       {
         "title": "Löschfahrzeuge haben gemäß Einteilung EN 1846-1 den Einsatzzweck:",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "Taktische Einheiten zu Führen.",
@@ -25,7 +24,6 @@
       },
       {
         "title": "Speziell für technische Hilfeleistungen größeren Umfangs sind",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "Löschgruppenfahrzeuge geeignet.",
@@ -47,7 +45,6 @@
       },
       {
         "title": "Ein TSF hat eine ausreichende feuerwehrtechnische Beladung für",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "einen selbstständigen Trupp.",
@@ -69,7 +66,6 @@
       },
       {
         "title": "Die Abkürzung FPN 10-1000 bedeutet",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "Feuerpumpe, 800 l/min bei 8 MPa.",
@@ -91,7 +87,6 @@
       },
       {
         "title": "Auf einem LF 10 wird/werden mitgeführt",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "die vierteilige Steckleiter.",
@@ -113,7 +108,6 @@
       },
       {
         "title": "Zu den Tanklöschfahrzeugen zählt/zählen",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "das LF 10.",
@@ -135,7 +129,6 @@
       },
       {
         "title": "Der Löschwasserbehälter im TLF 3000 enthält mindestens",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "1600 l.",
@@ -157,7 +150,6 @@
       },
       {
         "title": "Die Abkürzung „PFPN 10-1000“ steht für",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "eine tragbare Feuerlöschkreiselpumpe.",
@@ -179,7 +171,6 @@
       },
       {
         "title": "Zur Gruppe der Löschgruppenfahrzeuge zählt",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "das LF 20.",
@@ -201,7 +192,6 @@
       },
       {
         "title": "Zu den Tragkraftspritzenfahrzeugen zählt/zählen das",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "LF 10.",
@@ -223,7 +213,6 @@
       },
       {
         "title": "Eine DLAK 23-12 ist:",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "ein Hubrettungsfahrzeug mit Allradantrieb",
@@ -245,7 +234,6 @@
       },
       {
         "title": "Ein MLF",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "ist ein Löschfahrzeug mit Staffelbeladung und Gruppenbesatzung",
@@ -267,7 +255,6 @@
       },
       {
         "title": "Das TLF 4000 ist ein Löschfahrzeug, das",
-        "category": "Fahrzeugkunde",
         "options": [
           {
             "description": "mindestens 4000 l Löschwasser mitführt",

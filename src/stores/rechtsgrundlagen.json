@@ -3,7 +3,6 @@
   "questions": [
     {
       "title": "Die Gemeinden haben in ihrem Gebiet die Aufgaben,",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "eine leistungsfähige Feuerwehr aufzustellen.",
@@ -25,7 +24,6 @@
     },
     {
       "title": "Aktive Mitglieder der Freiwilligen Feuerwehren sind verpflichtet,",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "an Brandbekämpfungs- und Hilfeleistungseinsätzen teilzunehmen.",
@@ -47,7 +45,6 @@
     },
     {
       "title": "Berufsfeuerwehren müssen aufgestellt werden",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "in Städten mit mehr als 100000 Einwohnern.",
@@ -69,7 +66,6 @@
     },
     {
       "title": "Feuerwehrangehörige dürfen im Einsatz",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "eine Straßensperrung vornehmen.",
@@ -91,7 +87,6 @@
     },
     {
       "title": "Im Alarmfall besteht für aktive Mitglieder einer Freiwilligen Feuerwehr die Verpflichtung,",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "beim Ortsbrandmeister telefonisch zurückzurufen.",
@@ -113,7 +108,6 @@
     },
     {
       "title": "Die Aufnahme als aktives Mitglied in die Freiwillige Feuerwehr",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "ist ab einem Alter von zehn Jahren möglich",
@@ -135,7 +129,6 @@
     },
     {
       "title": "Aufgaben der Gemeinden und Landkreise nach dem Nds. Brandschutzgesetz sind",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "Brandschutz und Hilfeleistung.",
@@ -157,7 +150,6 @@
     },
     {
       "title": "Die Freiwillige Feuerwehr einer Stadt bzw. Gemeinde wird geleitet durch",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "den Stadt-/Gemeindebrandmeister.",
@@ -179,7 +171,6 @@
     },
     {
       "title": "Der feuerwehrtechnische Aufsichtsbeamte des Landkreises ist",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "der Oberkreisdirektor.",
@@ -201,7 +192,6 @@
     },
     {
       "title": "Im Einsatz bei der Anfahrt zum Feuerwehrhaus mit Kraftfahrzeugen",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "ist die Schnelligkeit oberstes Gebot.",
@@ -223,7 +213,6 @@
     },
     {
       "title": "Im Alarmfall dürfen nur Feuerwehrangehörige ausrücken,",
-      "category": "Rechtsgrundlagen",
       "options": [
         {
           "description": "die zwar Alkohol getrunken haben, sich aber noch fit fühlen.",
