@@ -39,7 +39,7 @@ watch(
 
 <template>
   <div class="answer">
-    <input type="checkbox" :name="answerIdentifier" :id="answerIdentifier" :value="description" />
+    <input class="question-input" type="checkbox" :name="answerIdentifier" :id="answerIdentifier" :value="description" />
     <label :class="resultClass" :for="answerIdentifier">{{ description }}</label>
   </div>
 </template>
@@ -54,7 +54,7 @@ watch(
   margin-bottom: 1rem;
 }
 
-label {
+.answer > label {
   width: 100%;
   font-size: 1.3rem;
   padding: 0.7rem;
@@ -62,11 +62,11 @@ label {
   border-radius: 5px;
 }
 
-input:checked ~ label {
+.question-input:checked ~ label {
   border: 2px solid green;
 }
 
-input[type='checkbox'] {
+.question-input[type='checkbox'] {
   display: none;
   padding-right: 0;
   margin-right: 0;

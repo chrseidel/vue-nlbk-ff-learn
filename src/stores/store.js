@@ -5,11 +5,14 @@ import fahrzeugkundeJson from './fahrzeugkunde.json'
 import { ref } from 'vue'
 
 export const useQuestionsStore = defineStore('questions', () => {
-  const rechtsgrundlagen = rechtsgrundlagenJson.questions
-  const brennenUndLoeschen = brennenUndLoeschenJson.questions
-  const fahrzeugkunde = fahrzeugkundeJson.questions
+  const categories = [rechtsgrundlagenJson, brennenUndLoeschenJson, fahrzeugkundeJson].map((json) => ({
+      name: json.category,
+      questions: json.questions,
+      include: true,
+    })
+  )
 
-  const allCategories = rechtsgrundlagen.concat(brennenUndLoeschen).concat(fahrzeugkunde)
+  const selectedQuestions = () => categories.filter((q) => q.include).map((q) => q.questions).reduce((prev, next) => prev.concat(next))
 
   const currentQuestion = ref(0)
 
@@ -25,24 +28,30 @@ export const useQuestionsStore = defineStore('questions', () => {
   }
 
   const nextQuestion = () => {
-    currentQuestion.value = (currentQuestion.value + 1) % allCategories.length
+    currentQuestion.value = (currentQuestion.value + 1) % selectedQuestions().length
   }
 
   const prevQuestion = () => {
     if (currentQuestion.value == 0) {
-      currentQuestion.value = allCategories.length - 1
+      currentQuestion.value = selectedQuestions().length - 1
     } else {
       currentQuestion.value--
     }
   }
 
   const randomQuestions = (size) => {
-    return shuffleArray(allCategories).slice(0, size)
+    return shuffleArray(selectedQuestions()).slice(0, size)
   }
 
   const allQuestions = () => {
-    return allCategories
+    return selectedQuestions()
   }
 
-  return { allQuestions, currentQuestion, nextQuestion, prevQuestion, randomQuestions }
+  const setCategoryInclusion = (name, isInclude) => {
+    categories.filter((c) => c.name == name).forEach((c) => c.include = isInclude)
+  }
+
+  const getCategories = () => categories.map((category) => ({name: category.name, include: category.include}))
+
+  return { setCategoryInclusion, getCategories, allQuestions, currentQuestion, nextQuestion, prevQuestion, randomQuestions }
 })
