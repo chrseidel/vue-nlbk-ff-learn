@@ -1,13 +1,15 @@
 import { defineStore } from 'pinia'
 import rechtsgrundlagenJson from './rechtsgrundlagen.json'
 import brennenUndLoeschenJson from './brennen-und-loeschen.json'
+import fahrzeugkundeJson from './fahrzeugkunde.json'
 import { ref } from 'vue'
 
 export const useQuestionsStore = defineStore('questions', () => {
   const rechtsgrundlagen = rechtsgrundlagenJson.questions
   const brennenUndLoeschen = brennenUndLoeschenJson.questions
+  const fahrzeugkunde = fahrzeugkundeJson.questions
 
-  const allCategories = rechtsgrundlagen.concat(brennenUndLoeschen)
+  const allCategories = rechtsgrundlagen.concat(brennenUndLoeschen).concat(fahrzeugkunde)
 
   const currentQuestion = ref(0)
 

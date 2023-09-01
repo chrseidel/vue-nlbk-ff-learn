@@ -1,0 +1,290 @@
+{
+    "questions": [
+      {
+        "title": "Löschfahrzeuge haben gemäß Einteilung EN 1846-1 den Einsatzzweck:",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "Taktische Einheiten zu Führen.",
+            "correct": false
+          },
+          {
+            "description": "Brandbekämpfung.",
+            "correct": true
+          },
+          {
+            "description": "Retten von Menschen aus größeren Höhen.",
+            "correct": false
+          },
+          {
+            "description": "Einfache technische Hilfeleistung.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Speziell für technische Hilfeleistungen größeren Umfangs sind",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "Löschgruppenfahrzeuge geeignet.",
+            "correct": false
+          },
+          {
+            "description": "Tanklöschfahrzeuge geeignet.",
+            "correct": false
+          },
+          {
+            "description": "Rüstwagen geeignet.",
+            "correct": true
+          },
+          {
+            "description": "alle Feuerwehrfahrzeuge geeignet, die einen speziellen Rüstsatz mitführen.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Ein TSF hat eine ausreichende feuerwehrtechnische Beladung für",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "einen selbstständigen Trupp.",
+            "correct": false
+          },
+          {
+            "description": "eine Löschgruppe.",
+            "correct": true
+          },
+          {
+            "description": "maximal eine Löschstaffel.",
+            "correct": false
+          },
+          {
+            "description": "Einsätze im Bereich der technischen Hilfeleistung größeren Umfangs.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Die Abkürzung FPN 10-1000 bedeutet",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "Feuerpumpe, 800 l/min bei 8 MPa.",
+            "correct": false
+          },
+          {
+            "description": "Feuerlöschkreiselpumpe, Kenndaten: 1000 l/min bei 10 bar.",
+            "correct": true
+          },
+          {
+            "description": "Feuerlöschkreiselpumpe, Kenndaten: 1000 bar bei 10 l/min.",
+            "correct": false
+          },
+          {
+            "description": "fest eingebaute Pumpe (am oder im Löschfahrzeug).",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Auf einem LF 10 wird/werden mitgeführt",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "die vierteilige Steckleiter.",
+            "correct": true
+          },
+          {
+            "description": "die zweiteilige Schiebleiter.",
+            "correct": false
+          },
+          {
+            "description": "die vierteilige Schiebleiter und die dreiteilige Steckleiter.",
+            "correct": false
+          },
+          {
+            "description": "die zweiteilige Schiebleiter und die Multifunktionsleiter.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Zu den Tanklöschfahrzeugen zählt/zählen",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "das LF 10.",
+            "correct": false
+          },
+          {
+            "description": "das TLF 2000.",
+            "correct": true
+          },
+          {
+            "description": "das TSF-W.",
+            "correct": false
+          },
+          {
+            "description": "alle Fahrzeuge mit eingebautem Löschwasserbehälter.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Der Löschwasserbehälter im TLF 3000 enthält mindestens",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "1600 l.",
+            "correct": false
+          },
+          {
+            "description": "2400 l.",
+            "correct": false
+          },
+          {
+            "description": "3000 l.",
+            "correct": true
+          },
+          {
+            "description": "5000 l.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Die Abkürzung „PFPN 10-1000“ steht für",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "eine tragbare Feuerlöschkreiselpumpe.",
+            "correct": true
+          },
+          {
+            "description": "einen Nennförderstrom von 1000 l/min bei einem Nennförderdruck von 10 bar.",
+            "correct": true
+          },
+          {
+            "description": "eine fest eingebaute Kolbenpumpe.",
+            "correct": false
+          },
+          {
+            "description": "tragbare Strahlpumpe.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Zur Gruppe der Löschgruppenfahrzeuge zählt",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "das LF 20.",
+            "correct": true
+          },
+          {
+            "description": "das TLF 2000.",
+            "correct": false
+          },
+          {
+            "description": "das TSF-W.",
+            "correct": false
+          },
+          {
+            "description": "der GW-L 2.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Zu den Tragkraftspritzenfahrzeugen zählt/zählen das",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "LF 10.",
+            "correct": false
+          },
+          {
+            "description": " TSF-W.",
+            "correct": true
+          },
+          {
+            "description": "TroTLF.",
+            "correct": false
+          },
+          {
+            "description": "TSF.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Eine DLAK 23-12 ist:",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "ein Hubrettungsfahrzeug mit Allradantrieb",
+            "correct": false
+          },
+          {
+            "description": "ein Hubrettungsfahrzeug mit automatischen Leiterbewegungen",
+            "correct": true
+          },
+          {
+            "description": "ein Hubrettungsfahrzeug mit Automatikgetriebe",
+            "correct": false
+          },
+          {
+            "description": "ein Hubrettungsfahrzeug mit einer Nennrettungshöhe von 12 m",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Ein MLF",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "ist ein Löschfahrzeug mit Staffelbeladung und Gruppenbesatzung",
+            "correct": false
+          },
+          {
+            "description": "muss über eine PFPN 10-1000 verfügen",
+            "correct": false
+          },
+          {
+            "description": "ist ein Löschfahrzeug mit Beladung für eine Gruppe",
+            "correct": true
+          },
+          {
+            "description": "ist kein genormtes Löschfahrzeug",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Das TLF 4000 ist ein Löschfahrzeug, das",
+        "category": "Fahrzeugkunde",
+        "options": [
+          {
+            "description": "mindestens 4000 l Löschwasser mitführt",
+            "correct": true
+          },
+          {
+            "description": "über eine dreiteilige Schiebleiter verfügen muss",
+            "correct": false
+          },
+          {
+            "description": "mindestens eine Staffelbesatzung mitführen muss",
+            "correct": false
+          },
+          {
+            "description": "über einen Schaummitteltank mit mindestens 500 l Inhalt verfügen muss",
+            "correct": true
+          }
+        ]
+      }
+    ]
+}
