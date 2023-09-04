@@ -1,0 +1,509 @@
+{
+    "category": "Gerätekunde: Rettungsgeräte",
+    "questions": [
+        {
+            "title": "Genormte tragbare Leitern der Feuerwehr sind",
+            "options": [
+                {
+                    "description": "Klappleiter, Steckleiter, Hakenleiter, dreiteilige Schiebleiter.",
+                    "correct": true
+                },
+                {
+                    "description": "Steckleiter, Klappleiter, Trittleiter.",
+                    "correct": false
+                },
+                {
+                    "description": "Steckleiter, zweiteilige Schiebleiter, Trittleiter, Strickleiter.",
+                    "correct": false
+                },
+                {
+                    "description": "Steckleiter, Klappleiter, Multifunktionsleiter, Hakenleiter.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Mit der vierteiligen Steckleiter ist",
+            "options": [
+                {
+                    "description": "eine Rettungshöhe von 8,40 Meter erreichbar.",
+                    "correct": false
+                },
+                {
+                    "description": "das zweite Obergeschoss erreichbar.",
+                    "correct": true
+                },
+                {
+                    "description": "das dritte Obergeschoss erreichbar.",
+                    "correct": false
+                },
+                {
+                    "description": "das erste Obergeschoss bei einem Anstellwinkel von 90° erreichbar.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Die Feuerwehrleine wird Personen zu Rettungszwecken in Form",
+            "options": [
+                {
+                    "description": "eines Rettungsbundes angelegt.",
+                    "correct": true
+                },
+                {
+                    "description": "eines Kreuzknotens angelegt.",
+                    "correct": false
+                },
+                {
+                    "description": "eines Mastwurfes angelegt.",
+                    "correct": false
+                },
+                {
+                    "description": "eines Rettungsknotens angelegt.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Zum Retten und Selbstretten dürfen",
+            "options": [
+                {
+                    "description": "Mehrzweckleinen verwendet werden.",
+                    "correct": false
+                },
+                {
+                    "description": "Feuerwehrleinen verwendet werden.",
+                    "correct": true
+                },
+                {
+                    "description": "alle vorhandenen Leinen verwendet werden.",
+                    "correct": false
+                },
+                {
+                    "description": "geprüfte und hierfür zugelassene Leinen verwendet werden.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Die Feuerwehrleine dient als",
+            "options": [
+                {
+                    "description": "Rettungs- und Führungsleine.",
+                    "correct": true
+                },
+                {
+                    "description": "Halte- und Ventilleine.",
+                    "correct": false
+                },
+                {
+                    "description": "Absperr- und Abschleppleine.",
+                    "correct": false
+                },
+                {
+                    "description": "Mehrzweckleine.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Eine Steckleiter kann in Stellung gebracht werden durch",
+            "options": [
+                {
+                    "description": "den Schlauchtrupp und Melder.",
+                    "correct": true
+                },
+                {
+                    "description": "den Wassertrupp und Melder.",
+                    "correct": true
+                },
+                {
+                    "description": "den vom Gruppenführer beauftragten Trupp und Melder",
+                    "correct": true
+                },
+                {
+                    "description": "Maschinist und Melder.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Steckleiterteile werden durch",
+            "options": [
+                {
+                    "description": "Beschläge gesichert.",
+                    "correct": false
+                },
+                {
+                    "description": "Federfeststellvorrichtung gesichert.",
+                    "correct": false
+                },
+                {
+                    "description": "Federsperrbolzen gesichert.",
+                    "correct": true
+                },
+                {
+                    "description": "Feuerwehrleinen in bestimmten Fällen gesichert.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Es dürfen",
+            "options": [
+                {
+                    "description": "max. drei Steckleiterteile zusammengesteckt werden.",
+                    "correct": false
+                },
+                {
+                    "description": "max. vier Steckleiterteile zusammengesteckt werden.",
+                    "correct": true
+                },
+                {
+                    "description": "max. fünf Steckleiterteile zusammengesteckt werden.",
+                    "correct": false
+                },
+                {
+                    "description": "eine unbegrenzte Anzahl von Steckleiterteilen nach der Vorgabe des Einsatzleiters zusammengesteckt werden.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Beim Aufstellen von tragbaren Leitern ist auf",
+            "options": [
+                {
+                    "description": "einen richtigen Anstellwinkel von ca. 65° bis 75° (mit angewinkeltem Arm prüfen) zu achten",
+                    "correct": true
+                },
+                {
+                    "description": "erforderliche Mindestabstände zu elektrischen Freileitungen zu achten.",
+                    "correct": true
+                },
+                {
+                    "description": "einen ausreichend festen Untergrund zu achten.",
+                    "correct": true
+                },
+                {
+                    "description": "einen sicheren Stand zu achten.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Die Feuerwehrleine",
+            "options": [
+                {
+                    "description": "dient zum Einfangen von Tieren.",
+                    "correct": false
+                },
+                {
+                    "description": "dient als Halteleine für die Saugleitung.",
+                    "correct": false
+                },
+                {
+                    "description": "ist ein Rettungsgerät, das zur ergänzenden persönlichen Ausrüstung gehört.",
+                    "correct": true
+                },
+                {
+                    "description": "dient in bestimmten Fällen als Auffangsicherung.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Der Halbschlag (vgl. nebenstehende Abbildung)",
+            "img": "halbschlag.png",
+            "options": [
+                {
+                    "description": "dient zum Führen von Geräten beim Hochziehen.",
+                    "correct": true
+                },
+                {
+                    "description": "dient nur der Einbindung von zwei Personen auf Krankentragen.",
+                    "correct": false
+                },
+                {
+                    "description": "dient ausschließlich der Sicherung des Auszugseiles der dreiteiligen Schiebleiter.",
+                    "correct": false
+                },
+                {
+                    "description": "dient in bestimmten Fällen als Auffangsicherung beim Retten/Selbstretten\".",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Die Abbildung zeigt einen",
+            "img": "zimmermannstich.png",
+            "options": [
+                {
+                    "description": "Spierenstich.",
+                    "correct": false
+                },
+                {
+                    "description": "Zimmermannstich.",
+                    "correct": true
+                },
+                {
+                    "description": "doppelten Ankerstich.",
+                    "correct": false
+                },
+                {
+                    "description": "einfachen Ankerstich.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Die Abbildung zeigt einen",
+            "img": "schotenstich.png",
+            "options": [
+                {
+                    "description": "Mastwurf.",
+                    "correct": false
+                },
+                {
+                    "description": "Verbindungsknoten (zwei Leinen)",
+                    "correct": true
+                },
+                {
+                    "description": "Schotenstich.",
+                    "correct": true
+                },
+                {
+                    "description": "einen Knoten der bei der Feuerwehr nicht eingesetzt werden darf.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Die Abbildung zeigt einen",
+            "img": "mastwurf.png",
+            "options": [
+                {
+                    "description": "Knoten, der zum Befestigen der Halteleine am vorgesehenen Anschlagpunkt genutzt werden kann.",
+                    "correct": true
+                },
+                {
+                    "description": "Mastwurf.",
+                    "correct": true
+                },
+                {
+                    "description": "Knoten, welcher zum Anschlagen beim Selbstretten Verwendung finden kann.",
+                    "correct": true
+                },
+                {
+                    "description": "einen Befestigungsknoten.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Die Möglichkeiten zur Rettung in Verbindung mit dem Gerätesatz Absturzsicherung beschränken sich auf:",
+            "options": [
+                {
+                    "description": "Erstsicherung des zu Rettenden und lebensrettende Sofortmaßnahmen, die sich auf Erhaltung bzw. Wiederherstellung von Atmung, Kreislauf und Herztätigkeit richten.",
+                    "correct": true
+                },
+                {
+                    "description": "gesichertes Zurückführen aus dem absturzgefährdeten Bereich nur, wenn die zu rettende Person dazu in der Lage ist. Dabei ist der zu rettenden Person ein Auffanggurt anzulegen.",
+                    "correct": true
+                },
+                {
+                    "description": "Ablassen einer Person nach einem Sturz ins Sicherungsseil.",
+                    "correct": true
+                },
+                {
+                    "description": "Selbstrettung.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Beim Einsatz eines Sprungpolsters ist auf folgende(n) Grundsatz/Grundsätze zu achten",
+            "options": [
+                {
+                    "description": "Das Retten mit dem Sprungpolster ist nur zulässig bis zur jeweils bauartbedingten Rettungshöhe.",
+                    "correct": true
+                },
+                {
+                    "description": "Für das Bedienen und das In-Stellung-Bringen des Sprungpolsters wird eine Bedienmannschaft von mindestens sechzehn Feuerwehrangehörigen benötigt.",
+                    "correct": false
+                },
+                {
+                    "description": "Das Sprungpolster darf nicht durch scharfe und heiße Gegenstände beschädigt werden.",
+                    "correct": true
+                },
+                {
+                    "description": "Nach erfolgtem Sprung ist die Person sofort aus dem Sprungpolster zu befreien und das Sprungpolster neu auszurichten.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Mit der dreiteiligen Schiebleiter ist",
+            "options": [
+                {
+                    "description": "eine Rettungshöhe von 13.40 m erreichbar.",
+                    "correct": false
+                },
+                {
+                    "description": "das zweite Obergeschoss erreichbar.",
+                    "correct": false
+                },
+                {
+                    "description": "das dritte Obergeschoss erreichbar.",
+                    "correct": true
+                },
+                {
+                    "description": "das vierte Obergeschoss bei einem Anstellwinkel von 90° erreichbar.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Die Multifunktionsleiter",
+            "options": [
+                {
+                    "description": "ist Standardbeladung auf einem HLF 20.",
+                    "correct": false
+                },
+                {
+                    "description": "ist Standardbeladung auf einem RW.",
+                    "correct": true
+                },
+                {
+                    "description": "ist keine genormte Leiter der Feuerwehr.",
+                    "correct": false
+                },
+                {
+                    "description": "gehört nicht zur Standardbeladung von Feuerwehrfahrzeugen.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Beim Einsatz einer Feuerwehrleine ist zu beachten, dass",
+            "options": [
+                {
+                    "description": "nur neue Leinen eingesetzt werden.",
+                    "correct": false
+                },
+                {
+                    "description": "vor Übungen und nach jeder Benutzung eine Sichtprüfung vom Benutzer durchgeführt wird.",
+                    "correct": true
+                },
+                {
+                    "description": "benutzte Leinen immer dem Gerätewart übergeben werden.",
+                    "correct": false
+                },
+                {
+                    "description": "beschädigte Leinen nicht eingesetzt werden.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Bei Selbstrettungsübungen mit Feuerwehrleinen ist darauf zu achten, dass",
+            "options": [
+                {
+                    "description": "eine zweite Leine als Sicherungsleine benutzt werden muss.",
+                    "correct": true
+                },
+                {
+                    "description": "zur Sicherheit ein Sprungtuch oder -polster vorgenommen wird.",
+                    "correct": false
+                },
+                {
+                    "description": "die maximale Rettungshöhe von 8 m nicht überschritten wird.",
+                    "correct": true
+                },
+                {
+                    "description": "die Sicherungsleine an einem stabilen Befestigungspunkt angeschlagen wird.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Rettungs- und Selbstrettungsübungen dürfen durchgeführt werden bis",
+            "options": [
+                {
+                    "description": "zu max. 8,0 m Höhe.",
+                    "correct": true
+                },
+                {
+                    "description": "max. zum 1. Obergeschoss.",
+                    "correct": false
+                },
+                {
+                    "description": "zu max. 6,0 m Höhe.",
+                    "correct": false
+                },
+                {
+                    "description": "zu einer durch den Übungsleiter vorzugebenden Höhe.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Feuerwehrangehörige werden bei Selbstrettungsübungen gesichert durch",
+            "options": [
+                {
+                    "description": "eine Feuerwehrleine.",
+                    "correct": true
+                },
+                {
+                    "description": "einen Sprungretter.",
+                    "correct": false
+                },
+                {
+                    "description": "eine Aufsichtsperson.",
+                    "correct": false
+                },
+                {
+                    "description": "ein Kernmanteldynamikseil und Auffanggurt.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Welche der aufgeführten Geräte dürfen zum Aufbau einer Standplatzsicherung verwendet werden?",
+            "options": [
+                {
+                    "description": "Sicherungsseil am Feuerwehrhaltegurt.",
+                    "correct": true
+                },
+                {
+                    "description": "Endlosschlingen.",
+                    "correct": false
+                },
+                {
+                    "description": "Bandschlingen und Karabinerhaken.",
+                    "correct": true
+                },
+                {
+                    "description": "Feuerwehrleine und Feuerwehrhaltegurt.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Der Gerätesatz \"Absturzsicherung\" darf",
+            "options": [
+                {
+                    "description": "nur von speziell ausgebildetem Personal eingesetzt werden.",
+                    "correct": true
+                },
+                {
+                    "description": "nur bei der Rettung von Personen genutzt werden.",
+                    "correct": false
+                },
+                {
+                    "description": "bei Feuerwehren gar nicht verwendet werden.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,299 @@
+{
+    "category": "Verhalten bei Gefahr",
+    "questions": [
+      {
+        "title": "Als \"Trümmerschatten\" wird bezeichnet",
+        "options": [
+          {
+            "description": "ein durch Einsturz bedrohter Bereich, nur innerhalb von Gebäuden.",
+            "correct": false
+          },
+          {
+            "description": "ein durch Trümmer schwer einsehbarer Bereich (abgeschatteter) Bereich.",
+            "correct": false
+          },
+          {
+            "description": "ein durch Einsturz bedrohter Bereich.",
+            "correct": true
+          },
+          {
+            "description": "Bereich, in dem man vor herabfallenden Trümmern sicher abgeschattet ist.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Schutzmaßnahmen gegen die Gefahren der Elektrizität sind unter anderem",
+        "options": [
+          {
+            "description": "die Strahlrohreinstellung \"Sprühstrahl\", durch die alle Risiken ausgeschlossen sind.",
+            "correct": false
+          },
+          {
+            "description": "die Einhaltung erforderlicher Mindestabstände.",
+            "correct": true
+          },
+          {
+            "description": "die Verwendung feuerwehreigener Stromquellen.",
+            "correct": true
+          },
+          {
+            "description": "Freischaltung und Erdung.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Den Inhalt von Gasflaschen kann man",
+        "options": [
+          {
+            "description": "nur an der Form der Gasflasche erkennen.",
+            "correct": false
+          },
+          {
+            "description": "an der Farbe der Gasflasche erkennen.",
+            "correct": true
+          },
+          {
+            "description": "am Typenschild erkennen.",
+            "correct": true
+          },
+          {
+            "description": "am Tragegriff und speziellen Bar- bzw. Strichcodes erkennen.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Feuerwehrangehörige haben sich im Einsatz grundsätzlich SO zu verhalten, dass",
+        "options": [
+          {
+            "description": "Eigengefährdungen und die Gefährdung anderen am Einsatz beteiligten Personen vermieden werden.",
+            "correct": true
+          },
+          {
+            "description": "ein Einsatz geordnet abläuft.",
+            "correct": true
+          },
+          {
+            "description": "das Ansehen der Feuerwehr nicht geschädigt wird.",
+            "correct": true
+          },
+          {
+            "description": "das die Schnelligkeit Vorrang vor allem anderen hat.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Atemgifte",
+        "options": [
+          {
+            "description": "sind Stoffe, die über die Atemwege in den Körper eindringen können.",
+            "correct": true
+          },
+          {
+            "description": "sind Stoffe, die über die Hautatmung in den Körper eindringen können",
+            "correct": true
+          },
+          {
+            "description": "sind Stoffe, die im Körper nicht gesundheitsschädigend wirken.",
+            "correct": false
+          },
+          {
+            "description": "können Gase, Dämpfe, Stäube oder Aerosole sein.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Angstreaktion",
+        "options": [
+          {
+            "description": "kann bei Menschen und Tieren auftreten.",
+            "correct": true
+          },
+          {
+            "description": "steht für Kurzschlusshandlungen von Einzelpersonen.",
+            "correct": true
+          },
+          {
+            "description": "führt niemals zu einem Schock.",
+            "correct": false
+          },
+          {
+            "description": "führt in einem verschwindend geringen Umfang zu unüberlegten Handlungen.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Ausbreitung",
+        "options": [
+          {
+            "description": "(z.B. die eines Brandes) ist immer räumlich eingegrenzt.",
+            "correct": false
+          },
+          {
+            "description": "z.B. die eines Brandes) ist die räumliche Ausbreitung über die Brandausbruchstelle hinaus.",
+            "correct": true
+          },
+          {
+            "description": "kann die Folge des Auslaufens von brennbaren Flüssigkeiten sein.",
+            "correct": true
+          },
+          {
+            "description": "zählt man nicht zu den Gefahren der Einsatzstelle.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Atomare Strahlung",
+        "options": [
+          {
+            "description": "ist messtechnisch erfassbar.",
+            "correct": true
+          },
+          {
+            "description": "ist messtechnisch nicht erfassbar.",
+            "correct": false
+          },
+          {
+            "description": "ist nur im ortsfesten Bereich messtechnisch erfassbar.",
+            "correct": false
+          },
+          {
+            "description": "ist im ortsfesten und Transportbereichen nicht messtechnisch erfassbar.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Chemische Stoffe",
+        "options": [
+          {
+            "description": "beinhalten die Gefahr, Schädigungen durch Reizwirkung an Oberflächen entstehen zu lassen.",
+            "correct": true
+          },
+          {
+            "description": "beinhalten die Gefahr, Schädigungen durch Ätzwirkung an Oberflächen entstehen zu lassen.",
+            "correct": true
+          },
+          {
+            "description": "beinhalten Gefahren, die insbesondere auf die Art und Menge sowie Konzentration zurückzuführen sind.",
+            "correct": false
+          },
+          {
+            "description": "sind durch spezielle Kennzeichnungen erkennbar.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Zur Gefahr der Einsatzstelle, Erkrankung/Verletzung zählt/zählen",
+        "options": [
+          {
+            "description": "mechanische Verletzungen.",
+            "correct": true
+          },
+          {
+            "description": "Vergiftungen",
+            "correct": true
+          },
+          {
+            "description": "Übergewicht.",
+            "correct": false
+          },
+          {
+            "description": "Infektionen.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Explosionsgefahren bestehen",
+        "options": [
+          {
+            "description": "wenn eine explosionsfähige Atmosphäre vorliegt.",
+            "correct": true
+          },
+          {
+            "description": "wenn ein Gemisch von brennbaren Gasen/Dämpfen mit Luft innerhalb der Explosionsgrenzen vorliegt.",
+            "correct": true
+          },
+          {
+            "description": "beim Abkühlen von Druckgasflaschen.",
+            "correct": false
+          },
+          {
+            "description": "ein Fliehkraftzerfall droht.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Einsturzgefahren",
+        "options": [
+          {
+            "description": "können ausschließlich bei Gebäuden auftreten.",
+            "correct": false
+          },
+          {
+            "description": "sind möglicherweise auch bei Verkehrsunfällen zu beachten (instabile Lage von Unfallfahrzeugen).",
+            "correct": true
+          },
+          {
+            "description": "können durch falsches Vorgehen der Feuerwehr entstehen.",
+            "correct": true
+          },
+          {
+            "description": "sind auch bei gegebener Absturzgefahr gegeben.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "An einer Einsatzstelle der Feuerwehr kann eine Einsturzgefahr",
+        "options": [
+          {
+            "description": "durch den Abbrand von Bauteilen entstehen.",
+            "correct": true
+          },
+          {
+            "description": "durch eine schnelle Materialprüfung ausgeschlossen werden.",
+            "correct": false
+          },
+          {
+            "description": "durch das Einbringen von Löschwasser in ein Gebäude nicht entstehen.",
+            "correct": false
+          },
+          {
+            "description": "durch die Schwächung von Knotenpunkten in einer Konstruktion gegeben sein.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Gefahren durch Elektrizität können erkannt werden",
+        "options": [
+          {
+            "description": "durch spezielle Gefahren- bzw. Hinweisschilder.",
+            "correct": true
+          },
+          {
+            "description": "anhand von möglichen Defekten (Fehlfunktionen) an elektrischen Betriebsmitteln.",
+            "correct": true
+          },
+          {
+            "description": "anhand von Beschädigungen von Elektroanlagen bzw. -leitungen.",
+            "correct": true
+          },
+          {
+            "description": "anhand von möglichen Defekten (Fehlfunktionen) in Elektroinstallationen.",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  }

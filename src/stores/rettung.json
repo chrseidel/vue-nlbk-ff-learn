@@ -1,0 +1,107 @@
+{
+    "category": "Rettung",
+    "questions": [
+        {
+            "title": "Beim Einsatz einer Krankentrage ist/sind folgende(r) Punkt(e) zu beachten",
+            "options": [
+                {
+                    "description": "Der Einsatz der Krankentrage soll möglichst mit der Decke vorbereitet werden.",
+                    "correct": true
+                },
+                {
+                    "description": "Bei der Lagerung einer verletzten Person finden die Regeln der Ersten Hilfe Verwendung.",
+                    "correct": true
+                },
+                {
+                    "description": "Im Regelfall wird die nicht gehfähige Person mit den Füßen voran getragen.",
+                    "correct": true
+                },
+                {
+                    "description": "Im Regelfall wird die nicht gehfähige Person mit dem Kopf voran getragen.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Das Rettungstuch",
+            "options": [
+                {
+                    "description": "findet standardmäßig immer Verwendung beim Transport von gehfähigen Verletzten.",
+                    "correct": false
+                },
+                {
+                    "description": "dient einem behelfsmäßigen Transport von mehreren Verletzten gleichzeitig.",
+                    "correct": false
+                },
+                {
+                    "description": "kann sehr gut in ungünstigen räumlichen Verhältnissen eingesetzt werden.",
+                    "correct": true
+                },
+                {
+                    "description": "sollte nach Möglichkeit immer von mindestens drei Feuerwehrangehörigen getragen werden.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Verletzungen der Wirbelsäule oder des Beckens",
+            "options": [
+                {
+                    "description": "setzen den Einsatz des Rettungstuches zwingend voraus.",
+                    "correct": false
+                },
+                {
+                    "description": "ist der Einsatz des Rettungstuches auszuschließen.",
+                    "correct": true
+                },
+                {
+                    "description": "setzen nach Möglichkeit eine Absprache mit medizinischem Fachpersonal voraus.",
+                    "correct": true
+                },
+                {
+                    "description": "können generell ohne Rücksprache mit medizinischem Fachpersonal durch die Feuerwehr behandelt werden.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Die Schleifkorbtrage",
+            "options": [
+                {
+                    "description": "kann waagerecht und senkrecht benutzt werden.",
+                    "correct": true
+                },
+                {
+                    "description": "kann dort eingesetzt werden, wo herkömmliche Krankentragen schwierig einsetzbar sind.",
+                    "correct": true
+                },
+                {
+                    "description": "hat den Vorteil, dass man einen Patienten mit dieser auf eine herkömmliche Krankentrage gelagert werden kann, ohne den Patienten umlagern zu müssen.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Nebenstehende Abbildung zeigt ein(e)",
+            "img": "spineboard.png",
+            "options": [
+                {
+                    "description": "Schleifkorbtrage und darf bei der Feuerwehr nur im Katastrophenfall eingesetzt werden.",
+                    "correct": false
+                },
+                {
+                    "description": "Rettungstuchtrage und wird vornehmlich beim Einsatz bei Verdacht auf Wirbelsäulenverletzungen eingesetzt.",
+                    "correct": false
+                },
+                {
+                    "description": "Spineboard.",
+                    "correct": true
+                },
+                {
+                    "description": "Trage, welche insbesondere beim Verdacht auf Wirbelsäulenverletzungen empfehlenswert ist.",
+                    "correct": true
+                }
+            ]
+        }
+    ]
+}

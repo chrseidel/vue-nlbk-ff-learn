@@ -1,0 +1,85 @@
+{
+    "category": "Erste Hilfe (Lebensrettende Sofortmaßnahmen)",
+    "questions": [
+        {
+            "title": "Nach dem Ablöschen von Personen ist",
+            "options": [
+                {
+                    "description": "die verbrannte Bekleidung auf den Wunden zu belassen.",
+                    "correct": true
+                },
+                {
+                    "description": "die verbrannte Bekleidung schnellstmöglich von den Wunden zu entfernen.",
+                    "correct": false
+                },
+                {
+                    "description": "der verletzte Bereich keimfrei mit geeigneten Verbandsmitteln abzudecken.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Eine zu rettende, verletzte Person",
+            "options": [
+                {
+                    "description": "muss bis zur Übergabe (z.B. an den Rettungsdienst) betreut werden.",
+                    "correct": true
+                },
+                {
+                    "description": "muss unverzüglich eine medizinische Erstversorgung erhalten.",
+                    "correct": true
+                },
+                {
+                    "description": "muss einer Überwachung oder Wiederherstellung von Atmung, Kreislauf und Herztätigkeit unterliegen.",
+                    "correct": true
+                },
+                {
+                    "description": "muss aus einer lebens- oder gesundheitsgefährdenden Zwangslage befreit werden.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Zur Ersten Hilfe bei Niederspannungsunfällen zählt man",
+            "options": [
+                {
+                    "description": "das Entfernen des Netzsteckers.",
+                    "correct": true
+                },
+                {
+                    "description": "das Abschalten des Gerätes.",
+                    "correct": true
+                },
+                {
+                    "description": "die Wahl eines isolierenden Standortes des Helfers.",
+                    "correct": true
+                },
+                {
+                    "description": "das Betreuen der Person.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Zu den Selbstschutzregeln nach einer Strahlenunfallmeldung zählt man,",
+            "options": [
+                {
+                    "description": "den Aufenthalt im Bereich einer möglichen Strahlungsquelle SO kurz wie möglich zu gestalten.",
+                    "correct": true
+                },
+                {
+                    "description": "einen möglichst großen Abstand zwischen sich und der Strahlenquelle herzustellen.",
+                    "correct": true
+                },
+                {
+                    "description": "ausschließlich das Tragen der Kontaminationsschutzhaube",
+                    "correct": false
+                },
+                {
+                    "description": "Schutz hinter Mauern o.ä. zu suchen (Abschirmung)",
+                    "correct": true
+                }
+            ]
+        }
+    ]
+}

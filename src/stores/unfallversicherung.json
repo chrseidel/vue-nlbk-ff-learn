@@ -1,0 +1,153 @@
+{
+    "category": "Unfallversicherung",
+    "questions": [
+      {
+        "title": "Die UVV-Feuerwehren hat Gültigkeit",
+        "options": [
+          {
+            "description": "nur bei Übungen.",
+            "correct": false
+          },
+          {
+            "description": "bei Übungen, Ausbildung und im Einsatz.",
+            "correct": true
+          },
+          {
+            "description": "nur im Einsatz.",
+            "correct": false
+          },
+          {
+            "description": "bei Feuerwehrwettbewerben.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Bei einem Feuerwehrdienstunfall",
+        "options": [
+          {
+            "description": "kann bei Bagatellverletzungen auf eine Meldung (Eintrag Verband- bzw. Dienstbuch) verzichtet werden.",
+            "correct": false
+          },
+          {
+            "description": "muss, sofern ärztliche Hilfe in Anspruch genommen worden ist, spätestens nach drei Tagen eine Unfallanzeige auf dem Dienstweg bei der Feuerwehr-Unfallkasse Niedersachsen eingereicht werden.",
+            "correct": true
+          },
+          {
+            "description": "entscheidet ausschließlich der Ortsbrandmeister, wie im Einzelfall zu verfahren ist.",
+            "correct": false
+          },
+          {
+            "description": "sind auch bei Bagatellunfällen (mit geringen Verletzungen) die notwendigen bzw. vorgeschriebenen weiteren Maßnahmen einzuleiten.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Der Unfallversicherungsschutz im Rahmen der Tätigkeiten bei den Freiwilligen Feuerwehren",
+        "options": [
+          {
+            "description": "erstreckt sich auf Arbeitsunfälle (Einsatz, Übungsdienst).",
+            "correct": true
+          },
+          {
+            "description": "erstreckt sich ausschließlich auf Wegeunfälle (auf dem Weg zum Feuerwehrdienst).",
+            "correct": false
+          },
+          {
+            "description": "auch auf Berufskrankheiten.",
+            "correct": true
+          },
+          {
+            "description": "erstreckt sich nur auf Schadensereignisse, die durch die gesetzliche Krankenversicherung nicht abgedeckt sind.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Als versicherte Person im Rahmen der Unfallversicherung",
+        "options": [
+          {
+            "description": "bezeichnet man alle im Feuerwehreinsatz tätigen Personen bei der Erfüllung der Versicherungsvoraussetzungen.",
+            "correct": true
+          },
+          {
+            "description": "die Teilnehmer einschließlich der Ausbilder an feuerwehrtechnischen Ausbildungsveranstaltungen,",
+            "correct": true
+          },
+          {
+            "description": "Helfer, die zur Unterstützung im Einsatzfall herangezogen werden.",
+            "correct": true
+          },
+          {
+            "description": "bezeichnet man alle Personen, die ggf. nichts mit einem Feuerwehreinsatz zu tun haben.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Als versicherte Tätigkeiten (Unfallversicherungsschutz) sind zu nennen:",
+        "options": [
+          {
+            "description": "Angeordneter Ausbildungs- und Übungsdienst",
+            "correct": true
+          },
+          {
+            "description": "Dienstsport (zwecks körperlicher Ertüchtigung)",
+            "correct": true
+          },
+          {
+            "description": "Sitzungen der Gremien einer Feuerwehr",
+            "correct": true
+          },
+          {
+            "description": "sonstige dienstliche Veranstaltungen",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Voraussetzungen für den Leistungsanspruch im Einzelfall (Unfallversicherungsschutz) ist:",
+        "options": [
+          {
+            "description": "Verrichtung einer Freizeittätigkeit vor einem Feuerwehreinsatz.",
+            "correct": false
+          },
+          {
+            "description": "Verrichtung einer versicherten Tätigkeit.",
+            "correct": true
+          },
+          {
+            "description": "Verrichtung einer nicht versicherten Tätigkeit nach einem Feuerwehreinsatz.",
+            "correct": false
+          },
+          {
+            "description": "das Vorliegen eines Unfalls.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Bei einem Schadenseintritt (Unfall) im Feuerwehrdienst",
+        "options": [
+          {
+            "description": "gilt es, eine Meldung an den unmittelbaren Vorgesetzten (Trupp-, Gruppenführer, Ausbilder) abzugeben.",
+            "correct": true
+          },
+          {
+            "description": "ist, soweit erforderlich, der Arzt aufzusuchen.",
+            "correct": true
+          },
+          {
+            "description": "ist dem behandelnden Arzt, sofern möglich, mitzuteilen, dass es sich um einen Feuerwehrdienstunfall handelt.",
+            "correct": true
+          },
+          {
+            "description": "istist bei einer Behandlung durch einen Arzt innerhalb von drei Tagen eine Unfallanzeige auf dem Dienstweg bei der (Feuerwehr-Unfallkasse Niedersachsen) FUK einzureichen.",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  }
+  
