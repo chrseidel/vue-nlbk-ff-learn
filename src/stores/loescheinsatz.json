@@ -1,0 +1,320 @@
+{
+    "category": "Löscheinsatz",
+    "questions": [
+        {
+            "title": "Ein Hydranten Hinweisschild gibt",
+            "options": [
+                {
+                    "description": "den Durchmesser der Versorgungsleitung und die Wassermenge an.",
+                    "correct": true
+                },
+                {
+                    "description": "den Druck und die Wassermenge an.",
+                    "correct": false
+                },
+                {
+                    "description": "den Durchmesser der Versorgungsleitung und die Lage des Hydranten bezogen auf das Schild an.",
+                    "correct": false
+                },
+                {
+                    "description": "die Lage des Hydranten und den Nennaußendurchmesser der Kupplung an.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "B-Schläuche und/oder Schläuche für Schaumrohre werden am Verteiler (in Fließrichtung)",
+            "options": [
+                {
+                    "description": "an der linken Kupplung angeschlossen.",
+                    "correct": false
+                },
+                {
+                    "description": "an der mittleren Kupplung angeschlossen.",
+                    "correct": true
+                },
+                {
+                    "description": "an der rechten Kupplung angeschlossen.",
+                    "correct": false
+                },
+                {
+                    "description": "nach Weisung des Gruppenführers angeschlossen.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Die Aufstellung des einsatzbereit ausgerüsteten Angrifftrupps bei einem Einsatz mit Bereitstellung gemäß FwDV 3 \"Einheiten im Löscheinsatz\" erfolgt",
+            "options": [
+                {
+                    "description": "hinter dem Fahrzeug.",
+                    "correct": false
+                },
+                {
+                    "description": "am Verteiler.",
+                    "correct": true
+                },
+                {
+                    "description": "an den Strahlrohren (vor dem Schaden-Objekt).",
+                    "correct": false
+                },
+                {
+                    "description": "am Objekt/Gebäude.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Für das Kuppeln von zwei Saugschläuchen (Herstellen der Saugleitung) ist gemäß FwDV 3 \"Einheiten im Löscheinsatz\"",
+            "options": [
+                {
+                    "description": "der Maschinist zuständig.",
+                    "correct": false
+                },
+                {
+                    "description": "der Wassertrupp zuständig.",
+                    "correct": true
+                },
+                {
+                    "description": "nur der Wassertruppführer zuständig.",
+                    "correct": false
+                },
+                {
+                    "description": "nur das Wassertruppmitglied zuständig.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Der Schlauchtrupp verlegt Schlauchleitungen für den Angriffstrupp gemäß FwDV 3 \"Einheiten im Löscheinsatz\"",
+            "options": [
+                {
+                    "description": "von der Wasserentnahmestelle zur Pumpe.",
+                    "correct": false
+                },
+                {
+                    "description": "vom Trupp zum Verteiler.",
+                    "correct": true
+                },
+                {
+                    "description": "vom Verteiler zum Trupp.",
+                    "correct": false
+                },
+                {
+                    "description": "nur nach Weisung des Gruppenführers.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Der Angriffstrupp verlegt Schlauchleitungen für sich selbst (fehlender Schlauchtrupp) gemäß FwDV 3 \"Einheiten im Löscheinsatz\"",
+            "options": [
+                {
+                    "description": "vom Verteilen zur Einsatzstelle.",
+                    "correct": true
+                },
+                {
+                    "description": "vom Trupp zum Verteiler.",
+                    "correct": false
+                },
+                {
+                    "description": "nur nach Weisung des Gruppenführers.",
+                    "correct": false
+                },
+                {
+                    "description": "von der Wasserentnahmestelle zur Pumpe",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Die C-Schlauchleitung des Angriffstrupps zwischen Verteiler und Einsatzobjekt verlegt nach der FwDV 3 Einheiten im Löscheinsatz\"",
+            "options": [
+                {
+                    "description": "der Schlauchtrupp.",
+                    "correct": true
+                },
+                {
+                    "description": "der Wassertrupp.",
+                    "correct": false
+                },
+                {
+                    "description": "der Angriffstrupp selbst (bei fehlendem Schlauchtrupp).",
+                    "correct": true
+                },
+                {
+                    "description": "ein durch den Gruppenführer beauftragter Trupp.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Der Innenangriff ist einem Außenangriff vorzuziehen, weil",
+            "options": [
+                {
+                    "description": "keine Leitern erforderlich sind.",
+                    "correct": false
+                },
+                {
+                    "description": "der Brandherd gezielter erreicht wird.",
+                    "correct": false
+                },
+                {
+                    "description": "beim Außenangriff die Fensterscheiben beschädigt werden.",
+                    "correct": false
+                },
+                {
+                    "description": "der Wasserschaden geringer ist.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Ein Brandraum darf",
+            "options": [
+                {
+                    "description": "nur mit äußerster Vorsicht betreten werden.",
+                    "correct": true
+                },
+                {
+                    "description": "bei hoher Dringlichkeit im Ermessen jeder Einsatzkraft betreten werden.",
+                    "correct": false
+                },
+                {
+                    "description": "nur mit Zustimmung des Melders betreten werden.",
+                    "correct": false
+                },
+                {
+                    "description": "unter Verwendung geeigneter Schutzausrüstung und -bekleidung betreten werden.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Im Alarmfall ist beim Aufsitzen",
+            "options": [
+                {
+                    "description": "die in der Feuerwehr-Satzung festgelegte Sitzordnung einzuhalten.",
+                    "correct": false
+                },
+                {
+                    "description": "durch die Sitzordnung die grundsätzliche Aufgabenverteilung zugewiesen.",
+                    "correct": true
+                },
+                {
+                    "description": "die Beachtung der Sitzordnung grundsätzlich unwichtig, weil der Gruppenführer während der Anfahrt zur Einsatzstelle die Einteilung und Aufgabenverteilung sowieso vornimmt.",
+                    "correct": false
+                },
+                {
+                    "description": "darauf zu achten, dass durch die einzelnen Feuerwehrangehörigen nur die Plätze eingenommen werden, deren (gemäß Sitzordnung) zugewiesenen Funktionen sie, u.a. aufgrund ihres Ausbildungsstandes, auch übernehmen können",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Für die Wasserversorgung zwischen Feuerlöschkreiselpumpe und Hydrant sowie Feuerlöschkreiselpumpe und Verteiler kommt nach der FwDV 3 \"Einheiten im Löscheinsatz\"",
+            "options": [
+                {
+                    "description": "der Schlauchtrupp zum Einsatz.",
+                    "correct": false
+                },
+                {
+                    "description": "der Wassertrupp zum Einsatz.",
+                    "correct": true
+                },
+                {
+                    "description": "der Angriffstrupp zum Einsatz.",
+                    "correct": false
+                },
+                {
+                    "description": "der Maschinist (Unterstützung beim Aufbau der Wasserversorgung) zum Einsatz.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Der Strahlrohrführer öffnet das Strahlrohn zur Brandbekämpfung",
+            "options": [
+                {
+                    "description": "an der Rauchgrenze.",
+                    "correct": false
+                },
+                {
+                    "description": "sobald er Wasser am Strahlrohn hat.",
+                    "correct": false
+                },
+                {
+                    "description": "wenn er Flammen und / oder Glut erkennt.",
+                    "correct": true
+                },
+                {
+                    "description": "unter Beachtung von Weisungen des Truppführers.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Nach FwDV 3 \"Einheiten im Löscheinsatz\", obliegen dem Wassertrupp folgende Aufgaben:",
+            "options": [
+                {
+                    "description": "Retten",
+                    "correct": true
+                },
+                {
+                    "description": "Bringt auf Befehl tragbare Leitern in Stellung",
+                    "correct": true
+                },
+                {
+                    "description": "Stellt die Wasserversorgung vom Löschfahrzeug zum Verteilen her",
+                    "correct": true
+                },
+                {
+                    "description": "Stellt die Wasserversorgung zwischen Löschfahrzeug und Wasserentnahmestelle her",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "Gemäß FwDV 3 \"Einheiten im Löscheinsatz\" sind zu unterscheiden:",
+            "options": [
+                {
+                    "description": "der Einsatz mit und ohne Bereitstellung.",
+                    "correct": true
+                },
+                {
+                    "description": "Einsätze neben- und hintereinander bzw. getrennt und geschlossen.",
+                    "correct": false
+                },
+                {
+                    "description": "Selbstständiger Trupp, Staffel und Gruppe und Zug.",
+                    "correct": true
+                },
+                {
+                    "description": "Zugeinsatzformen, technische Hilfeleistung und Strahlenschutzeinsätze.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "\",Schlauchreserven\" müssen berücksichtigt werden,",
+            "options": [
+                {
+                    "description": "damit die Schläuche sauber in Buchten liegen können.",
+                    "correct": false
+                },
+                {
+                    "description": "damit der vorgehende Trupp die notwendige Beweglichkeit und Reichweite erhält.",
+                    "correct": true
+                },
+                {
+                    "description": "um einem möglichen Mangel an Rollschläuchen vorzubeugen.",
+                    "correct": false
+                },
+                {
+                    "description": "um für beschädigte Feuerlöschschläuche Ersatz vorzuhalten.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

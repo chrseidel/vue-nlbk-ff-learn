@@ -1,0 +1,131 @@
+{
+    "category": "Technische Hilfeleistung",
+    "questions": [
+      {
+        "title": "Eine unter elektrischer Spannung stehende Leitung ist vollständig von dem Leitungsroller abzurollen",
+        "options": [
+          {
+            "description": "wegen der Gefahr einer unzulässig hohen Erwärmung.",
+            "correct": true
+          },
+          {
+            "description": "wegen einer Gefährdung des Flugfunkverkehrs.",
+            "correct": false
+          },
+          {
+            "description": "zwecks Sichtkontrolle auf Beschädigungen.",
+            "correct": false
+          },
+          {
+            "description": "zwecks Kontrolle der Länge der Leitung.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Die Sicherungsaufgaben werden bei der technischen Hilfeleistung im Allgemeinen vom",
+        "options": [
+          {
+            "description": "Angriffstrupp wahrgenommen.",
+            "correct": false
+          },
+          {
+            "description": "Wassertrupp wahrgenommen.",
+            "correct": true
+          },
+          {
+            "description": "Schlauchtrupp wahrgenommen.",
+            "correct": false
+          },
+          {
+            "description": "Melder und Maschinist wahrgenommen.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Zu den Aufgaben des Wassertrupps bei der technischen Hilfeleistung zählen",
+        "options": [
+          {
+            "description": "Sicherung der Einsatzstelle gegen fließenden Straßenverkehr.",
+            "correct": true
+          },
+          {
+            "description": "Sicherung der Einsatzstelle gegen Gefahren (z.B. Dunkelheit)",
+            "correct": true
+          },
+          {
+            "description": "Sicherung der Einsatzstelle gegen Brandgefahr.",
+            "correct": true
+          },
+          {
+            "description": "Lagefeststellung sowie Informationsübertragung.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "title": "Zu den Aufgaben des Maschinisten gehört im technischen Hilfeleistungseinsatz",
+        "options": [
+          {
+            "description": "die Einsatzstelle zu sichern (z.B. Einschalten der Warnblinkanlage, Fahrlicht und blaues Blinklicht).",
+            "correct": true
+          },
+          {
+            "description": "Unterstützung bei der Entnahme der Geräte.",
+            "correct": true
+          },
+          {
+            "description": "Unterstützung bei der Entnahme (Vornahme) des Schnellangriffsschlauches.",
+            "correct": true
+          },
+          {
+            "description": "die Verantwortung für die richtige Verlastung von eingesetzten Einsatzmitteln nach dem Einsatz.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "An Einsatzstellen hat der eingesetzte Trupp beim Einsatz von hydraulischen Rettungsgeräten folgendes zu beachten:",
+        "options": [
+          {
+            "description": "Vorgehen nach eigenem Ermessen",
+            "correct": false
+          },
+          {
+            "description": "Vorgehen nach Weisung des zuständigen Gruppenführers",
+            "correct": true
+          },
+          {
+            "description": "Vorgehen nur nach Wunsch der Unfallopfer",
+            "correct": false
+          },
+          {
+            "description": "ggf. Vorgehen nach Absprache des GF mit dem Rettungsdienstpersonal.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "title": "Welche Aufgaben übernimmt der Schlauchtrupp bei TH Einsätzen?",
+        "options": [
+          {
+            "description": "Er sorgt für die Bereitstellung der erforderlichen Einsatzmittel.",
+            "correct": true
+          },
+          {
+            "description": "Er stellt den Brandschutz sicher.",
+            "correct": false
+          },
+          {
+            "description": "Er wird zum Geräte Trupp.",
+            "correct": true
+          },
+          {
+            "description": "Er übernimmt nur die Betreuung von betroffenen Personen",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  }
