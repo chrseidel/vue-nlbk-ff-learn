@@ -10,11 +10,11 @@
         },
         {
           "description": "die Aus- und Fortbildung der Feuerwehrangehörigen sicherzustellen.",
-          "correct": false
+          "correct": true
         },
         {
           "description": "eine Feuerwehrtechnische Zentrale (FTZ) einzurichten.",
-          "correct": true
+          "correct":false
         },
         {
           "description": "den Brandschutz und Hilfeleistung sicherzustellen.",
