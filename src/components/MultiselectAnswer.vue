@@ -35,11 +35,19 @@ watch(
     showResult.value = newVal
   }
 )
+
+const isChecked = ref(false)
+
+const isCorrectlyMarked = () => isChecked.value == props.isCorrect
+defineExpose({
+  isCorrectlyMarked
+})
+
 </script>
 
 <template>
   <div class="answer">
-    <input class="question-input" type="checkbox" :name="answerIdentifier" :id="answerIdentifier" :value="description" />
+    <input class="question-input" type="checkbox" :name="answerIdentifier" :id="answerIdentifier" v-model="isChecked"/>
     <label :class="resultClass" :for="answerIdentifier">{{ description }}</label>
   </div>
 </template>
