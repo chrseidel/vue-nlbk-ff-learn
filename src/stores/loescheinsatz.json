@@ -157,7 +157,7 @@
                 },
                 {
                     "description": "der Brandherd gezielter erreicht wird.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "description": "beim Außenangriff die Fensterscheiben beschädigt werden.",
@@ -165,7 +165,7 @@
                 },
                 {
                     "description": "der Wasserschaden geringer ist.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -240,7 +240,7 @@
                     "correct": false
                 },
                 {
-                    "description": "sobald er Wasser am Strahlrohn hat.",
+                    "description": "sobald er Wasser am Strahlrohr hat.",
                     "correct": false
                 },
                 {
