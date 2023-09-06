@@ -2,7 +2,7 @@
 
 <template>
   <nav>
-    <router-link to="/questions">Üben</router-link>
+    <router-link to="/questions">Lernen</router-link>
     <router-link to="/test-training">Test</router-link>
     <router-link to="/settings">Einstellungen</router-link>
   </nav>
