@@ -17,8 +17,13 @@ const emit = defineEmits(['pageSwitch'])
 
 const questionElements = ref([])
 const currentQuestionIndex = ref(0)
+const showQuestions = ref([])
+const showResultMode = ref(false)
 
-const isVisible = (index) => currentQuestionIndex.value == index
+
+const isVisible = (index) => {
+  return (!showResultMode.value && currentQuestionIndex.value == index) || showQuestions.value.includes(index)
+}
 
 const nextQuestion = () => {
   currentQuestionIndex.value = (currentQuestionIndex.value + 1) % props.questions.length
@@ -31,17 +36,24 @@ const prevQuestion = () => {
 }
 
 const numCorrectAnswers = ()=>  questionElements.value.filter((e) => e.isAnswerCorrect()).length
+const getWrongAnswers = () => questionElements.value.filter((e) => !e.isAnswerCorrect())
+const show = (questionsIndexes) => {
+  showResultMode.value = true
+  showQuestions.value = questionsIndexes
+}
 
 defineExpose({
   nextQuestion,
   prevQuestion,
-  numCorrectAnswers
+  numCorrectAnswers,
+  getWrongAnswers,
+  show
 })
 
 </script>
 
 <template>
-  <p>{{ currentQuestionIndex+1 }} / {{ questions.length }}</p>
+  <p class="progress" v-show="!showResultMode">{{ currentQuestionIndex+1 }} / {{ questions.length }} – {{ questions[currentQuestionIndex].category }}</p>
   <MultiselectQuestion
     v-for="(q, index) in questions"
     :key="q.title"
@@ -58,4 +70,10 @@ defineExpose({
   display: flex;
   flex-direction: column;
 }
+
+.progress {
+  font-size: small;
+}
+
+
 </style>

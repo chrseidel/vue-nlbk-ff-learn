@@ -21,9 +21,11 @@ const hasImage = Object.prototype.hasOwnProperty.call(props.question, 'img')
 
 const options = ref([])
 const isAnswerCorrect = () => options.value.map(o => o.isCorrectlyMarked()).every((o) => o == true)
+const getQuestionIndex = () => props.questionIndex
 
 defineExpose({
-  isAnswerCorrect
+  isAnswerCorrect,
+  getQuestionIndex
 })
 
 </script>

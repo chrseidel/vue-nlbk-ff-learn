@@ -6,7 +6,7 @@ import { ref } from 'vue'
 const questionsStore = useQuestionsStore()
 const questions = ref(questionsStore.randomQuestions(20))
 const questionSetCmpnt = ref(null)
-const showQuestions = ref(true)
+const showButtons = ref(true)
 const resultsVisible = ref(false)
 
 const numCorrectAnswers = ref(null)
@@ -21,26 +21,35 @@ const onPageSwitch = (pageIndex) => {
 
 const isFirstPage = ref(true)
 const isLastPage = ref(false)
+const showSolution = ref(false)
 
 const showResults = () => {
   numCorrectAnswers.value = questionSetCmpnt.value.numCorrectAnswers()
-  showQuestions.value = false
+  const wrongAnswers = questionSetCmpnt.value.getWrongAnswers()
+  const wrongAnswerIndexes = wrongAnswers.map((a) => a.getQuestionIndex())
+  questionSetCmpnt.value.show(wrongAnswerIndexes)
+  
   resultsVisible.value = true
+  showSolution.value = true
+  showButtons.value = false
 }
 
 </script>
 
 <template>
   <div id="main">
-    <QuestionSet v-if="showQuestions" :questions="questions" :show-results=false ref="questionSetCmpnt" @page-switch="(newPage) => onPageSwitch(newPage)"/>
-    <div v-if="showQuestions" id="control">
+    <div v-if="resultsVisible">
+      <h1 class="result">{{ numCorrectAnswers }} / {{ questions.length }} Fragen korrekt.</h1>
+      <h1 v-if="numCorrectAnswers == questions.length" class="result" >🎉</h1>
+      <h1 v-if="numCorrectAnswers < questions.length" >Falsch beantwortete Fragen:</h1>
+    </div>
+    <QuestionSet :questions="questions" :show-results=showSolution ref="questionSetCmpnt" @page-switch="(newPage) => onPageSwitch(newPage)"/>
+    <div v-if="showButtons" id="control">
       <button :disabled="isFirstPage" id="btn-prev" @click="prevQuestion()">Zurück</button>
       <button v-show="!isLastPage" id="btn-next" @click="nextQuestion()">Weiter</button>
       <button v-show="isLastPage" id="btn-finish" @click="showResults()">Lösen</button>
     </div>
-    <div v-if="resultsVisible">
-      <p>{{ numCorrectAnswers }} / {{ questions.length }} Fragen korrekt.</p>
-    </div>
+
   </div>
 </template>
 
@@ -88,5 +97,11 @@ button {
 #btn-prev[disabled] {
   color: lightgrey;
   border: 1px solid lightgrey
+}
+
+.result {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bolder;
 }
 </style>

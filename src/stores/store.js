@@ -32,7 +32,7 @@ export const useQuestionsStore = defineStore('questions', () => {
     UnfallVersicherungJson
   ].map((json) => ({
       name: json.category,
-      questions: json.questions,
+      questions: json.questions.map((q) => ({ ...q, category: json.category})),
       include: true,
     })
   )

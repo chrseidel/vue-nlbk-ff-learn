@@ -39,7 +39,7 @@ const prevQuestion = () => {
 
 <template>
   <div id="main">
-    <QuestionSet :questions="questions" :show-results="showResult" ref="questionSet"/>
+    <QuestionSet :questions="questions" :show-results="showResult" ref="questionSet" :show-questions="[]"/>
     <div id="control">
       <button id="btn-prev" @click="prevQuestion()">zurück</button>
       <button v-if="isCheckBtnVisible" id="btn-check" @click="checkAnswers()">Lösung</button>
