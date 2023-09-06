@@ -81,7 +81,7 @@
           },
           {
             "description": "bezeichnet man alle Personen, die ggf. nichts mit einem Feuerwehreinsatz zu tun haben.",
-            "correct": true
+            "correct":false
           }
         ]
       },
