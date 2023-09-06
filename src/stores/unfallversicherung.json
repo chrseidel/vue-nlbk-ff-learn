@@ -102,7 +102,7 @@
           },
           {
             "description": "sonstige dienstliche Veranstaltungen",
-            "correct": false
+            "correct": true
           }
         ]
       },
