@@ -9,6 +9,7 @@ const questions = ref(questionsStore.allQuestions())
 const isCheckBtnVisible = ref(true)
 const isNextBtnVisisble = ref(false)
 const showResult = ref(false)
+const questionSet = ref(null)
 
 const checkAnswers = () => {
   showNextButton()
@@ -18,7 +19,7 @@ const checkAnswers = () => {
 const nextQuestion = () => {
   showResult.value = false
   showCheckButton()
-  questionsStore.nextQuestion()
+  questionSet.value.nextQuestion()
 }
 
 const showNextButton = () => {
@@ -30,13 +31,17 @@ const showCheckButton = () => {
   isCheckBtnVisible.value = true
   isNextBtnVisisble.value = false
 }
+
+const prevQuestion = () => {
+  questionSet.value.prevQuestion()
+}
 </script>
 
 <template>
   <div id="main">
-    <QuestionSet :questions="questions" :show-results="showResult" />
+    <QuestionSet :questions="questions" :show-results="showResult" ref="questionSet" :show-questions="[]"/>
     <div id="control">
-      <button id="btn-prev" @click="questionsStore.prevQuestion()">zurück</button>
+      <button id="btn-prev" @click="prevQuestion()">zurück</button>
       <button v-if="isCheckBtnVisible" id="btn-check" @click="checkAnswers()">Lösung</button>
       <button v-if="isNextBtnVisisble" id="btn-next" @click="nextQuestion()">weiter</button>
     </div>

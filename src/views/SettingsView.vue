@@ -26,4 +26,8 @@ const setCategoryInclusionStatus = (event) => {
 .category-label {
   margin-left: 1rem;
 }
+
+ul {
+  list-style-type: none;
+}
 </style>

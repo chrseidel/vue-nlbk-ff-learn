@@ -1,6 +1,5 @@
 <script setup>
 import MultiselectAnswer from './MultiselectAnswer.vue'
-import { useQuestionsStore } from '../stores/store'
 import { ref } from 'vue'
 
 const props = defineProps({
@@ -18,21 +17,23 @@ const props = defineProps({
   }
 })
 
-const calcVisibility = () => questionsStore.currentQuestion === props.questionIndex
-const questionsStore = useQuestionsStore()
-const isVisible = ref(calcVisibility())
 const hasImage = Object.prototype.hasOwnProperty.call(props.question, 'img')
-questionsStore.$subscribe(() => {
-  isVisible.value = calcVisibility()
+
+const options = ref([])
+const isAnswerCorrect = () => options.value.map(o => o.isCorrectlyMarked()).every((o) => o == true)
+const getQuestionIndex = () => props.questionIndex
+
+defineExpose({
+  isAnswerCorrect,
+  getQuestionIndex
 })
-// const publicPath = ref(process.env.BASE_URL)
+
 </script>
 
 <template>
-  <div class="question" v-show="isVisible">
+  <div class="question">
     <p class="title">
-      <i>{{ questionIndex + 1 }}</i
-      >{{ question.title }}
+      {{ question.title }}
     </p>
     <img v-if="hasImage" :src="'/images/' + question.img"/>
     <MultiselectAnswer
@@ -41,6 +42,7 @@ questionsStore.$subscribe(() => {
       :description="o.description"
       :is-correct="o.correct"
       :show-results="showResults"
+      ref="options"
     />
   </div>
 </template>
@@ -50,12 +52,12 @@ questionsStore.$subscribe(() => {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .title {
-  font-weight: 700;
-  padding-bottom: 2rem;
+  font-weight: bolder;
+  padding-bottom: 1rem;
 }
 
 .title > i {

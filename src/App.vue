@@ -2,7 +2,8 @@
 
 <template>
   <nav>
-    <router-link to="/questions">Fragen</router-link>
+    <router-link to="/questions">Lernen</router-link>
+    <router-link to="/test-training">Test</router-link>
     <router-link to="/settings">Einstellungen</router-link>
   </nav>
   <main>
@@ -31,7 +32,7 @@ a {
 }
 
 main {
-  padding-top: 3rem;
+  margin-top: 6rem;
   width: 100%;
 }
 
