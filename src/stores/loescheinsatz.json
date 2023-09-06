@@ -6,7 +6,7 @@
             "options": [
                 {
                     "description": "den Durchmesser der Versorgungsleitung und die Wassermenge an.",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "description": "den Druck und die Wassermenge an.",
@@ -14,7 +14,7 @@
                 },
                 {
                     "description": "den Durchmesser der Versorgungsleitung und die Lage des Hydranten bezogen auf das Schild an.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "description": "die Lage des Hydranten und den Nennaußendurchmesser der Kupplung an.",
