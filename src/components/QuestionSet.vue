@@ -53,6 +53,7 @@ defineExpose({
 </script>
 
 <template>
+  <div>
   <p class="progress" v-show="!showResultMode">{{ currentQuestionIndex+1 }} / {{ questions.length }} – {{ questions[currentQuestionIndex].category }}</p>
   <MultiselectQuestion
     v-for="(q, index) in questions"
@@ -63,6 +64,7 @@ defineExpose({
     ref="questionElements"
     v-show="isVisible(index)"
   />
+</div>
 </template>
 
 <style scoped>

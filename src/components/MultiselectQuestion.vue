@@ -38,6 +38,7 @@ defineExpose({
     <img v-if="hasImage" :src="'/images/' + question.img"/>
     <MultiselectAnswer
       v-for="o in question.options"
+      :question-index="questionIndex"
       :key="o.description"
       :description="o.description"
       :is-correct="o.correct"

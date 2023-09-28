@@ -13,6 +13,10 @@ const props = defineProps({
   showResults: {
     type: Boolean,
     required: true
+  },
+  questionIndex: {
+    type: Number,
+    required: true
   }
 })
 
@@ -21,12 +25,14 @@ const hashCode = (s) =>
     a = (a << 5) - a + b.charCodeAt(0)
     return a & a
   }, 0)
-const descriptionHash = hashCode(props.description)
+
+const descriptionHash = hashCode(props.description + props.questionIndex)
 const answerIdentifier = ref(descriptionHash)
 const showResult = ref(false)
 
 const resultClass = computed(() => ({
-  correct: showResult.value && props.isCorrect
+  correct: showResult.value && props.isCorrect,
+  wrong: showResult.value && !props.isCorrect
 }))
 
 watch(
@@ -60,6 +66,7 @@ defineExpose({
   justify-content: flex-start;
   width: 100%;
   margin-bottom: 1rem;
+  position: relative;
 }
 
 .answer > label {
@@ -68,6 +75,10 @@ defineExpose({
   padding: 0.7rem;
   border: 2px solid lightgray;
   border-radius: 5px;
+}
+
+.answer > label {
+  cursor: pointer;
 }
 
 .question-input:checked ~ label {
@@ -84,4 +95,21 @@ defineExpose({
   background-color: green;
   color: white;
 }
+
+.question-input:not(:checked) ~ .correct::after, .question-input:checked ~ .wrong::after {
+  display: block;
+  position: absolute;
+  content: "❌";
+  top: 1rem;
+  left: -1.9rem;
+}
+
+.question-input:checked ~ .correct::after, .question-input:not(:checked) ~ .wrong::after {
+  display: block;
+  position: absolute;
+  content: "✅";
+  top: 1rem;
+  left: -1.9rem;
+}
+
 </style>

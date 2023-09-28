@@ -79,13 +79,13 @@ button {
 }
 
 #btn-next {
-  background-color: green;
-}
-
-#btn-check {
   border: 1px solid green;
   color: black;
   background-color: white;
+}
+
+#btn-finish {
+  background-color: green;
 }
 
 #btn-prev {
