@@ -1892,6 +1892,27 @@
       ]
     },
     {
+      "title": "Was versteht man im Atemschutz unter truppweisem Vorgehen",
+      "options": [
+        {
+          "description": "Ein Trupp besteht grundsätzlich nur aus zwei AGT.",
+          "correct": false
+        },
+        {
+          "description": "Der Trupp rüstet sich gemeinsam aus.",
+          "correct": true
+        },
+        {
+          "description": "Die Truppmitglieder gehen auf „Tuchfühlung“, halten untereinander ständigen Kontakt.",
+          "correct": true
+        },
+        {
+          "description": "Der Trupp darf sich zum Rückzug trennen, wenn ein Truppmitglied einen deutlich größeren Luftvorrat hat und noch weiter unter Atemschutz tätig sein kann.",
+          "correct": false
+        }
+      ]
+    },
+    {
       "title": "Worauf ist beim Betreten von Brandräumen zu achten?",
       "options": [
         {
