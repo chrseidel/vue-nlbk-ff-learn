@@ -451,11 +451,11 @@
         },
         {
           "description": "in Abständen von 3 Jahren",
-          "correct": false
+          "correct": true
         },
         {
           "description": "alle 2 Jahre",
-          "correct": true
+          "correct": false
         },
         {
           "description": "ggf. in kürzeren Abständen nach Ermessen des ermächtigten Arztes",
@@ -535,7 +535,7 @@
         },
         {
           "description": "auch Geräte verschiedener Hersteller in einem Trupp zusammen eingesetzt werden dürfen.",
-          "correct": false
+          "correct": true
         },
         {
           "description": "Filtergeräte und Pressluftatmer nicht zusammen eingesetzt werden dürfen.",
@@ -690,7 +690,7 @@
         },
         {
           "description": "die Schlauchleitung.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -728,7 +728,7 @@
         },
         {
           "description": "die Eignungsuntersuchung der Gerätegruppe 2 für das Tragen von Filtergeräten mit Kombinationsfilter erforderlich ist.",
-          "correct": false
+          "correct": true
         },
         {
           "description": "die Eignungsuntersuchung ausschließlich im Ermessen des zuständigen Arztes erfolgt.",
@@ -816,12 +816,12 @@
         },
         {
           "description": "ist abhängig von den Lagerbedingungen.",
-          "correct": true
+          "correct": false
         }
       ]
     },
     {
-      "title": "Beim Einsatz eines Filtergerätes (ABEK 2-P3):",
+      "title": "Beim Einsatz eines Filtergerätes (ABEK 2-P 3):",
       "options": [
         {
           "description": "muss die Umluft genügend Sauerstoff enthalten (mind. 17 Vol.-%).",
@@ -833,11 +833,11 @@
         },
         {
           "description": "die Umluft darf kein Kohlenmonoxid (CO) und max. 0,5 Vol.-% gesundheitsschädliche Stoffe enthalten.",
-          "correct": false
+          "correct": true
         },
         {
           "description": "muss der Gruppenführer den Einsatz von Filtergeräten angeordnet haben.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -854,11 +854,11 @@
         },
         {
           "description": "ein hohes Rückhaltevermögen.",
-          "correct": false
+          "correct": true
         },
         {
           "description": "ein maximales Rückhaltevermögen.",
-          "correct": true
+          "correct": false
         }
       ]
     },
@@ -917,7 +917,7 @@
         },
         {
           "description": "bei Vegetationsbränden",
-          "correct": false
+          "correct": true
         },
         {
           "description": "unter Beachtung der Einsatzgrenzen und im Ermessen des Einsatzleiters",
@@ -942,7 +942,7 @@
         },
         {
           "description": "zu den Filtergeräten",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -959,7 +959,7 @@
         },
         {
           "description": "Flaschengerät",
-          "correct": true
+          "correct": false
         },
         {
           "description": "umluftunabhängiges Atemschutzgerät",
@@ -1035,11 +1035,11 @@
       "options": [
         {
           "description": "1600 Liter",
-          "correct": false
+          "correct": true
         },
         {
           "description": "1800 Liter",
-          "correct": true
+          "correct": false
         },
         {
           "description": "1400 Liter",
@@ -1068,7 +1068,7 @@
         },
         {
           "description": "muss unverzüglich die Atemschutzüberwachung informiert werden.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -1089,7 +1089,7 @@
         },
         {
           "description": "nach Weisung des Gruppenführers",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -1098,11 +1098,11 @@
       "options": [
         {
           "description": "18 Minuten",
-          "correct": false
+          "correct": true
         },
         {
           "description": "12 Minuten",
-          "correct": true
+          "correct": false
         },
         {
           "description": "36 Minuten",
@@ -1131,7 +1131,7 @@
         },
         {
           "description": "das Erreichen des Einsatzortes der Atemschutzüberwachung mitteilen.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -1144,11 +1144,11 @@
         },
         {
           "description": "40 l/min",
-          "correct": false
+          "correct": true
         },
         {
           "description": "50 l/min",
-          "correct": true
+          "correct": false
         },
         {
           "description": "20 l/min",
@@ -1194,7 +1194,7 @@
         },
         {
           "description": "von der Bauart des Lungenautomaten",
-          "correct": true
+          "correct": false
         }
       ]
     },
@@ -1245,7 +1245,7 @@
       "options": [
         {
           "description": "„Mayday; hier <Funkrufname>, <Standort>, <Lage>, melden - mayday!“",
-          "correct": true
+          "correct": false
         },
         {
           "description": "„Hilfe, Hilfe; hier <Funkrufname>, <Standort>, <Lage> - kommen!“",
@@ -1278,7 +1278,7 @@
         },
         {
           "description": "Der Flüssigkeitsverlust der Einsatzkräfte ist durch geeignete Getränke (z.B. Apfelschorle) auszugleichen.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -1371,7 +1371,7 @@
       "options": [
         {
           "description": "Vollständig bis zum Anschlag und dann eine halbe Umdrehung wieder zurück, um die Spannungen aus den Gewindegängen des Ventils herauszunehmen.",
-          "correct": true
+          "correct": false
         },
         {
           "description": "Eine halbe Umdrehung reicht aus, um den Pressluftatmer schneller einsatzbereit zu bekommen.",
@@ -1379,7 +1379,7 @@
         },
         {
           "description": "Vollständig bis zum Anschlag, um das Risiko eines selbstständigen Schließens des Flaschenventils zu reduzieren.",
-          "correct": false
+          "correct": true
         },
         {
           "description": "Es gibt keine speziellen Vorgaben.",
@@ -1409,7 +1409,7 @@
       ]
     },
     {
-      "title": "Ein AGT hat sich im Innenangriff überlastet und hat das Gefühl entkräftet zu sein und nicht genügend Atemluft zu bekommen:",
+      "title": "Ein AGT hat sich im Innenangriff überlastet und hat das Gefühl entkräftet zu sein und nicht genügend Atemluft zu bekommen.",
       "options": [
         {
           "description": "Er funkt sofort Mayday und wartet auf Rettung.",
@@ -1426,6 +1426,27 @@
         {
           "description": "Er versucht, Ruhe zu bewahren.",
           "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Ein AGT hat sich im Innenangriff überlastet und hat das Gefühl entkräftet zu sein und nicht genügend Atemluft zu bekommen.",
+      "options": [
+        {
+          "description": "Er informiert sein Truppmitglied.",
+          "correct": true
+        },
+        {
+          "description": "Er entlastet durch Anheben des PA den Brustraum und führt sich durch vorübergehendes Drücken des Spülknopfes am Lungenautomat dauerhaft Luft zu",
+          "correct": true
+        },
+        {
+          "description": "Nach Stabilisierung der Situation zieht sich der Trupp gemeinsam zurück",
+          "correct": true
+        },
+        {
+          "description": "Eine Lagemeldung muss in dieser Situation nicht gegeben werden",
+          "correct": false
         }
       ]
     },
@@ -1459,7 +1480,7 @@
         },
         {
           "description": "ist der erste Ansprechpartner für Lagemeldungen der vorgehenden Atemschutztrupps.",
-          "correct": true
+          "correct": false
         },
         {
           "description": "bestimmt das Vorgehen der AGT-Trupps.",
@@ -1585,11 +1606,11 @@
         },
         {
           "description": "den Schadstoffanteil der Luft beim Einsatz von Filtern im Freien.",
-          "correct": false
+          "correct": true
         },
         {
           "description": "den grundsätzlichen Atemluftverbrauch von 50 l/min unter wärmeisolierender Schutzkleidung.",
-          "correct": true
+          "correct": false
         },
         {
           "description": "die Art der Schutzkleidung, z.B. CSA.",
@@ -1619,149 +1640,128 @@
       ]
     },
     {
-      "title": "Ein Filtergerät ist abhängig von",
+      "title": "Atemgifte können konzentriert auftreten",
       "options": [
         {
-          "description": "Nur von der Menge, nicht von der Art der Schadstoffe.",
-          "correct": false
-        },
-        {
-          "description": "Zeit.",
+          "description": "in geschlossenen Räumen.",
           "correct": true
         },
         {
-          "description": "Sauerstoffanteil der Umgebungsluft.",
+          "description": "in tiefer liegenden Räumen.",
           "correct": true
         },
         {
-          "description": "Ort.",
+          "description": "in Industrieanlagen, in denen chemische Prozesse stattfinden.",
+          "correct": true
+        },
+        {
+          "description": "auf freiem Feld.",
           "correct": false
         }
       ]
     },
     {
-      "title": "Eine Eignungsuntersuchung ist erforderlich für",
+      "title": "Mit konzentrierten Atemgiften ist zu rechnen",
       "options": [
         {
-          "description": "Fluchtgeräte.",
+          "description": "bei Biogasanlagen.",
+          "correct": true
+        },
+        {
+          "description": "nur im Innenangriff.",
           "correct": false
         },
         {
-          "description": "Für die Gerätegruppe 2, Filtergeräte (ABEK 2-P3).",
+          "description": "bei Bränden von Kunststoff verarbeitenden Betrieben.",
           "correct": true
         },
         {
-          "description": "Für die Gerätegruppe 3, für frei tragbare Isoliergeräte über 5 kg.",
-          "correct": true
-        },
-        {
-          "description": "Für Filtergeräte mit Partikelfilterklasse P1 und P2.",
+          "description": "nur bei dichtem Rauch.",
           "correct": false
         }
       ]
     },
     {
-      "title": "Womit muss bei der Rettung von Personen mit einem Filter-Fluchtgerät gerechnet werden?",
+      "title": "Ein Einsatz unter Atemschutz",
       "options": [
         {
-          "description": "Die Person kann problemlos durch den Rauch hindurchgeführt werden.",
+          "description": "ist bei einer akuten Erkältungskrankheit nicht zulässig.",
+          "correct": true
+        },
+        {
+          "description": "ist bereits nach einem Tag nach Abklingen einer fiebrigen Erkrankung möglich.",
           "correct": false
         },
         {
-          "description": "Panikreaktionen.",
+          "description": "soll bei verminderter Leistungsfähigkeit nicht durchgeführt werden.",
           "correct": true
         },
         {
-          "description": "Bewusstseinstrübung durch Sauerstoffknappheit.",
-          "correct": true
-        },
-        {
-          "description": "Das Fluchtgerät ist nach der Entnahme aus der Originalverpackung sofort einsatzbereit.",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "title": "Zu den allgemeinen Grundsätzen beim Einsatz unter Atemschutz gehört",
-      "options": [
-        {
-          "description": "Die Eigenverantwortlichkeit des AGT.",
-          "correct": true
-        },
-        {
-          "description": "Der AGT muss aktuell körperlich und fachlich geeignet sein.",
-          "correct": true
-        },
-        {
-          "description": "Die Mindeststärke bei Einsatz von Isoliergeräten beträgt 2 + 2 AGT (Sicherheitstrupp).",
-          "correct": true
-        },
-        {
-          "description": "Die Einsatzkurzprüfung vor dem Einsatz.",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "title": "Zum Einsatz unter Atemschutz gehört",
-      "options": [
-        {
-          "description": "Eine rechtzeitige Ablösung des AGT, so dass zum Einsatzende noch ausreichend Atemluft zur Verfügung steht.",
-          "correct": true
-        },
-        {
-          "description": "Eine Ruhepause zwischen zwei Einsätzen unter Isoliergerät ist grundsätzlich nicht erforderlich.",
-          "correct": false
-        },
-        {
-          "description": "Nach dem Einsatz ist ein Flüssigkeitsausgleich mit alkoholischen Getränken sinnvoll.",
-          "correct": false
-        },
-        {
-          "description": "Im Einsatz stark verschmutzte Schutzkleidung kann bedenkenlos im Mannschaftsraum transportiert werden.",
+          "description": "darf erst 12 Stunden nach dem Ausüben einer Ausdauersportart erfolgen.",
           "correct": false
         }
       ]
     },
     {
-      "title": "Beim Einsatz von wärmeisolierender Schutzkleidung ist zu beachten",
+      "title": "Das Tragegestell eines Behältergerätes",
       "options": [
         {
-          "description": "Nach starker Kontamination besteht beim Ablegen des Pressluftatmers durch den Austritt von Gefahrstoffe aus der Schutzkleidung eine Gefahr für die Gesundheit.",
+          "description": "gewährleistet bei richtiger Einstellung eine gleichmäßige Gewichtsverteilung.",
           "correct": true
         },
         {
-          "description": "Die Schutzkleidung muss sich in jeder Körperhaltung überdecken.",
+          "description": "garantiert einen sicheren Transport der Atemluftflasche im Einsatz.",
           "correct": true
         },
         {
-          "description": "Wärmeisolierende Schutzkleidung kann beliebig kombiniert werden.",
+          "description": "dient zum individuellen Anbringen von Haltern für persönliches Werkzeug.",
           "correct": false
         },
         {
-          "description": "Wärmeisolierende Schutzkleidung bedarf keiner besonderen Pflege und kann haushaltstypisch gereinigt werden.",
-          "correct": false
+          "description": "unterliegt der Sichtprüfung durch den AGT vor Einsatzbeginn.",
+          "correct": true
         }
       ]
     },
     {
-      "title": "Was versteht man im Atemschutz unter truppweisem Vorgehen?",
+      "title": "Der Einsatz unter Atemschutz ist gefährlich. Mögliche Unfallursachen sind:",
       "options": [
         {
-          "description": "Ein Trupp besteht grundsätzlich nur aus zwei AGT.",
-          "correct": false
-        },
-        {
-          "description": "Der Trupp rüstet sich gemeinsam aus.",
+          "description": "Der Trupp trennt sich im Innenangriff.",
           "correct": true
         },
         {
-          "description": "Die Truppmitglieder gehen auf „Tuchfühlung“, halten untereinander ständigen Kontakt.",
+          "description": "Der Angriffsweg führt am Feuer vorbei.",
           "correct": true
         },
         {
-          "description": "Der Trupp darf sich zum Rückzug trennen, wenn ein Truppmitglied einen deutlich größeren Luftvorrat hat und noch weiter unter Atemschutz tätig sein kann.",
+          "description": "Restalkohol oder Nebenwirkungen von Medikamenten wirken sich nicht aus.",
           "correct": false
+        },
+        {
+          "description": "Die Gebäudestruktur ist instabil.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Beim Einsatz unter Atemschutz kann es im Innenangriff zu schweren Unfällen kommen. Mögliche Ursachen sind:",
+      "options": [
+        {
+          "description": "Die Wasserversorgung wird unterbrochen.",
+          "correct": true
+        },
+        {
+          "description": "Eine anhaltend extrem hohe Raumtemperatur spielt beim Tragen der wärmeisolierenden Schutzkleidung keine Rolle.",
+          "correct": false
+        },
+        {
+          "description": "Die Atemschutzüberwachung muss sich nur die vorgehenden Trupps merken. Deren Aufenthaltsort ist nicht relevant.",
+          "correct": false
+        },
+        {
+          "description": "Eine bevorstehende Rauchgasdurchzündung wird nicht rechtzeitig erkannt.",
+          "correct": true
         }
       ]
     },
@@ -1824,7 +1824,7 @@
         },
         {
           "description": "Das Fluchtgerät ist nach der Entnahme aus der Originalverpackung sofort einsatzbereit.",
-          "correct": true
+          "correct": false
         }
       ]
     },
@@ -1887,27 +1887,6 @@
         },
         {
           "description": "Wärmeisolierende Schutzkleidung bedarf keiner besonderen Pflege und kann haushaltstypisch gereinigt werden.",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "title": "Was versteht man im Atemschutz unter truppweisem Vorgehen?",
-      "options": [
-        {
-          "description": "Ein Trupp besteht grundsätzlich nur aus zwei AGT.",
-          "correct": false
-        },
-        {
-          "description": "Der Trupp rüstet sich gemeinsam aus.",
-          "correct": true
-        },
-        {
-          "description": "Die Truppmitglieder gehen auf „Tuchfühlung“, halten untereinander ständigen Kontakt.",
-          "correct": true
-        },
-        {
-          "description": "Der Trupp darf sich zum Rückzug trennen, wenn ein Truppmitglied einen deutlich größeren Luftvorrat hat und noch weiter unter Atemschutz tätig sein kann.",
           "correct": false
         }
       ]
@@ -1925,7 +1904,7 @@
         },
         {
           "description": "Eine Wärmebildkamera gewährleistet beim Absuchen von stark verrauchten Räumen eine ausreichende Orientierung.",
-          "correct": true
+          "correct": false
         },
         {
           "description": "Eine Sprechfunkverbindung ist zur Verständigung mit dem Einheitsführer und der Atemschutzüberwachung erforderlich.",
@@ -2127,7 +2106,7 @@
       "options": [
         {
           "description": "Bei der Handballendichtprobe wird die Atemschutzmaske mit der anderen Hand festgehalten und nicht an das Gesicht gedrückt.",
-          "correct": false
+          "correct": true
         },
         {
           "description": "Die Dichtprobe wird nach dem Aufsetzen der Flammschutzhaube und des Helms nicht wiederholt.",
@@ -2232,7 +2211,7 @@
       "options": [
         {
           "description": "da eine erhöhte Löschmittelabgabe mit starker Dampfbildung einhergeht.",
-          "correct": false
+          "correct": true
         },
         {
           "description": "weil die Gefahrensituationen noch nicht eingeschätzt werden können.",
@@ -2240,7 +2219,7 @@
         },
         {
           "description": "da erforderliche Handlungsabläufe noch nicht eingespielt sind.",
-          "correct": true
+          "correct": false
         },
         {
           "description": "wenn nicht umfangreiches theoretisches Wissen angeeignet worden ist.",
