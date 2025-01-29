@@ -1,35 +1,9 @@
 import { defineStore } from 'pinia'
-import rechtsgrundlagenJson from './rechtsgrundlagen.json'
-import brennenUndLoeschenJson from './brennen-und-loeschen.json'
-import fahrzeugkundeJson from './fahrzeugkunde.json'
-import persoenlicheAusruestungJson from './persoenliche-ausruestung.json'
-import geraetekundeJson from './geraetekunde-loeschgeraete.json'
-import geraetekundeRettungsgeraeteJson from './geraetekunde-rettungsgeraete.json'
-import geraetekundeGeraeteTHJson from './geraetekunde-einfache-t-h.json'
-import geraetekundeSonstigeJson from './geraetekunde-sonstige-geraete.json'
-import rettungJson from './rettung.json'
-import ersteHilfeJson from './erste-hilfe.json'
-import loescheinsatzJson from './loescheinsatz.json'
-import technischeHilfeleistungJson from './technische-hilfeleistung.json'
-import verhaltenBeiGefahrJson from './verhalten-bei-gefahr.json'
-import UnfallVersicherungJson from './unfallversicherung.json'
+import agtJson from './agt.json'
 
 export const useQuestionsStore = defineStore('questions', () => {
   const categories = [
-    rechtsgrundlagenJson, 
-    brennenUndLoeschenJson, 
-    fahrzeugkundeJson, 
-    persoenlicheAusruestungJson, 
-    geraetekundeJson,
-    geraetekundeRettungsgeraeteJson,
-    geraetekundeGeraeteTHJson,
-    geraetekundeSonstigeJson,
-    rettungJson,
-    ersteHilfeJson,
-    loescheinsatzJson,
-    technischeHilfeleistungJson,
-    verhaltenBeiGefahrJson,
-    UnfallVersicherungJson
+    agtJson
   ].map((json) => ({
       name: json.category,
       questions: json.questions.map((q) => ({ ...q, category: json.category})),
