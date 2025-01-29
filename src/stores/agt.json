@@ -149,169 +149,148 @@
       ]
     },
     {
-      "title": "Besondere Gefahren beim Innenangriff unter Atemschutz entstehen, wenn",
+      "title": "Die atmosphärische Luft setzt sich zusammen:",
       "options": [
         {
-          "description": "unzureichende oder unvollständige persönliche Schutzkleidung getragen wird.",
-          "correct": true
-        },
-        {
-          "description": "sich Brände schnell und unkontrolliert ausbreiten.",
-          "correct": true
-        },
-        {
-          "description": "Innen- und Außenangriff nicht grundsätzlich gleichzeitig durchgeführt werden.",
+          "description": "20% Sauerstoff, 78% Stickstoff, 2% Wasserdampf",
           "correct": false
         },
         {
-          "description": "vorgehende Einsatzkräfte praxisnah ausgebildet worden sind.",
+          "description": "21% Sauerstoff, 79% Stickstoff",
+          "correct": false
+        },
+        {
+          "description": "21% Sauerstoff, 0,96% Edelgase, 0,04% Kohlendioxid, 78% Stickstoff",
+          "correct": true
+        },
+        {
+          "description": "17% Sauerstoff, 0,96% Edelgase, 4,04% Kohlenmonoxid, 78% Stickstoff",
           "correct": false
         }
       ]
     },
     {
-      "title": "Nach einem Innenangriff in einem stark verrauchten Gebäude",
+      "title": "Die Ausatemluft besteht aus:",
       "options": [
         {
-          "description": "ist die wärmeisolierende Schutzkleidung durch den Brandrauch kontaminiert.",
+          "description": "78% Stickstoff, 4,04% Kohlendioxid, 17% Sauerstoff, Rest Edelgase",
           "correct": true
         },
         {
-          "description": "gibt die Schutzkleidung Atemgifte ab.",
-          "correct": true
-        },
-        {
-          "description": "genügt es immer, die Schutzkleidung bis zum nächsten Gebrauch an einen gut gelüfteten Ort aufzuhängen.",
+          "description": "78% Stickstoff, 0,04% Kohlendioxid, 21% Sauerstoff, Rest Edelgase",
           "correct": false
         },
         {
-          "description": "muss unmittelbar nach dem Ablegen des Atemanschlusses mit dem Flüssigkeitsausgleich begonnen werden.",
+          "description": "78% Stickstoff, ca. 4% Edelgase, 17% Sauerstoff, Rest Kohlendioxid",
+          "correct": false
+        },
+        {
+          "description": "78% Stickstoff, 4% Kohlenoxid (CO), 17% Sauerstoff, Rest Kohlendioxid",
           "correct": false
         }
       ]
     },
     {
-      "title": "Beim Anlegen des Atemanschlusses ist zu beachten:",
+      "title": "Für den Sauerstofftransport im Blut ist zuständig:",
       "options": [
         {
-          "description": "Bei der Handballendichtprobe wird die Atemschutzmaske mit der anderen Hand festgehalten und nicht an das Gesicht gedrückt.",
+          "description": "das Blutplasma",
           "correct": false
         },
         {
-          "description": "Die Dichtprobe wird nach dem Aufsetzen der Flammschutzhaube und des Helms nicht wiederholt.",
+          "description": "die weißen Blutkörperchen",
           "correct": false
         },
         {
-          "description": "Die Atemanschlüsse sind so funktional aufgebaut, dass auf ein gleichmäßiges Anziehen der Bebänderung verzichtet werden kann.",
-          "correct": false
-        },
-        {
-          "description": "Die Herstellerangaben sind zu beachten.",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "title": "Wie wird ein Brand im Innenangriff bekämpft?",
-      "options": [
-        {
-          "description": "mit Vollstrahl mit hohen Durchflussraten.",
-          "correct": false
-        },
-        {
-          "description": "mit einem Hohlstrahlrohr kann zu Beginn eine Rauchgaskühlung durchgeführt werden.",
+          "description": "das Hämoglobin der roten Blutkörperchen",
           "correct": true
         },
         {
-          "description": "die Löschwasserabgabe darf nicht unterbrochen werden.",
-          "correct": false
-        },
-        {
-          "description": "das Strahlrohr wird dynamisch geführt, um zu starke Dampfbildung und Wasserschäden zu vermeiden.",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "title": "Die Einsatzkurzprüfung",
-      "options": [
-        {
-          "description": "muss auch nach dem Wechsel des Lungenautomaten durchgeführt werden.",
-          "correct": true
-        },
-        {
-          "description": "entscheidet darüber, ob ein Isoliergerät eingesetzt werden darf oder nicht.",
-          "correct": true
-        },
-        {
-          "description": "ist nur erforderlich, wenn der Pressluftatmer auf einem Feuerwehrfahrzeug verlastet wird.",
-          "correct": false
-        },
-        {
-          "description": "kann im Fahrzeug unvollständig ausgeführt werden, wenn die Anfahrtszeit sehr kurz ist.",
+          "description": "die Blutplättchen",
           "correct": false
         }
       ]
     },
     {
-      "title": "Die wärmeisolierende Schutzkleidung",
+      "title": "Die Atmung hat die Funktion:",
       "options": [
         {
-          "description": "wird durch die Flammschutzhaube ergänzt.",
-          "correct": true
-        },
-        {
-          "description": "kann ihre Schutzwirkung verlieren, wenn diese z.B. durch eine Rauchgasdurchzündung thermisch belastet worden ist.",
-          "correct": true
-        },
-        {
-          "description": "kann in einer üblichen Haushaltswaschmaschine gereinigt werden.",
+          "description": "dem Körper Kohlendioxid zuzuführen.",
           "correct": false
         },
         {
-          "description": "bietet durch die integrierte Dampfsperre auch bei Dampfentwicklung infolge von Löschwassereinsatz ausreichend Schutz.",
+          "description": "dass in den Zellen beim Stoffwechsel entstehende Kohlendioxid an die Umgebung abzuführen.",
+          "correct": true
+        },
+        {
+          "description": "den Körperzellen lebenswichtigen Sauerstoff zuzuführen.",
+          "correct": true
+        },
+        {
+          "description": "den Körper zu entschlacken.",
           "correct": false
         }
       ]
     },
     {
-      "title": "Nach dem Einsatz unter Isoliergerät",
+      "title": "Der Luftverbrauch beträgt bei mittelschwerer Arbeit etwa:",
       "options": [
         {
-          "description": "ist der Geräteträger immer und zu jeder Zeit ausreichend gegen Atemgifte geschützt.",
+          "description": "40 - 50 l/min.",
+          "correct": true
+        },
+        {
+          "description": "60 - 80 l/min.",
           "correct": false
         },
         {
-          "description": "besteht durch die Schutzkleidung die Gefahr der Kontaminationsverschleppung.",
-          "correct": true
+          "description": "20 - 30 l/min.",
+          "correct": false
         },
         {
-          "description": "kann es zur Aufnahme von Gefahrstoffen durch Hautresorption kommen.",
-          "correct": true
-        },
-        {
-          "description": "gebrauchte Isoliergeräte werden gemeinsam mit den verschmutzten Schläuchen im Fußraum der Mannschaftskabine mitgeführt.",
+          "description": "15 - 35 l/min.",
           "correct": false
         }
       ]
     },
     {
-      "title": "Die ersten Tätigkeiten eines AGT im Innenangriff müssen unter erfahrener Führung erfolgen,",
+      "title": "Der mittlere Atemluftverbrauch eines unter PA arbeitenden Menschen mit wärmeisolierender Schutzkleidung beträgt:",
       "options": [
         {
-          "description": "da eine erhöhte Löschmittelabgabe mit starker Dampfbildung einhergeht.",
+          "description": "20 l/min",
           "correct": false
         },
         {
-          "description": "weil die Gefahrensituationen noch nicht eingeschätzt werden können.",
+          "description": "80 l/min",
           "correct": true
         },
         {
-          "description": "da erforderliche Handlungsabläufe noch nicht eingespielt sind.",
+          "description": "50 l/min",
+          "correct": false
+        },
+        {
+          "description": "90 l/min",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der Pressluftatmer ist ein:",
+      "options": [
+        {
+          "description": "Isoliergerät.",
           "correct": true
         },
         {
-          "description": "wenn nicht umfangreiches theoretisches Wissen angeeignet worden ist.",
+          "description": "Behältergerät mit Sauerstoff.",
+          "correct": false
+        },
+        {
+          "description": "Flaschengerät mit Filter.",
+          "correct": false
+        },
+        {
+          "description": "umluftabhängiges Atemschutzgerät.",
           "correct": false
         }
       ]
@@ -1787,153 +1766,6 @@
       ]
     },
     {
-      "title": "Die atmosphärische Luft setzt sich zusammen:",
-      "options": [
-        {
-          "description": "20% Sauerstoff, 78% Stickstoff, 2% Wasserdampf",
-          "correct": false
-        },
-        {
-          "description": "21% Sauerstoff, 79% Stickstoff",
-          "correct": false
-        },
-        {
-          "description": "21% Sauerstoff, 0,96% Edelgase, 0,04% Kohlendioxid, 78% Stickstoff",
-          "correct": true
-        },
-        {
-          "description": "17% Sauerstoff, 0,96% Edelgase, 4,04% Kohlenmonoxid, 78% Stickstoff",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "title": "Die Ausatemluft besteht aus:",
-      "options": [
-        {
-          "description": "78% Stickstoff, 4,04% Kohlendioxid, 17% Sauerstoff, Rest Edelgase",
-          "correct": true
-        },
-        {
-          "description": "78% Stickstoff, 0,04% Kohlendioxid, 21% Sauerstoff, Rest Edelgase",
-          "correct": false
-        },
-        {
-          "description": "78% Stickstoff, ca. 4% Edelgase, 17% Sauerstoff, Rest Kohlendioxid",
-          "correct": false
-        },
-        {
-          "description": "78% Stickstoff, 4% Kohlenoxid (CO), 17% Sauerstoff, Rest Kohlendioxid",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "title": "Für den Sauerstofftransport im Blut ist zuständig:",
-      "options": [
-        {
-          "description": "das Blutplasma",
-          "correct": false
-        },
-        {
-          "description": "die weißen Blutkörperchen",
-          "correct": false
-        },
-        {
-          "description": "das Hämoglobin der roten Blutkörperchen",
-          "correct": true
-        },
-        {
-          "description": "die Blutplättchen",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "title": "Die Atmung hat die Funktion:",
-      "options": [
-        {
-          "description": "dem Körper Kohlendioxid zuzuführen.",
-          "correct": false
-        },
-        {
-          "description": "dass in den Zellen beim Stoffwechsel entstehende Kohlendioxid an die Umgebung abzuführen.",
-          "correct": true
-        },
-        {
-          "description": "den Körperzellen lebenswichtigen Sauerstoff zuzuführen.",
-          "correct": true
-        },
-        {
-          "description": "den Körper zu entschlacken.",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "title": "Der Luftverbrauch beträgt bei mittelschwerer Arbeit etwa:",
-      "options": [
-        {
-          "description": "40 - 50 l/min.",
-          "correct": true
-        },
-        {
-          "description": "60 - 80 l/min.",
-          "correct": false
-        },
-        {
-          "description": "20 - 30 l/min.",
-          "correct": false
-        },
-        {
-          "description": "15 - 35 l/min.",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "title": "Der mittlere Atemluftverbrauch eines unter PA arbeitenden Menschen mit wärmeisolierender Schutzkleidung beträgt:",
-      "options": [
-        {
-          "description": "20 l/min",
-          "correct": false
-        },
-        {
-          "description": "80 l/min",
-          "correct": true
-        },
-        {
-          "description": "50 l/min",
-          "correct": false
-        },
-        {
-          "description": "90 l/min",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "title": "Der Pressluftatmer ist ein:",
-      "options": [
-        {
-          "description": "Isoliergerät.",
-          "correct": true
-        },
-        {
-          "description": "Behältergerät mit Sauerstoff.",
-          "correct": false
-        },
-        {
-          "description": "Flaschengerät mit Filter.",
-          "correct": false
-        },
-        {
-          "description": "umluftabhängiges Atemschutzgerät.",
-          "correct": false
-        }
-      ]
-    },
-    {
       "title": "Ein Filtergerät ist abhängig von",
       "options": [
         {
@@ -2244,6 +2076,174 @@
         },
         {
           "description": "Konditionelle Schwächen können durch die vorherige Einnahme eines Energy Drinks ausgeglichen werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Besondere Gefahren beim Innenangriff unter Atemschutz entstehen, wenn",
+      "options": [
+        {
+          "description": "unzureichende oder unvollständige persönliche Schutzkleidung getragen wird.",
+          "correct": true
+        },
+        {
+          "description": "sich Brände schnell und unkontrolliert ausbreiten.",
+          "correct": true
+        },
+        {
+          "description": "Innen- und Außenangriff nicht grundsätzlich gleichzeitig durchgeführt werden.",
+          "correct": false
+        },
+        {
+          "description": "vorgehende Einsatzkräfte praxisnah ausgebildet worden sind.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Nach einem Innenangriff in einem stark verrauchten Gebäude",
+      "options": [
+        {
+          "description": "ist die wärmeisolierende Schutzkleidung durch den Brandrauch kontaminiert.",
+          "correct": true
+        },
+        {
+          "description": "gibt die Schutzkleidung Atemgifte ab.",
+          "correct": true
+        },
+        {
+          "description": "genügt es immer, die Schutzkleidung bis zum nächsten Gebrauch an einen gut gelüfteten Ort aufzuhängen.",
+          "correct": false
+        },
+        {
+          "description": "muss unmittelbar nach dem Ablegen des Atemanschlusses mit dem Flüssigkeitsausgleich begonnen werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Beim Anlegen des Atemanschlusses ist zu beachten:",
+      "options": [
+        {
+          "description": "Bei der Handballendichtprobe wird die Atemschutzmaske mit der anderen Hand festgehalten und nicht an das Gesicht gedrückt.",
+          "correct": false
+        },
+        {
+          "description": "Die Dichtprobe wird nach dem Aufsetzen der Flammschutzhaube und des Helms nicht wiederholt.",
+          "correct": false
+        },
+        {
+          "description": "Die Atemanschlüsse sind so funktional aufgebaut, dass auf ein gleichmäßiges Anziehen der Bebänderung verzichtet werden kann.",
+          "correct": false
+        },
+        {
+          "description": "Die Herstellerangaben sind zu beachten.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Wie wird ein Brand im Innenangriff bekämpft?",
+      "options": [
+        {
+          "description": "mit Vollstrahl mit hohen Durchflussraten.",
+          "correct": false
+        },
+        {
+          "description": "mit einem Hohlstrahlrohr kann zu Beginn eine Rauchgaskühlung durchgeführt werden.",
+          "correct": true
+        },
+        {
+          "description": "die Löschwasserabgabe darf nicht unterbrochen werden.",
+          "correct": false
+        },
+        {
+          "description": "das Strahlrohr wird dynamisch geführt, um zu starke Dampfbildung und Wasserschäden zu vermeiden.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Die Einsatzkurzprüfung",
+      "options": [
+        {
+          "description": "muss auch nach dem Wechsel des Lungenautomaten durchgeführt werden.",
+          "correct": true
+        },
+        {
+          "description": "entscheidet darüber, ob ein Isoliergerät eingesetzt werden darf oder nicht.",
+          "correct": true
+        },
+        {
+          "description": "ist nur erforderlich, wenn der Pressluftatmer auf einem Feuerwehrfahrzeug verlastet wird.",
+          "correct": false
+        },
+        {
+          "description": "kann im Fahrzeug unvollständig ausgeführt werden, wenn die Anfahrtszeit sehr kurz ist.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die wärmeisolierende Schutzkleidung",
+      "options": [
+        {
+          "description": "wird durch die Flammschutzhaube ergänzt.",
+          "correct": true
+        },
+        {
+          "description": "kann ihre Schutzwirkung verlieren, wenn diese z.B. durch eine Rauchgasdurchzündung thermisch belastet worden ist.",
+          "correct": true
+        },
+        {
+          "description": "kann in einer üblichen Haushaltswaschmaschine gereinigt werden.",
+          "correct": false
+        },
+        {
+          "description": "bietet durch die integrierte Dampfsperre auch bei Dampfentwicklung infolge von Löschwassereinsatz ausreichend Schutz.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Nach dem Einsatz unter Isoliergerät",
+      "options": [
+        {
+          "description": "ist der Geräteträger immer und zu jeder Zeit ausreichend gegen Atemgifte geschützt.",
+          "correct": false
+        },
+        {
+          "description": "besteht durch die Schutzkleidung die Gefahr der Kontaminationsverschleppung.",
+          "correct": true
+        },
+        {
+          "description": "kann es zur Aufnahme von Gefahrstoffen durch Hautresorption kommen.",
+          "correct": true
+        },
+        {
+          "description": "gebrauchte Isoliergeräte werden gemeinsam mit den verschmutzten Schläuchen im Fußraum der Mannschaftskabine mitgeführt.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die ersten Tätigkeiten eines AGT im Innenangriff müssen unter erfahrener Führung erfolgen,",
+      "options": [
+        {
+          "description": "da eine erhöhte Löschmittelabgabe mit starker Dampfbildung einhergeht.",
+          "correct": false
+        },
+        {
+          "description": "weil die Gefahrensituationen noch nicht eingeschätzt werden können.",
+          "correct": true
+        },
+        {
+          "description": "da erforderliche Handlungsabläufe noch nicht eingespielt sind.",
+          "correct": true
+        },
+        {
+          "description": "wenn nicht umfangreiches theoretisches Wissen angeeignet worden ist.",
           "correct": false
         }
       ]
