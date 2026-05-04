@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia'
-import agtJson from './agt.json'
+import agtJson from './maschi.json'
 
 export const useQuestionsStore = defineStore('questions', () => {
   const categories = [

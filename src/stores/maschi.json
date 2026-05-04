@@ -1,0 +1,229 @@
+{
+  "category": "Maschinisten-Lehrgang NABK (Fragen 1-25)",
+  "questions": [
+    {
+      "title": "Nach Fahrten mit Feuerwehrfahrzeugen erfolgt die Eintragung in das Fahrtenbuch durch den:",
+      "options": [
+        { "description": "Gruppenführer", "correct": false },
+        { "description": "Einsatzleiter", "correct": false },
+        { "description": "Maschinisten", "correct": true },
+        { "description": "Ortsbrandmeister", "correct": false }
+      ]
+    },
+    {
+      "title": "Bei Feststellung von Mängeln am Fahrzeug muss der Maschinist z.B.:",
+      "options": [
+        { "description": "unverzüglich Meldung machen", "correct": true },
+        { "description": "das Fahrzeug auf dem nächsten Dienst reparieren", "correct": false },
+        { "description": "den Kreisbrandmeister telefonisch informieren", "correct": false },
+        { "description": "abwarten bis zum nächsten Werkstattbesuch", "correct": false }
+      ]
+    },
+    {
+      "title": "Die Aufgabe des Maschinisten ist z.B.:",
+      "options": [
+        { "description": "nach Eintreffen an der Einsatzstelle beendet, da er nur zu fahren hat", "correct": false },
+        { "description": "das Ankuppeln von Schläuchen an die Pumpe", "correct": true },
+        { "description": "zu den Strahlrohren die Schlauchverbindung herzustellen", "correct": false },
+        { "description": "die Trupps bei der Entnahme von Geräten aus dem Fahrzeug zu unterstützen", "correct": true }
+      ]
+    },
+    {
+      "title": "Wer ist für die Wiederherstellung der Einsatzbereitschaft des Fahrzeugs nach dem Einsatz zuständig?",
+      "options": [
+        { "description": "Der Einsatzleiter", "correct": false },
+        { "description": "Der Maschinist", "correct": true },
+        { "description": "Der Fahrzeugführer", "correct": false },
+        { "description": "Der Ortsbrandmeister", "correct": false }
+      ]
+    },
+    {
+      "title": "Über die Inanspruchnahme der Sonder- und Wegerechte entscheidet:",
+      "options": [
+        { "description": "Der Gerätewart", "correct": false },
+        { "description": "Der Maschinist", "correct": false },
+        { "description": "Der Einheitsführer", "correct": true },
+        { "description": "Der Angriffstruppführer", "correct": false }
+      ]
+    },
+    {
+      "title": "Wie kann der Löschwasserbehälter eines Tanklöschfahrzeuges gefüllt werden?",
+      "options": [
+        { "description": "durch den Domdeckel", "correct": true },
+        { "description": "über den Entwässerungshahn", "correct": false },
+        { "description": "von der Pumpe aus", "correct": true },
+        { "description": "über den B-Füllstutzen", "correct": true }
+      ]
+    },
+    {
+      "title": "In welchen Fällen darf die Feuerwehr Sonder- und Wegerechte in Anspruch nehmen?",
+      "options": [
+        { "description": "in jedem Falle", "correct": false },
+        { "description": "nur zur Absicherung eines Festumzuges", "correct": false },
+        { "description": "nur zur Erfüllung hoheitlicher Aufgaben bei höchster Eile", "correct": true },
+        { "description": "wenn der Maschinist der Meinung ist", "correct": false }
+      ]
+    },
+    {
+      "title": "Welche Aufgabe hat der Maschinist bei einem Steckleitereinsatz?",
+      "options": [
+        { "description": "Er gibt nur die erforderlichen Leiterteile vom Fahrzeug", "correct": false },
+        { "description": "Er gibt die Steckleiter komplett vom Fahrzeug", "correct": true },
+        { "description": "Er gibt die Anzahl der benötigten Leiterteile an", "correct": false },
+        { "description": "Er hilft dem vorgehenden Trupp bei der Vornahme der Leiter", "correct": true }
+      ]
+    },
+    {
+      "title": "Wer überprüft nach Einsätzen oder Übungen die Vollständigkeit der Geräte und meldet sie dem Gruppenführer?",
+      "options": [
+        { "description": "Der Trupp, der die Geräte benutzt hat", "correct": false },
+        { "description": "Der Melder", "correct": false },
+        { "description": "Der Maschinist", "correct": true },
+        { "description": "Der Fahrzeugführer", "correct": false }
+      ]
+    },
+    {
+      "title": "Wie erfolgt die Löschwasserentnahme aus einem Löschwasserbrunnen?",
+      "options": [
+        { "description": "direkter Anschluss der Feuerlöschkreiselpumpe", "correct": false },
+        { "description": "über Saugschläuche", "correct": true },
+        { "description": "über Druckschläuche", "correct": false },
+        { "description": "über das Standrohr", "correct": false }
+      ]
+    },
+    {
+      "title": "Die Zentrale Wasserversorgung ist:",
+      "options": [
+        { "description": "Das Rohrnetz", "correct": true },
+        { "description": "Die Wasserversorgung, die das Land sicherstellen muss", "correct": false },
+        { "description": "Eine Wasserentnahmestelle, die z.B. im Mittelpunkt einer Stadt liegt", "correct": false }
+      ]
+    },
+    {
+      "title": "Was gibt das Kurzzeichen H100 auf einem Hydrantenhinweisschild an?",
+      "options": [
+        { "description": "Den Nenndurchmesser des Hydranten in mm", "correct": false },
+        { "description": "Den Nenndurchmesser der Versorgungsleitung in mm", "correct": true },
+        { "description": "Die entnehmbare Wassermenge in Liter / Stunde", "correct": false },
+        { "description": "Die Entfernung des Hydranten zum Schild", "correct": false }
+      ]
+    },
+    {
+      "title": "Was bedeutet die Abkürzung „LF 20“?",
+      "options": [
+        { "description": "Löschgruppenfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min bei 12 bar Ausgangsdruck liefert", "correct": false },
+        { "description": "Löschfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min unabhängig vom Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von 1.600 l verfügt", "correct": false },
+        { "description": "Löschgruppenfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min bei 10 bar Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von min. 2.000 l verfügt", "correct": true },
+        { "description": "Löschgruppenfahrzeug mit einer tragbaren Pumpe, die einen Förderstrom von 2.000 l/min bei 8 bar Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von 1.600 l verfügt", "correct": false }
+      ]
+    },
+    {
+      "title": "Wie gelangt das Wasser bei einem Saugvorgang in die Pumpe?",
+      "options": [
+        { "description": "Die Entlüftungseinrichtung zieht das Wasser in die Pumpe", "correct": false },
+        { "description": "Die Pumpe saugt das Wasser selbsttätig an", "correct": false },
+        { "description": "Der äußere Luftdruck drückt das Wasser nach der Entlüftung in die Pumpe", "correct": true }
+      ]
+    },
+    {
+      "title": "Was bedeutet die Bezeichnung FPN 10-2000?",
+      "options": [
+        { "description": "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 20 bar und einem Nennförderstrom von 1.000 l/min. bei einer geodätischen Saughöhe von 3 m", "correct": false },
+        { "description": "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 2.000 l/min bei einer geodätischen Saughöhe von 3 m", "correct": true },
+        { "description": "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 2.000 l/min. bei einer geodätischen Saughöhe von 7,5 m und Höchstdrehzahl", "correct": false },
+        { "description": "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 2.000 l/min. bei einer geodätischen Saughöhe von 7,5 m.", "correct": false }
+      ]
+    },
+    {
+      "title": "Was hat der Maschinist bei einem Unfall mit einem Feuerwehrfahrzeug zu beachten?",
+      "options": [
+        { "description": "Unverzüglich anhalten, Unfallstelle absichern, Hilfe leisten, Polizei hinzuziehen", "correct": true },
+        { "description": "Bei Alarmfahrten kann der Einheitsführer über eine weiterfahrt entscheiden", "correct": false },
+        { "description": "Nichts, da Unfälle der Feuerwehr nicht der StVO und dem StGB unterliegen", "correct": false },
+        { "description": "Für die Abwicklung des Unfalls ist grundsätzlich der Gerätewart zuständig", "correct": false }
+      ]
+    },
+    {
+      "title": "Was versteht man unter einem Löschwasser-Sauganschluss?",
+      "options": [
+        { "description": "Eine ortsfeste Anschlussvorrichtung für Saugschläuche", "correct": true },
+        { "description": "Eine vorbereitete Löschwasserentnahmestelle an einem Tanklöschfahrzeug", "correct": false },
+        { "description": "Eine Anschlussvorrichtung zur Wasserentnahme aus dem Rohrnetz", "correct": false },
+        { "description": "Der Anschluss des Fahrzeugtanks an die Kreiselpumpe", "correct": false }
+      ]
+    },
+    {
+      "title": "Wer ist bei Fahrten mit Einsatzfahrzeugen für die sichere Ausführung verantwortlich?",
+      "options": [
+        { "description": "Der Melder", "correct": false },
+        { "description": "Der Ortsbrandmeister", "correct": false },
+        { "description": "Der Maschinist", "correct": true }
+      ]
+    },
+    {
+      "title": "Die Fördermenge an einer Einsatzstelle beträgt 600 l/min. Welche Mehrzweckstrahlrohre sind bei einem Strahlrohrdruck von 4 bar im Einsatz?",
+      "options": [
+        { "description": "1 B-Rohr mit Mundstück, ein C-Rohr mit Mundstück und ein C-Rohr ohne Mundstück", "correct": false },
+        { "description": "3 C-Rohre ohne Mundstück", "correct": true },
+        { "description": "1 B-Rohr ohne Mundstück", "correct": false },
+        { "description": "1 B-Rohr mit Mundstück und 1 C-Rohr mit Mundstück", "correct": false },
+        { "description": "3 C-Rohre mit Mundstück, ein B-Rohr mit Mundstück", "correct": false }
+      ]
+    },
+    {
+      "title": "Was geben die Zahlen hinter dem Kurzzeichen „FP“, 8/8 an?",
+      "options": [
+        { "description": "1. Zahl: Nennförderdruck; 2. Zahl: Nennförderstrom", "correct": true },
+        { "description": "1. Zahl: Nennförderstrom; 2. Zahl: Nennförderdruck", "correct": false },
+        { "description": "1. Zahl: Nennförderstrom; 2. Zahl: Nennförderhöhe", "correct": false },
+        { "description": "1. Zahl: Nennförderstrom; 2. Zahl: mitgeführte Wassermenge", "correct": false }
+      ]
+    },
+    {
+      "title": "Was versteht man unter der Bezeichnung PFPN 10-1000?",
+      "options": [
+        { "description": "eine tragbare Feuerlöschkreiselpumpe mit einem Nennförderstrom von 1.000 l/min bei einem Nennförderdruck von 10 bar", "correct": true },
+        { "description": "eine an einem 1.000 l Löschmittelbehälter angeschlossene Tragkraftspritze", "correct": false },
+        { "description": "eine Feuerlöschkreiselpumpe mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 1.000 l/min", "correct": false }
+      ]
+    },
+    {
+      "title": "Während eines Pumpenbetriebes wird der Unterdruck größer und der Ausgangsdruck sinkt! Welcher Fehler liegt vor?",
+      "options": [
+        { "description": "Der Saugkorb liegt nicht mehr vollständig unter der Wasseroberfläche", "correct": false },
+        { "description": "Die Wasserabgabe ist größer geworden", "correct": false },
+        { "description": "Der Saugkorb ist verstopft", "correct": true },
+        { "description": "„Wasser halt“ ohne Ankündigung", "correct": false }
+      ]
+    },
+    {
+      "title": "Zu den Löschfahrzeugen gehören:",
+      "options": [
+        { "description": "KLF, HLF", "correct": true },
+        { "description": "LF, RW, SW", "correct": false },
+        { "description": "DLK, GW, LF", "correct": false },
+        { "description": "DL, RW, SW", "correct": false },
+        { "description": "WLF, LF, TSF", "correct": false },
+        { "description": "TLF, DLK", "correct": false },
+        { "description": "LF, TLF, TSF", "correct": true },
+        { "description": "TLF, MLF", "correct": true }
+      ]
+    },
+    {
+      "title": "Was bedeutet die Abkürzung „HLF 20“?",
+      "options": [
+        { "description": "Löschgruppenfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min bei 16 bar Ausgangsdruck liefert", "correct": false },
+        { "description": "Löschfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 1.600 l/min unabhängig vom Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von 2.000 l verfügt", "correct": false },
+        { "description": "Löschgruppenfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min bei 10 bar Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von 1.600 l verfügt und einer Beladung für die technische Hilfeleistung", "correct": true }
+      ]
+    },
+    {
+      "title": "Wie viel Löschwasser wird in einem TSF-W mitgeführt?",
+      "options": [
+        { "description": "es wird überhaupt kein Löschwasser mitgeführt", "correct": false },
+        { "description": "mind. 500 l", "correct": true },
+        { "description": "max. 750 l nach Norm", "correct": false }
+      ]
+    }
+  ]
+}
