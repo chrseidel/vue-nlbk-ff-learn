@@ -2092,17 +2092,13 @@
           "correct": false
         },
         {
-          "description": "durch das Einschalten des elektrischen Verbrauchers, wenn der",
-          "correct": false
-        },
-        {
-          "description": "Anschlussstecker schon am Stromerzeuger angeschlossen ist und der Stromerzeuger läuft.",
+          "description": "durch das Einschalten des elektrischen Verbrauchers, wenn der Anschlussstecker schon am Stromerzeuger angeschlossen ist und der Stromerzeuger läuft."
           "correct": false
         }
       ]
     },
     {
-      "title": "Was nach dem Einsatz eines Lüfters mit Ottomotor zu beachten?",
+      "title": "Was ist nach dem Einsatz eines Lüfters mit Ottomotor zu beachten?",
       "options": [
         {
           "description": "Der Maschinist muss beschädigte Propellerblätter mit einer Feile entgraten",
