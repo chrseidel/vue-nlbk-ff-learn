@@ -1,5 +1,5 @@
 <script setup>
-import { ref } from 'vue'
+import { ref, watch } from 'vue'
 import MultiselectQuestion from './MultiselectQuestion.vue'
 
 const props = defineProps({
@@ -10,16 +10,23 @@ const props = defineProps({
   showResults: {
     type: Boolean,
     required: true
+  },
+  currentIndex: {
+    type: Number,
+    default: 0
   }
 })
 
 const emit = defineEmits(['pageSwitch'])
 
 const questionElements = ref([])
-const currentQuestionIndex = ref(0)
+const currentQuestionIndex = ref(props.currentIndex)
 const showQuestions = ref([])
 const showResultMode = ref(false)
 
+watch(() => props.currentIndex, (newIndex) => {
+  currentQuestionIndex.value = newIndex
+})
 
 const isVisible = (index) => {
   return (!showResultMode.value && currentQuestionIndex.value == index) || showQuestions.value.includes(index)
@@ -54,7 +61,7 @@ defineExpose({
 
 <template>
   <div>
-  <p class="progress" v-show="!showResultMode">{{ currentQuestionIndex+1 }} / {{ questions.length }} – {{ questions[currentQuestionIndex].category }}</p>
+  <p class="progress">{{ currentQuestionIndex+1 }} / {{ questions.length }} – {{ questions[currentQuestionIndex].category }}</p>
   <MultiselectQuestion
     v-for="(q, index) in questions"
     :key="q.title"

@@ -1,7 +1,7 @@
 <script setup>
 import QuestionSet from '../components/QuestionSet.vue'
 import { useQuestionsStore } from '../stores/store'
-import { ref, onMounted, watch } from 'vue'
+import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 
 const router = useRouter()
@@ -57,11 +57,6 @@ onMounted(() => {
     currentQuestionIndex.value = startQuestion
   }
 })
-
-// Beobachte Änderungen am Index und aktualisiere die Anzeige
-watch(currentQuestionIndex, (newIndex) => {
-  questionSet.value.show([newIndex])
-})
 </script>
 
 <template>
@@ -69,6 +64,7 @@ watch(currentQuestionIndex, (newIndex) => {
     <QuestionSet 
       :questions="questions" 
       :show-results="showResult" 
+      :current-index="currentQuestionIndex"
       ref="questionSet" 
       :show-questions="[currentQuestionIndex]"
     />
