@@ -1,0 +1,2252 @@
+{
+  "category": "AGT",
+  "questions": [
+    {
+      "title": "Den oberen Atemwegen werden zugeordnet:",
+      "options": [
+        {
+          "description": "Mund",
+          "correct": true
+        },
+        {
+          "description": "Nase",
+          "correct": true
+        },
+        {
+          "description": "Lungenbläschen",
+          "correct": false
+        },
+        {
+          "description": "Bronchien",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der für die Einatmung notwendige Unterdruck im Brustraum wird erzeugt durch:",
+      "options": [
+        {
+          "description": "das Heben der Rippen und Spannen des Zwerchfells.",
+          "correct": true
+        },
+        {
+          "description": "das Einziehen des Bauches.",
+          "correct": false
+        },
+        {
+          "description": "das Ausdehnen der Bronchien.",
+          "correct": false
+        },
+        {
+          "description": "das Weiten der Wangen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die unteren Atemwege des Menschen setzen sich zusammen aus:",
+      "options": [
+        {
+          "description": "Mund, Nase, Rachen, Lunge, Alveolen",
+          "correct": false
+        },
+        {
+          "description": "Luftröhre, Bronchiolen, Bronchien, linker und rechter Lungenflügel",
+          "correct": true
+        },
+        {
+          "description": "Mund, Nase, Rachenraum",
+          "correct": false
+        },
+        {
+          "description": "Luftröhre, Bronchien, Lunge",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Der Gasaustausch, als Teil des Atemvorgangs, findet statt in den:",
+      "options": [
+        {
+          "description": "Bronchien",
+          "correct": false
+        },
+        {
+          "description": "Luftröhre",
+          "correct": false
+        },
+        {
+          "description": "Alveolen",
+          "correct": true
+        },
+        {
+          "description": "Venen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Unter 'Gasaustausch' ist zu verstehen:",
+      "options": [
+        {
+          "description": "der Austausch von Sauerstoff und Kohlendioxid in den Lungenbläschen",
+          "correct": true
+        },
+        {
+          "description": "die Zuführung von Sauerstoff in die Körperzellen",
+          "correct": false
+        },
+        {
+          "description": "die Ein- und Ausatmung",
+          "correct": false
+        },
+        {
+          "description": "der Ersatz von Kohlenmonoxid (CO) durch Kohlendioxid (CO2)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "In der normalen Einatemluft liegt die Sauerstoffkonzentration bei:",
+      "options": [
+        {
+          "description": "ca. 15 Vol.-%",
+          "correct": false
+        },
+        {
+          "description": "ca. 17 Vol.-%",
+          "correct": false
+        },
+        {
+          "description": "ca. 21 Vol.-%",
+          "correct": true
+        },
+        {
+          "description": "ca. 23 Vol.-%",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Einatemluft besteht aus:",
+      "options": [
+        {
+          "description": "78% Stickstoff, ca. 4% Kohlendioxid, 17% Sauerstoff, Rest Edelgase",
+          "correct": false
+        },
+        {
+          "description": "78% Stickstoff, 0,04% Kohlendioxid, 21% Sauerstoff, Rest Edelgase",
+          "correct": true
+        },
+        {
+          "description": "78% Stickstoff, ca. 4% Edelgase, 17% Sauerstoff, Rest Kohlenmonoxid",
+          "correct": false
+        },
+        {
+          "description": "78% Stickstoff, ca. 1% Kohlendioxid, 21% Edelgase, Rest Sauerstoff",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die atmosphärische Luft setzt sich zusammen:",
+      "options": [
+        {
+          "description": "20% Sauerstoff, 78% Stickstoff, 2% Wasserdampf",
+          "correct": false
+        },
+        {
+          "description": "21% Sauerstoff, 79% Stickstoff",
+          "correct": false
+        },
+        {
+          "description": "21% Sauerstoff, 0,96% Edelgase, 0,04% Kohlendioxid, 78% Stickstoff",
+          "correct": true
+        },
+        {
+          "description": "17% Sauerstoff, 0,96% Edelgase, 4,04% Kohlenmonoxid, 78% Stickstoff",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Ausatemluft besteht aus:",
+      "options": [
+        {
+          "description": "78% Stickstoff, 4,04% Kohlendioxid, 17% Sauerstoff, Rest Edelgase",
+          "correct": true
+        },
+        {
+          "description": "78% Stickstoff, 0,04% Kohlendioxid, 21% Sauerstoff, Rest Edelgase",
+          "correct": false
+        },
+        {
+          "description": "78% Stickstoff, ca. 4% Edelgase, 17% Sauerstoff, Rest Kohlendioxid",
+          "correct": false
+        },
+        {
+          "description": "78% Stickstoff, 4% Kohlenoxid (CO), 17% Sauerstoff, Rest Kohlendioxid",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Für den Sauerstofftransport im Blut ist zuständig:",
+      "options": [
+        {
+          "description": "das Blutplasma",
+          "correct": false
+        },
+        {
+          "description": "die weißen Blutkörperchen",
+          "correct": false
+        },
+        {
+          "description": "das Hämoglobin der roten Blutkörperchen",
+          "correct": true
+        },
+        {
+          "description": "die Blutplättchen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Atmung hat die Funktion:",
+      "options": [
+        {
+          "description": "dem Körper Kohlendioxid zuzuführen.",
+          "correct": false
+        },
+        {
+          "description": "dass in den Zellen beim Stoffwechsel entstehende Kohlendioxid an die Umgebung abzuführen.",
+          "correct": true
+        },
+        {
+          "description": "den Körperzellen lebenswichtigen Sauerstoff zuzuführen.",
+          "correct": true
+        },
+        {
+          "description": "den Körper zu entschlacken.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der Luftverbrauch beträgt bei mittelschwerer Arbeit etwa:",
+      "options": [
+        {
+          "description": "40 - 50 l/min.",
+          "correct": true
+        },
+        {
+          "description": "60 - 80 l/min.",
+          "correct": false
+        },
+        {
+          "description": "20 - 30 l/min.",
+          "correct": false
+        },
+        {
+          "description": "15 - 35 l/min.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der mittlere Atemluftverbrauch eines unter PA arbeitenden Menschen mit wärmeisolierender Schutzkleidung beträgt:",
+      "options": [
+        {
+          "description": "20 l/min",
+          "correct": false
+        },
+        {
+          "description": "80 l/min",
+          "correct": true
+        },
+        {
+          "description": "50 l/min",
+          "correct": false
+        },
+        {
+          "description": "90 l/min",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der Pressluftatmer ist ein:",
+      "options": [
+        {
+          "description": "Isoliergerät.",
+          "correct": true
+        },
+        {
+          "description": "Behältergerät mit Sauerstoff.",
+          "correct": false
+        },
+        {
+          "description": "Flaschengerät mit Filter.",
+          "correct": false
+        },
+        {
+          "description": "umluftabhängiges Atemschutzgerät.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Atemgifte können auftreten:",
+      "options": [
+        {
+          "description": "im festen Aggregatzustand",
+          "correct": true
+        },
+        {
+          "description": "dampfförmig",
+          "correct": true
+        },
+        {
+          "description": "gasförmig",
+          "correct": true
+        },
+        {
+          "description": "zum Teil auch in sichtbarer Form",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Welche Aussage(n) zu Atemgiften ist/sind richtig?",
+      "options": [
+        {
+          "description": "Von mit Brandrauch belasteter PSA, welche belüftet wurde, geht keine Gefahr von Atemgiften mehr aus.",
+          "correct": false
+        },
+        {
+          "description": "Stoffe, die selbst ungiftig sind, jedoch im Körper erstickend wirken.",
+          "correct": true
+        },
+        {
+          "description": "Stoffe, die mit der Atmung in den Körper gelangen und dort schädigend wirken.",
+          "correct": true
+        },
+        {
+          "description": "Das Vorhandensein von gesundheitsschädlichen Schwebstoffen, Gasen und Dämpfen in der Umgebungsatmosphäre.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Atemgifte können auf den menschlichen Körper folgende Wirkungen haben:",
+      "options": [
+        {
+          "description": "Verschleiß des Knochenmarkes",
+          "correct": false
+        },
+        {
+          "description": "Beschleunigung der Atmung",
+          "correct": true
+        },
+        {
+          "description": "Reiz- und Ätzwirkung",
+          "correct": true
+        },
+        {
+          "description": "Blockierung des Sauerstofftransportes",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Sauerstoffmangel kann an Einsatzstellen ausreichend sicher wahrgenommen werden:",
+      "options": [
+        {
+          "description": "durch eine Geruchs- und Geschmacksprobe",
+          "correct": false
+        },
+        {
+          "description": "durch schimmernde Luftschichten",
+          "correct": false
+        },
+        {
+          "description": "nur durch geeignete Messtechnik",
+          "correct": true
+        },
+        {
+          "description": "durch Einschränkung der körperlichen und geistigen Leistungsfähigkeit",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "„Benzindämpfe“ sind definitionsgemäß zuzuordnen den Atemgiften mit:",
+      "options": [
+        {
+          "description": "Reiz- und Ätzwirkung.",
+          "correct": false
+        },
+        {
+          "description": "erstickender Wirkung.",
+          "correct": false
+        },
+        {
+          "description": "Wirkung auf Blut, Nerven und Zellen.",
+          "correct": true
+        },
+        {
+          "description": "Wirkung auf das Wahrnehmungsvermögen (Sinnestrübungen, Ohnmacht, Sehvermögen).",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Mit dem Auftreten größerer Mengen nitroser Gase ist zu rechnen:",
+      "options": [
+        {
+          "description": "bei der Zersetzung aller Pflanzenschutzmittel",
+          "correct": false
+        },
+        {
+          "description": "bei Bränden von anorganischem Material z.B. Glasfasern",
+          "correct": false
+        },
+        {
+          "description": "bei Gasbränden",
+          "correct": false
+        },
+        {
+          "description": "bei der Zersetzung von Düngemitteln mit Stickstoffanteil",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Die zulässige Altersspanne für Träger umluftabhängiger Atemschutzgeräte bei der Feuerwehr liegt zwischen:",
+      "options": [
+        {
+          "description": "16 – 50 Jahren",
+          "correct": false
+        },
+        {
+          "description": "18 – 50 Jahren",
+          "correct": false
+        },
+        {
+          "description": "18 – 67 Jahren",
+          "correct": true
+        },
+        {
+          "description": "18 – 55 Jahren",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Ärztliche Untersuchungen für Atemschutzgeräteträger (bis zum 50. Lebensjahr) müssen durchgeführt werden:",
+      "options": [
+        {
+          "description": "jährlich",
+          "correct": false
+        },
+        {
+          "description": "in Abständen von 3 Jahren",
+          "correct": true
+        },
+        {
+          "description": "alle 2 Jahre",
+          "correct": false
+        },
+        {
+          "description": "ggf. in kürzeren Abständen nach Ermessen des ermächtigten Arztes",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Die Feuerwehrdienstvorschrift 7 der Feuerwehren schreibt vor, dass:",
+      "options": [
+        {
+          "description": "truppweise vorzugehen ist.",
+          "correct": true
+        },
+        {
+          "description": "grundsätzlich immer alle verfügbaren Geräteträger einzusetzen sind.",
+          "correct": false
+        },
+        {
+          "description": "Sicherheitstrupps zu stellen sind.",
+          "correct": true
+        },
+        {
+          "description": "eine Atemschutzüberwachung nur beim Vorgehen in Gebäude erforderlich ist.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Beim Ansprechen der Restdruckwarneinrichtung an einem Atemschutzgerät:",
+      "options": [
+        {
+          "description": "ist das Manometer zu kontrollieren und weiter zu arbeiten.",
+          "correct": false
+        },
+        {
+          "description": "hat der betreffende Atemschutzgeräteträger sofort den Rückweg anzutreten.",
+          "correct": false
+        },
+        {
+          "description": "tritt der Trupp geschlossen den Rückzug an.",
+          "correct": true
+        },
+        {
+          "description": "ist unverzüglich die Feuerwehreinsatzleitstelle zu informieren.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Wenn ein Trupp unter Atemschutz vorgeht, dürfen:",
+      "options": [
+        {
+          "description": "je nach Lage Pressluftatmer und Filtergeräte kombiniert eingesetzt werden.",
+          "correct": false
+        },
+        {
+          "description": "nach der UVV-Feuerwehren nur PA und SSG kombiniert eingesetzt werden.",
+          "correct": false
+        },
+        {
+          "description": "nur Geräte mit gleichen Gebrauchsmerkmalen eingesetzt werden.",
+          "correct": true
+        },
+        {
+          "description": "nur Geräte des gleichen Herstellers eingesetzt werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Unter dem Einsatzgrundsatz 'Gleiche Typen einer Geräteart sind zu verwenden!' ist zu verstehen, dass:",
+      "options": [
+        {
+          "description": "ein Ein-Flaschengerät (300 bar) und ein Schlauchgerät grundsätzlich nicht zusammen eingesetzt werden dürfen.",
+          "correct": true
+        },
+        {
+          "description": "auch Geräte verschiedener Hersteller in einem Trupp zusammen eingesetzt werden dürfen.",
+          "correct": true
+        },
+        {
+          "description": "Filtergeräte und Pressluftatmer nicht zusammen eingesetzt werden dürfen.",
+          "correct": true
+        },
+        {
+          "description": "grundsätzlich nur Atemfilter mit gleicher Schutzwirkung und gleichem Rückhaltevermögen eingesetzt werden dürfen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Zu der Atemschutzüberwachung gehört unter anderem:",
+      "options": [
+        {
+          "description": "das Notieren der Namen der eingesetzten Geräteträger, der Flaschendrücke, die Einsatzzeiten, die Art des Gerätes und der Einsatzort",
+          "correct": true
+        },
+        {
+          "description": "das Feststellen der Anzahl der vorhandenen PA",
+          "correct": false
+        },
+        {
+          "description": "die Feststellung des Herstellungsjahres der Atemschutzmasken",
+          "correct": false
+        },
+        {
+          "description": "das Überprüfen des Typenschildes des verwendeten Atemschutzgerätes",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "An einer Einsatzstelle können Feuerwehrangehörige als Atemschutzgeräteträger eingesetzt werden, wenn:",
+      "options": [
+        {
+          "description": "sie körperlich gesund sind, mindestens 18 Jahre alt sind, seit 5 Jahren der Feuerwehr angehören und die Einsatzkurzprüfung des PA beherrschen.",
+          "correct": false
+        },
+        {
+          "description": "sie erfolgreich den Truppführerlehrgang absolviert haben.",
+          "correct": false
+        },
+        {
+          "description": "sie nicht unter 18 Jahre alt sind, ärztlich untersucht, als Atemschutzgeräteträger ausgebildet sind und die erforderlichen Nachweise erbracht haben.",
+          "correct": true
+        },
+        {
+          "description": "sie momentan körperlich fit sind und eine Unterweisung durch andere Atemschutzgeräteträger erhalten haben.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Einsatzkurzprüfung besteht aus:",
+      "options": [
+        {
+          "description": "Flaschenfülldruckkontrolle, Niederdruckprüfung, Funktionsprüfung des Lungenautomaten, Kontrolle des Ansprechdrucks der Restdruckwarneinrichtung",
+          "correct": false
+        },
+        {
+          "description": "Sichtprüfung, Flaschenfülldruckkontrolle, Hochdruckdichtprüfung, Funktionsprüfung des Lungenautomaten, Kontrolle des Ansprechdrucks der Restdruckwarneinrichtung",
+          "correct": true
+        },
+        {
+          "description": "Sichtprüfung, Flaschenfülldruckkontrolle, Lungenautomaten-Prüfung, Prüfen der Warneinrichtung",
+          "correct": false
+        },
+        {
+          "description": "Sichtprüfung, Druckprüfung, Dichtprüfung, Lungenautomaten – Prüfung, Notsignalprüfung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Ein Sicherheitstrupp hat beim Atemschutzeinsatz die Aufgabe:",
+      "options": [
+        {
+          "description": "für Notfälle in Bereitschaft zu stehen.",
+          "correct": true
+        },
+        {
+          "description": "für die Brandbekämpfung ein zweites Rohr vorzunehmen.",
+          "correct": false
+        },
+        {
+          "description": "grundsätzlich als erster Trupp Gebäude nach vermissten Personen abzusuchen.",
+          "correct": false
+        },
+        {
+          "description": "die Einsatzstellensicherung durchzuführen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "An Einsatzstellen muss umluftunabhängiger Atemschutz eingesetzt werden, wenn:",
+      "options": [
+        {
+          "description": "der Sauerstoffgehalt der Atemluft 17 Vol.-% unterschreitet.",
+          "correct": true
+        },
+        {
+          "description": "Kohlenmonoxid zu erwarten ist.",
+          "correct": true
+        },
+        {
+          "description": "die zu erwartenden Atemgifte nicht eingeschätzt werden können.",
+          "correct": true
+        },
+        {
+          "description": "der Gruppenführer dieses anordnet.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Ein Atemschutztrupp umfasst im Regelfall:",
+      "options": [
+        {
+          "description": "mindestens einen Truppführer und ein Truppmitglied",
+          "correct": true
+        },
+        {
+          "description": "mindestens einen Truppführer und drei Truppmitglieder",
+          "correct": false
+        },
+        {
+          "description": "mindestens den Truppführer",
+          "correct": false
+        },
+        {
+          "description": "den Truppführer und weitere Truppmitglieder im Ermessen des Truppführers",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die ausreichende Sicherung für einen Atemschutztrupp ist:",
+      "options": [
+        {
+          "description": "ein Schlauchhalter.",
+          "correct": false
+        },
+        {
+          "description": "eine Feuerwehrleine.",
+          "correct": true
+        },
+        {
+          "description": "ein Handsprechfunkgerät.",
+          "correct": false
+        },
+        {
+          "description": "die Schlauchleitung.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Ein Atemschutzgeräteträger hat im Rahmen der laufenden Ausbildung teilzunehmen an:",
+      "options": [
+        {
+          "description": "einer Belastungsübung in einer anerkannten Atemschutzübungsstrecke",
+          "correct": true
+        },
+        {
+          "description": "an einer realistischen Übung unter Einsatzbedingungen",
+          "correct": true
+        },
+        {
+          "description": "an einer theoretischen Unterweisung",
+          "correct": true
+        },
+        {
+          "description": "an Aus- und Fortbildungsmaßnahmen im Ermessen des Gerätewartes",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Richtig ist die Behauptung, dass:",
+      "options": [
+        {
+          "description": "die Eignungsuntersuchung vor Beginn der Ausbildung erforderlich ist.",
+          "correct": true
+        },
+        {
+          "description": "die Eignungsuntersuchung für Personen über 50 Jahre, jährlich wiederholt werden muss.",
+          "correct": true
+        },
+        {
+          "description": "die Eignungsuntersuchung der Gerätegruppe 2 für das Tragen von Filtergeräten mit Kombinationsfilter erforderlich ist.",
+          "correct": true
+        },
+        {
+          "description": "die Eignungsuntersuchung ausschließlich im Ermessen des zuständigen Arztes erfolgt.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der Pressluftatmer ist abhängig von:",
+      "options": [
+        {
+          "description": "der Umluft.",
+          "correct": false
+        },
+        {
+          "description": "dem Ort.",
+          "correct": false
+        },
+        {
+          "description": "der Zeit.",
+          "correct": true
+        },
+        {
+          "description": "dem Wetter.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Umluftunabhängig sind:",
+      "options": [
+        {
+          "description": "Regenerationsgeräte.",
+          "correct": true
+        },
+        {
+          "description": "Filtergeräte.",
+          "correct": false
+        },
+        {
+          "description": "Pressluftatmer.",
+          "correct": true
+        },
+        {
+          "description": "Schlauchgeräte.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Ein Filtergerät besteht aus:",
+      "options": [
+        {
+          "description": "dem Maskenkörper, der Warneinrichtung, der Bänderung.",
+          "correct": false
+        },
+        {
+          "description": "dem Atemanschluss und dem Atemfilter.",
+          "correct": true
+        },
+        {
+          "description": "der Atemschutzmaske und dem Lungenautomaten.",
+          "correct": false
+        },
+        {
+          "description": "der Atemschutzmaske, dem Atemfilter und einer Druckluftflasche.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Lagerzeit des fabrikverschlossenen Atemfilters:",
+      "options": [
+        {
+          "description": "beträgt 2 Jahre.",
+          "correct": false
+        },
+        {
+          "description": "ist unbegrenzt.",
+          "correct": false
+        },
+        {
+          "description": "ist aus der Herstellerangabe ersichtlich.",
+          "correct": true
+        },
+        {
+          "description": "ist abhängig von den Lagerbedingungen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Beim Einsatz eines Filtergerätes (ABEK 2-P 3):",
+      "options": [
+        {
+          "description": "muss die Umluft genügend Sauerstoff enthalten (mind. 17 Vol.-%).",
+          "correct": true
+        },
+        {
+          "description": "darf die Umluft kein Kohlendioxid (CO2) und max. 3 Vol.-% Giftstoffe enthalten.",
+          "correct": false
+        },
+        {
+          "description": "die Umluft darf kein Kohlenmonoxid (CO) und max. 0,5 Vol.-% gesundheitsschädliche Stoffe enthalten.",
+          "correct": true
+        },
+        {
+          "description": "muss der Gruppenführer den Einsatz von Filtergeräten angeordnet haben.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Bei Gas- und Kombinationsfilter steht die Partikelfilterklasse P3 für:",
+      "options": [
+        {
+          "description": "ein niedriges Rückhaltevermögen.",
+          "correct": false
+        },
+        {
+          "description": "ein mittleres Rückhaltevermögen.",
+          "correct": false
+        },
+        {
+          "description": "ein hohes Rückhaltevermögen.",
+          "correct": true
+        },
+        {
+          "description": "ein maximales Rückhaltevermögen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Ein Filtergerät ist abhängig:",
+      "options": [
+        {
+          "description": "von der Umgebungsatmosphäre und von der Zeit.",
+          "correct": true
+        },
+        {
+          "description": "nur von der Umgebungsatmosphäre.",
+          "correct": false
+        },
+        {
+          "description": "nur von der Zeit.",
+          "correct": false
+        },
+        {
+          "description": "vom Ort.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Filtergeräte dürfen nicht verwendet werden:",
+      "options": [
+        {
+          "description": "bei starkem Funkenflug (z.B. Trennschneiden)",
+          "correct": true
+        },
+        {
+          "description": "bei kleinen Mengen ausgelaufener rechtsdrehender Milchsäure",
+          "correct": false
+        },
+        {
+          "description": "bei starker Flocken- oder Staubbildung",
+          "correct": true
+        },
+        {
+          "description": "im Zweifelsfall",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Filtergeräte dürfen eingesetzt werden:",
+      "options": [
+        {
+          "description": "bei Aufräumarbeiten im Freien und in verqualmten Räumen",
+          "correct": false
+        },
+        {
+          "description": "bei Arbeiten in Kellern, Brunnen und Schächten",
+          "correct": false
+        },
+        {
+          "description": "bei Vegetationsbränden",
+          "correct": true
+        },
+        {
+          "description": "unter Beachtung der Einsatzgrenzen und im Ermessen des Einsatzleiters",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Brandfluchthauben gehören:",
+      "options": [
+        {
+          "description": "zu den umluftabhängigen Atemschutzgeräten",
+          "correct": true
+        },
+        {
+          "description": "zu den umluftunabhängigen Atemschutzgeräten",
+          "correct": false
+        },
+        {
+          "description": "zu den Rettungsgeräten (Fluchtgeräten)",
+          "correct": true
+        },
+        {
+          "description": "zu den Filtergeräten",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Der Pressluftatmer ist ein:",
+      "options": [
+        {
+          "description": "Behältergerät mit Druckluft",
+          "correct": true
+        },
+        {
+          "description": "Behältergerät mit Sauerstoff",
+          "correct": false
+        },
+        {
+          "description": "Flaschengerät",
+          "correct": false
+        },
+        {
+          "description": "umluftunabhängiges Atemschutzgerät",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Die aus den Druckluftflaschen strömende Luft wird zuerst entspannt in einem:",
+      "options": [
+        {
+          "description": "Lungenautomaten",
+          "correct": false
+        },
+        {
+          "description": "Druckminderer",
+          "correct": true
+        },
+        {
+          "description": "Ventilgehäuse",
+          "correct": false
+        },
+        {
+          "description": "Flaschenventil",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Hauptbestandteile eines Pressluftatmers sind:",
+      "options": [
+        {
+          "description": "Riemen, Sauerstoffflasche, Druckkasten, Lungenautomat, Signal, Druckmesser",
+          "correct": false
+        },
+        {
+          "description": "Tragegestell, Atemluftflasche, Druckminderer, Lungenautomat, Manometer, Warneinrichtung",
+          "correct": true
+        },
+        {
+          "description": "Atemschutzmaske, Flasche, Rückzugsignal, Atemluftpatrone, Ventile, Manometer",
+          "correct": false
+        },
+        {
+          "description": "Druckluftbremser, Riemen, Sauerstoffflasche, Druckkasten, Lungenautomat, Signal, Druckmesser",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Nach welchem Prinzip arbeitet ein Lungenautomat (Normaldruck) eines PA?",
+      "options": [
+        {
+          "description": "Aufgrund der entstehenden Druckdifferenz vor und hinter der Membran beim Einatemvorgang wird das Dosierventil geöffnet.",
+          "correct": true
+        },
+        {
+          "description": "Durch den am Kipphebelventil anstehenden Druck wird beim Einatmen Luft in den Lungenautomaten eingelassen.",
+          "correct": false
+        },
+        {
+          "description": "Der Atemschutzgeräteträger betätigt regelmäßig den Spülknopf.",
+          "correct": false
+        },
+        {
+          "description": "Strömungstechnisch nach dem Injektorprinzip.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Mit welchem Atemluftvorrat ist die Belastungsübung für Atemschutzgeräteträger zu absolvieren?",
+      "options": [
+        {
+          "description": "1600 Liter",
+          "correct": true
+        },
+        {
+          "description": "1800 Liter",
+          "correct": false
+        },
+        {
+          "description": "1400 Liter",
+          "correct": false
+        },
+        {
+          "description": "2000 Liter",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Bei Ertönen der Restdruckwarneinrichtung eines PA:",
+      "options": [
+        {
+          "description": "verlässt nur der Träger des betreffenden PA die Einsatzstelle sofort.",
+          "correct": false
+        },
+        {
+          "description": "verlässt der Trupp gemeinsam die Einsatzstelle, nachdem der Truppführer sich vom Flaschendruck überzeugt hat.",
+          "correct": true
+        },
+        {
+          "description": "hat der Flaschendruck einen bestimmten Wert erreicht.",
+          "correct": true
+        },
+        {
+          "description": "muss unverzüglich die Atemschutzüberwachung informiert werden.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Unter Atemschutzgeräten ist vorzugehen:",
+      "options": [
+        {
+          "description": "gruppenweise, ein Führer, acht Mitglieder",
+          "correct": false
+        },
+        {
+          "description": "truppweise, mindestens ein Führer, ein Mitglied",
+          "correct": true
+        },
+        {
+          "description": "einzeln, damit möglichst wenige Feuerwehrangehörige gefährdet werden",
+          "correct": false
+        },
+        {
+          "description": "nach Weisung des Gruppenführers",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Wenn das Manometer eines 1-Flaschen-Gerätes (Inhalt: 6 Liter) 150 bar anzeigt, verbleiben bis zur völligen Entleerung bei einem Atemluftverbrauch von 50 l/min:",
+      "options": [
+        {
+          "description": "18 Minuten",
+          "correct": true
+        },
+        {
+          "description": "12 Minuten",
+          "correct": false
+        },
+        {
+          "description": "36 Minuten",
+          "correct": false
+        },
+        {
+          "description": "24 Minuten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Ein unter Pressluftatmern vorgehender Trupp muss:",
+      "options": [
+        {
+          "description": "die Länge des Rückzugwegs beachten, da hierdurch die Einsatzdauer verringert wird.",
+          "correct": true
+        },
+        {
+          "description": "die Länge des Rückzugswegs nicht beachten, da ausschließlich die Warneinrichtung maßgebend ist.",
+          "correct": false
+        },
+        {
+          "description": "für den Rückweg in der Regel die doppelte Atemluftmenge, wie für den Hinweg einplanen.",
+          "correct": true
+        },
+        {
+          "description": "das Erreichen des Einsatzortes der Atemschutzüberwachung mitteilen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Bei einer Einsatzdauer von 15 Minuten ändert sich bei einem 1-Flaschen-Gerät (6 Liter Inhalt) der Flaschendruck um 100 bar. Wie war der Luftverbrauch des Atemschutzgeräteträgers in dieser Zeit pro Minute?",
+      "options": [
+        {
+          "description": "30 l/min",
+          "correct": false
+        },
+        {
+          "description": "40 l/min",
+          "correct": true
+        },
+        {
+          "description": "50 l/min",
+          "correct": false
+        },
+        {
+          "description": "20 l/min",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Im Zuge der Atemschutzüberwachung werden festgehalten:",
+      "options": [
+        {
+          "description": "Name, Zeit, Gerätenummer, letzte TÜV-Überprüfung",
+          "correct": false
+        },
+        {
+          "description": "Name, Uhrzeit, Fülldruck zu Beginn, nach 1/3 und nach 2/3 der Einsatzzeit, Einsatzort, Einsatzende, evtl. Funkrufname",
+          "correct": true
+        },
+        {
+          "description": "Außentemperatur, Innentemperatur, Luftfeuchtigkeit, Luftdruck",
+          "correct": false
+        },
+        {
+          "description": "Körpertemperatur, Atemfrequenz, Schuhgröße, Geburtsdatum",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der Luftverbrauch eines Atemschutzgeräteträgers ist abhängig:",
+      "options": [
+        {
+          "description": "von seiner körperlichen Fitness",
+          "correct": true
+        },
+        {
+          "description": "von der Einsatzbelastung",
+          "correct": true
+        },
+        {
+          "description": "von dem Gewicht und der Wärmeisolation der Schutzausrüstung",
+          "correct": true
+        },
+        {
+          "description": "von der Bauart des Lungenautomaten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "In welche zwei Gruppen werden Atemschutzgeräte nach FwDV 7 unterteilt?",
+      "options": [
+        {
+          "description": "Fluchtgeräte und Rettungsgeräte",
+          "correct": false
+        },
+        {
+          "description": "Filtergeräte und Isoliergeräte",
+          "correct": true
+        },
+        {
+          "description": "Feuerwehrgeräte und Arbeitsschutzgeräte",
+          "correct": false
+        },
+        {
+          "description": "Stationäre und mobile Atemschutzgeräte",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Ein Atemschutzgeräteträger darf nicht in den Atemschutzeinsatz gehen, wenn:",
+      "options": [
+        {
+          "description": "Wer im Bereich der Dichtlinie des Atemanschlusses Körperschmuck trägt.",
+          "correct": true
+        },
+        {
+          "description": "Kopfbehaarung (Bart, Koteletten, Haupthaar) den Dichtsitz der Maske verhindert.",
+          "correct": true
+        },
+        {
+          "description": "Wer Medikamente eingenommen hat, die die körperliche Leistungsfähigkeit herabsetzen.",
+          "correct": true
+        },
+        {
+          "description": "Wer Körperschmuck trägt, der beim An- bzw. Ablegen des Atemanschlusses zu Verletzungen führen kann.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Wie lautet eine korrekte Notfallmeldung?",
+      "options": [
+        {
+          "description": "„Mayday; hier <Funkrufname>, <Standort>, <Lage>, melden - mayday!“",
+          "correct": false
+        },
+        {
+          "description": "„Hilfe, Hilfe; hier <Funkrufname>, <Standort>, <Lage> - kommen!“",
+          "correct": false
+        },
+        {
+          "description": "„Blitz; hier <Funkrufname>, <Standort>, <Lage> - kommen!“",
+          "correct": false
+        },
+        {
+          "description": "„Mayday; mayday; mayday; hier <Funkrufname>, <Standort>, <Lage>, mayday – kommen!“",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Welche allgemeinen Einsatzgrundsätze muss ein Atemschutzgeräteträger beachten?",
+      "options": [
+        {
+          "description": "Jeder Atemschutzgeräteträger ist für seine Sicherheit eigenverantwortlich.",
+          "correct": true
+        },
+        {
+          "description": "Atemschutzgeräte sind immer am Verteiler an- und abzulegen.",
+          "correct": false
+        },
+        {
+          "description": "Vor dem Einsatz muss eine Einsatzkurzprüfung durchgeführt werden.",
+          "correct": true
+        },
+        {
+          "description": "Der Flüssigkeitsverlust der Einsatzkräfte ist durch geeignete Getränke (z.B. Apfelschorle) auszugleichen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Vor dem Atemschutzeinsatz müssen Geräteträger:",
+      "options": [
+        {
+          "description": "trinken vermeiden, um nicht übermäßig zu schwitzen.",
+          "correct": false
+        },
+        {
+          "description": "eine Dichtprobe der Maske (Handballenprobe) durchführen.",
+          "correct": true
+        },
+        {
+          "description": "die Einsatzkurzprüfung an ihrem Gerät durchführen.",
+          "correct": true
+        },
+        {
+          "description": "den Lungenautomaten truppweise anschließen und gegenseitig den Sitz der Schutzausrüstung (z.B. Flammschutzhaube) kontrollieren.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Gehen Atemschutzgeräteträger zur Brandbekämpfung in den Innenangriff vor, müssen sie:",
+      "options": [
+        {
+          "description": "truppweise zusammenbleiben.",
+          "correct": true
+        },
+        {
+          "description": "sich gegebenenfalls dicht am Boden halten, da hier die Temperatur geringer und die Sicht besser ist.",
+          "correct": true
+        },
+        {
+          "description": "eine ständige Sprechfunkverbindung zum zuständigen Einheitsführer aufrechterhalten.",
+          "correct": true
+        },
+        {
+          "description": "durch eine Feuerwehrleine, ein Leinensystem oder eine Schlauchleitung den Rückweg sichern.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Wann muss sich ein Atemschutztrupp im Innenangriff selbstständig in einen sicheren Bereich zurückziehen?",
+      "options": [
+        {
+          "description": "bei erkannter akuter Einsturzgefahr",
+          "correct": true
+        },
+        {
+          "description": "bei einer erkannten bevorstehenden Durchzündung",
+          "correct": true
+        },
+        {
+          "description": "bei einer zu starken Wärmeentwicklung (z.B. sichtbares Abschmelzen von Kunststoffteilen)",
+          "correct": true
+        },
+        {
+          "description": "bei einer akuten Gefährdung, die durch den Gruppenführer nicht vorherzusehen war",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Nach welchen Belastungen muss ein Atemschutzgerät von einem Atemschutzgerätewart gesondert überprüft werden?",
+      "options": [
+        {
+          "description": "nach Kontamination mit aggressiven Chemikalien sowie starkem Rußniederschlag",
+          "correct": true
+        },
+        {
+          "description": "nach einer direkten Beflammung (z.B. Durchzündung)",
+          "correct": true
+        },
+        {
+          "description": "nach einem längeren Aufenthalt in hoch erhitzten Räumen",
+          "correct": true
+        },
+        {
+          "description": "nach einem harten Aufschlag des Druckminderers während eines Durchgangs in der Atemschutzübungsstrecke",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Wie weit muss das Flaschenventil der Atemluftflasche aufgedreht werden?",
+      "options": [
+        {
+          "description": "Vollständig bis zum Anschlag und dann eine halbe Umdrehung wieder zurück, um die Spannungen aus den Gewindegängen des Ventils herauszunehmen.",
+          "correct": false
+        },
+        {
+          "description": "Eine halbe Umdrehung reicht aus, um den Pressluftatmer schneller einsatzbereit zu bekommen.",
+          "correct": false
+        },
+        {
+          "description": "Vollständig bis zum Anschlag, um das Risiko eines selbstständigen Schließens des Flaschenventils zu reduzieren.",
+          "correct": true
+        },
+        {
+          "description": "Es gibt keine speziellen Vorgaben.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Unter der Eigenverantwortung des Atemschutzgeräteträgers fällt:",
+      "options": [
+        {
+          "description": "das Führen eines persönlichen Atemschutznachweisheftes.",
+          "correct": true
+        },
+        {
+          "description": "die Teilnahme am Umbau der Atemschutzübungsstrecke.",
+          "correct": false
+        },
+        {
+          "description": "den eigenen aktuellen Gesundheitszustand vor dem Einsatz unter Isoliergerät zu bewerten.",
+          "correct": true
+        },
+        {
+          "description": "Einsatzübungen unter PA im Zweijahresdienstplan zu berücksichtigen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Ein AGT hat sich im Innenangriff überlastet und hat das Gefühl entkräftet zu sein und nicht genügend Atemluft zu bekommen.",
+      "options": [
+        {
+          "description": "Er funkt sofort Mayday und wartet auf Rettung.",
+          "correct": false
+        },
+        {
+          "description": "Er zieht sich mit seinem Truppmitglied in einen weniger thermisch belasteten Bereich zurück.",
+          "correct": true
+        },
+        {
+          "description": "Er zieht in Panik die Maske vom Kopf.",
+          "correct": false
+        },
+        {
+          "description": "Er versucht, Ruhe zu bewahren.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Ein AGT hat sich im Innenangriff überlastet und hat das Gefühl entkräftet zu sein und nicht genügend Atemluft zu bekommen.",
+      "options": [
+        {
+          "description": "Er informiert sein Truppmitglied.",
+          "correct": true
+        },
+        {
+          "description": "Er entlastet durch Anheben des PA den Brustraum und führt sich durch vorübergehendes Drücken des Spülknopfes am Lungenautomat dauerhaft Luft zu",
+          "correct": true
+        },
+        {
+          "description": "Nach Stabilisierung der Situation zieht sich der Trupp gemeinsam zurück",
+          "correct": true
+        },
+        {
+          "description": "Eine Lagemeldung muss in dieser Situation nicht gegeben werden",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Ein Atemschutzgeräteträger im Innenangriff:",
+      "options": [
+        {
+          "description": "muss eine Maschinistenausbildung erfolgreich absolviert haben.",
+          "correct": false
+        },
+        {
+          "description": "soll in Strahlrohrtechniken und Schlauchmanagement geübt sein.",
+          "correct": true
+        },
+        {
+          "description": "kann über sein Vorgehen frei entscheiden.",
+          "correct": false
+        },
+        {
+          "description": "gibt ca. alle 30 Minuten eine Lagemeldung.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Atemschutzüberwachung:",
+      "options": [
+        {
+          "description": "wird von dem unter Isoliergerät vorgehenden Trupp durch regelmäßige Meldungen aktiv unterstützt.",
+          "correct": true
+        },
+        {
+          "description": "ist der erste Ansprechpartner für Lagemeldungen der vorgehenden Atemschutztrupps.",
+          "correct": false
+        },
+        {
+          "description": "bestimmt das Vorgehen der AGT-Trupps.",
+          "correct": false
+        },
+        {
+          "description": "ist als 'Assistent' für den Gruppenführer tätig, der den Innenangriff leitet.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Beim Absuchen von Räumen:",
+      "options": [
+        {
+          "description": "bestimmt der Einheitsführer die abzusuchenden Räume und das Suchverfahren.",
+          "correct": true
+        },
+        {
+          "description": "sind regelmäßig Lagemeldungen an den Gruppenführer zu geben.",
+          "correct": true
+        },
+        {
+          "description": "braucht nicht unter Tischen oder hinter Türen gesucht werden.",
+          "correct": false
+        },
+        {
+          "description": "sind abgesuchte Räume zu kennzeichnen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Das Absuchen von Räumen in Wohnungen:",
+      "options": [
+        {
+          "description": "wird durch die Feuerwehrleine gesichert. Das Hohlstrahlrohr bleibt immer am Wohnungseingang zurück.",
+          "correct": false
+        },
+        {
+          "description": "kann durch den Einsatz einer Wärmebildkamera erleichtert werden.",
+          "correct": true
+        },
+        {
+          "description": "wird von Anfang an sehr gründlich und zeitintensiv durchgeführt.",
+          "correct": false
+        },
+        {
+          "description": "schließt die Kontrolle unter Betten und in Schränken mit ein.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Bei der Vornahme eines Rohres im Innenangriff:",
+      "options": [
+        {
+          "description": "ist auf ausreichende Schlauchreserve zu achten.",
+          "correct": true
+        },
+        {
+          "description": "spielt die abgegebene Löschmittelmenge keine Rolle, da die Atmung durch den PA geschützt ist.",
+          "correct": false
+        },
+        {
+          "description": "ist sparsam mit Wasser umzugehen.",
+          "correct": true
+        },
+        {
+          "description": "ist die Rauchkühlung mit Vollstrahl durchzuführen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Persönliche-Schutz-Ausrüstung (PSA) für die Brandbekämpfung:",
+      "options": [
+        {
+          "description": "unterliegt keinen bestimmten Prüfvorschriften.",
+          "correct": false
+        },
+        {
+          "description": "ist dem Einsatzauftrag (Innenangriff, Vegetationsbrandbekämpfung) angemessen zu wählen.",
+          "correct": true
+        },
+        {
+          "description": "muss eigenverantwortlich durch den Träger nach jedem Einsatz und regelmäßig auf Sicht geprüft werden.",
+          "correct": true
+        },
+        {
+          "description": "kann durch die Bauform und/oder infolge Fristablauf für den Innenangriff nicht mehr zulässig sein.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Die Schutzwirkung der wärmeisolierenden PSA wird erreicht,",
+      "options": [
+        {
+          "description": "wenn sie nach Herstellerangaben getragen und gepflegt wird.",
+          "correct": true
+        },
+        {
+          "description": "wenn im Innenangriff alle Körperstellen bei jeder Bewegung abgedeckt sind.",
+          "correct": true
+        },
+        {
+          "description": "wenn beliebig geschnittene Jacken und Hosen verschiedener Hersteller miteinander kombiniert werden.",
+          "correct": false
+        },
+        {
+          "description": "wenn Kleidung mit sichtbar thermischer Zersetzung kalt gewaschen wird.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die effektive Einsatzzeit eines AGT wird begrenzt durch:",
+      "options": [
+        {
+          "description": "das im Behälter des Isoliergeräts mitgeführte Atemluftvolumen.",
+          "correct": true
+        },
+        {
+          "description": "den Schadstoffanteil der Luft beim Einsatz von Filtern im Freien.",
+          "correct": true
+        },
+        {
+          "description": "den grundsätzlichen Atemluftverbrauch von 50 l/min unter wärmeisolierender Schutzkleidung.",
+          "correct": false
+        },
+        {
+          "description": "die Art der Schutzkleidung, z.B. CSA.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Die Einsatzzeit eines AGT hängt ab von:",
+      "options": [
+        {
+          "description": "der körperlichen Belastung.",
+          "correct": true
+        },
+        {
+          "description": "der individuellen körperlichen Fitness.",
+          "correct": true
+        },
+        {
+          "description": "der Atemtechnik.",
+          "correct": true
+        },
+        {
+          "description": "der unmittelbaren Umgebungstemperatur.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Atemgifte können konzentriert auftreten",
+      "options": [
+        {
+          "description": "in geschlossenen Räumen.",
+          "correct": true
+        },
+        {
+          "description": "in tiefer liegenden Räumen.",
+          "correct": true
+        },
+        {
+          "description": "in Industrieanlagen, in denen chemische Prozesse stattfinden.",
+          "correct": true
+        },
+        {
+          "description": "auf freiem Feld.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Mit konzentrierten Atemgiften ist zu rechnen",
+      "options": [
+        {
+          "description": "bei Biogasanlagen.",
+          "correct": true
+        },
+        {
+          "description": "nur im Innenangriff.",
+          "correct": false
+        },
+        {
+          "description": "bei Bränden von Kunststoff verarbeitenden Betrieben.",
+          "correct": true
+        },
+        {
+          "description": "nur bei dichtem Rauch.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Ein Einsatz unter Atemschutz",
+      "options": [
+        {
+          "description": "ist bei einer akuten Erkältungskrankheit nicht zulässig.",
+          "correct": true
+        },
+        {
+          "description": "ist bereits nach einem Tag nach Abklingen einer fiebrigen Erkrankung möglich.",
+          "correct": false
+        },
+        {
+          "description": "soll bei verminderter Leistungsfähigkeit nicht durchgeführt werden.",
+          "correct": true
+        },
+        {
+          "description": "darf erst 12 Stunden nach dem Ausüben einer Ausdauersportart erfolgen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Das Tragegestell eines Behältergerätes",
+      "options": [
+        {
+          "description": "gewährleistet bei richtiger Einstellung eine gleichmäßige Gewichtsverteilung.",
+          "correct": true
+        },
+        {
+          "description": "garantiert einen sicheren Transport der Atemluftflasche im Einsatz.",
+          "correct": true
+        },
+        {
+          "description": "dient zum individuellen Anbringen von Haltern für persönliches Werkzeug.",
+          "correct": false
+        },
+        {
+          "description": "unterliegt der Sichtprüfung durch den AGT vor Einsatzbeginn.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Der Einsatz unter Atemschutz ist gefährlich. Mögliche Unfallursachen sind:",
+      "options": [
+        {
+          "description": "Der Trupp trennt sich im Innenangriff.",
+          "correct": true
+        },
+        {
+          "description": "Der Angriffsweg führt am Feuer vorbei.",
+          "correct": true
+        },
+        {
+          "description": "Restalkohol oder Nebenwirkungen von Medikamenten wirken sich nicht aus.",
+          "correct": false
+        },
+        {
+          "description": "Die Gebäudestruktur ist instabil.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Beim Einsatz unter Atemschutz kann es im Innenangriff zu schweren Unfällen kommen. Mögliche Ursachen sind:",
+      "options": [
+        {
+          "description": "Die Wasserversorgung wird unterbrochen.",
+          "correct": true
+        },
+        {
+          "description": "Eine anhaltend extrem hohe Raumtemperatur spielt beim Tragen der wärmeisolierenden Schutzkleidung keine Rolle.",
+          "correct": false
+        },
+        {
+          "description": "Die Atemschutzüberwachung muss sich nur die vorgehenden Trupps merken. Deren Aufenthaltsort ist nicht relevant.",
+          "correct": false
+        },
+        {
+          "description": "Eine bevorstehende Rauchgasdurchzündung wird nicht rechtzeitig erkannt.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Ein Filtergerät ist abhängig von",
+      "options": [
+        {
+          "description": "Nur von der Menge, nicht von der Art der Schadstoffe.",
+          "correct": false
+        },
+        {
+          "description": "Zeit.",
+          "correct": true
+        },
+        {
+          "description": "Sauerstoffanteil der Umgebungsluft.",
+          "correct": true
+        },
+        {
+          "description": "Ort.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Eine Eignungsuntersuchung ist erforderlich für",
+      "options": [
+        {
+          "description": "Fluchtgeräte.",
+          "correct": false
+        },
+        {
+          "description": "Für die Gerätegruppe 2, Filtergeräte (ABEK 2-P3).",
+          "correct": true
+        },
+        {
+          "description": "Für die Gerätegruppe 3, für frei tragbare Isoliergeräte über 5 kg.",
+          "correct": true
+        },
+        {
+          "description": "Für Filtergeräte mit Partikelfilterklasse P1 und P2.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Womit muss bei der Rettung von Personen mit einem Filter-Fluchtgerät gerechnet werden?",
+      "options": [
+        {
+          "description": "Die Person kann problemlos durch den Rauch hindurchgeführt werden.",
+          "correct": false
+        },
+        {
+          "description": "Panikreaktionen.",
+          "correct": true
+        },
+        {
+          "description": "Bewusstseinstrübung durch Sauerstoffknappheit.",
+          "correct": true
+        },
+        {
+          "description": "Das Fluchtgerät ist nach der Entnahme aus der Originalverpackung sofort einsatzbereit.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Zu den allgemeinen Grundsätzen beim Einsatz unter Atemschutz gehört",
+      "options": [
+        {
+          "description": "Die Eigenverantwortlichkeit des AGT.",
+          "correct": true
+        },
+        {
+          "description": "Der AGT muss aktuell körperlich und fachlich geeignet sein.",
+          "correct": true
+        },
+        {
+          "description": "Die Mindeststärke bei Einsatz von Isoliergeräten beträgt 2 + 2 AGT (Sicherheitstrupp).",
+          "correct": true
+        },
+        {
+          "description": "Die Einsatzkurzprüfung vor dem Einsatz.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Zum Einsatz unter Atemschutz gehört",
+      "options": [
+        {
+          "description": "Eine rechtzeitige Ablösung des AGT, so dass zum Einsatzende noch ausreichend Atemluft zur Verfügung steht.",
+          "correct": true
+        },
+        {
+          "description": "Eine Ruhepause zwischen zwei Einsätzen unter Isoliergerät ist grundsätzlich nicht erforderlich.",
+          "correct": false
+        },
+        {
+          "description": "Nach dem Einsatz ist ein Flüssigkeitsausgleich mit alkoholischen Getränken sinnvoll.",
+          "correct": false
+        },
+        {
+          "description": "Im Einsatz stark verschmutzte Schutzkleidung kann bedenkenlos im Mannschaftsraum transportiert werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Beim Einsatz von wärmeisolierender Schutzkleidung ist zu beachten",
+      "options": [
+        {
+          "description": "Nach starker Kontamination besteht beim Ablegen des Pressluftatmers durch den Austritt von Gefahrstoffe aus der Schutzkleidung eine Gefahr für die Gesundheit.",
+          "correct": true
+        },
+        {
+          "description": "Die Schutzkleidung muss sich in jeder Körperhaltung überdecken.",
+          "correct": true
+        },
+        {
+          "description": "Wärmeisolierende Schutzkleidung kann beliebig kombiniert werden.",
+          "correct": false
+        },
+        {
+          "description": "Wärmeisolierende Schutzkleidung bedarf keiner besonderen Pflege und kann haushaltstypisch gereinigt werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Was versteht man im Atemschutz unter truppweisem Vorgehen",
+      "options": [
+        {
+          "description": "Ein Trupp besteht grundsätzlich nur aus zwei AGT.",
+          "correct": false
+        },
+        {
+          "description": "Der Trupp rüstet sich gemeinsam aus.",
+          "correct": true
+        },
+        {
+          "description": "Die Truppmitglieder gehen auf „Tuchfühlung“, halten untereinander ständigen Kontakt.",
+          "correct": true
+        },
+        {
+          "description": "Der Trupp darf sich zum Rückzug trennen, wenn ein Truppmitglied einen deutlich größeren Luftvorrat hat und noch weiter unter Atemschutz tätig sein kann.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Worauf ist beim Betreten von Brandräumen zu achten?",
+      "options": [
+        {
+          "description": "Der AGT ist durch die wärmeisolierende Schutzkleidung ausreichend geschützt. Es kann ihm nichts passieren.",
+          "correct": false
+        },
+        {
+          "description": "Durch das Öffnen eines Zugangs kann es zu einer heftigen Reaktion des Rauchgases kommen.",
+          "correct": true
+        },
+        {
+          "description": "Eine Wärmebildkamera gewährleistet beim Absuchen von stark verrauchten Räumen eine ausreichende Orientierung.",
+          "correct": false
+        },
+        {
+          "description": "Eine Sprechfunkverbindung ist zur Verständigung mit dem Einheitsführer und der Atemschutzüberwachung erforderlich.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Wie ist in stark verrauchten Räumen vorzugehen?",
+      "options": [
+        {
+          "description": "Die Vorgehensweise ist den Sichtverhältnissen anzupassen.",
+          "correct": true
+        },
+        {
+          "description": "Wenn man auf „allen Vieren“ vorgeht, ist das die sicherste Variante.",
+          "correct": false
+        },
+        {
+          "description": "Der Seitenkriechgang bietet eine stabile Körperhaltung, die Möglichkeit des tastenden Vorgehens und zur Beobachtung der Rauchschicht. Ein Hohlstrahlrohr kann effektiv geführt werden.",
+          "correct": true
+        },
+        {
+          "description": "Den Rauch mit großen Sprühwassermengen niederschlagen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Was soll durch den AGT-Trupp im Innenangriff an den Einheitsführer gemeldet werden?",
+      "options": [
+        {
+          "description": "Es genügt regelmäßig die Behälterdrücke der PA anzugeben.",
+          "correct": false
+        },
+        {
+          "description": "Der gegenwärtige ggf. geänderte Standort (z.B. das Stockwerk).",
+          "correct": true
+        },
+        {
+          "description": "Die Lage von Gasabsperrschieber und -versorgungsleitungen, Gefahrstoffe (z.B. Heizöltanks), die Lage von elektrischen Sicherungskästen und Spannungsverteilungen.",
+          "correct": true
+        },
+        {
+          "description": "Bauliche (Brandwand, Rauchschutztür) und anlagentechnische Einrichtungen (Sprinkler, Steigleitung, Rauch- und Wärmeabzug) können von außen gesehen werden und sind für den Innenangriff ohne Bedeutung.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die Reihenfolge des Anlegens der Schutzkleidung",
+      "options": [
+        {
+          "description": "ist detailliert vorgeschrieben.",
+          "correct": false
+        },
+        {
+          "description": "kann individuell und der Lage bzw. dem Aufbewahrungsort der Isoliergeräte angepasst erfolgen.",
+          "correct": true
+        },
+        {
+          "description": "birgt unterschiedliche Risiken. z.B. kann sich die Maskenbebänderung durch ungeschicktes Überstreifen der als Schal getragenen Flammschutzhaube lösen.",
+          "correct": true
+        },
+        {
+          "description": "spielt keine Rolle, da sich truppweise ausgerüstet und geholfen wird. Die Atemluftflasche kann auch durch den Truppkameraden auf- und zugedreht werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der Sicherheitstrupp",
+      "options": [
+        {
+          "description": "kann durch die dienstjüngsten AGT gestellt werden.",
+          "correct": false
+        },
+        {
+          "description": "hat ein Isoliergerät geschultert, hat Sicherungs- sowie Rettungsgerät an zentraler Stelle abgelegt und ist sofort einsatzbereit.",
+          "correct": true
+        },
+        {
+          "description": "besteht aus erfahrenen und notfalltrainierten AGT.",
+          "correct": true
+        },
+        {
+          "description": "wird im Ermessen des vorgehenden PA-Trupps bereitgestellt.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Der Trupp geht geschlossen zurück, wenn",
+      "options": [
+        {
+          "description": "die akustische Restdruckwarneinrichtung ertönt.",
+          "correct": true
+        },
+        {
+          "description": "die Gefahrensituation nicht beherrschbar ist.",
+          "correct": true
+        },
+        {
+          "description": "gesundheitliche Probleme auftreten.",
+          "correct": true
+        },
+        {
+          "description": "eine Rückzugsaufforderung durch den Einheitsführer gegeben wird.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Beim Innenangriff unter Atemschutz",
+      "options": [
+        {
+          "description": "ist auf die Vollständigkeit der wärmeisolierenden Schutzkleidung zu achten.",
+          "correct": true
+        },
+        {
+          "description": "ist der richtige Sitz der Überbekleidung gegeben, wenn bei jeder Körperhaltung eine Überdeckung gegeben ist.",
+          "correct": true
+        },
+        {
+          "description": "kann bei Übungen oder bei der jährlichen Belastungsübung auf das vollständige Anlegen der wärmeisolierenden Schutzkleidung verzichtet werden.",
+          "correct": false
+        },
+        {
+          "description": "kann auf die Flammschutzhaube verzichtet werden, um die Wärme rechtzeitig merken zu können.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Ein Atemschutzgeräteträger darf nicht eingesetzt werden, wenn er körperlich beeinträchtigt ist.",
+      "options": [
+        {
+          "description": "durch einen unzureichenden Dichtsitz infolge von Haaren, von Narben oder Kopfschmuck, oder durch eine Kopfform, die durch die zur Verfügung gestellte Atemschutzmaske nicht ausgeglichen werden kann.",
+          "correct": true
+        },
+        {
+          "description": "durch feststellbaren Restalkohol.",
+          "correct": true
+        },
+        {
+          "description": "durch eine Erkältungskrankheit.",
+          "correct": true
+        },
+        {
+          "description": "Konditionelle Schwächen können durch die vorherige Einnahme eines Energy Drinks ausgeglichen werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Besondere Gefahren beim Innenangriff unter Atemschutz entstehen, wenn",
+      "options": [
+        {
+          "description": "unzureichende oder unvollständige persönliche Schutzkleidung getragen wird.",
+          "correct": true
+        },
+        {
+          "description": "sich Brände schnell und unkontrolliert ausbreiten.",
+          "correct": true
+        },
+        {
+          "description": "Innen- und Außenangriff nicht grundsätzlich gleichzeitig durchgeführt werden.",
+          "correct": false
+        },
+        {
+          "description": "vorgehende Einsatzkräfte praxisnah ausgebildet worden sind.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Nach einem Innenangriff in einem stark verrauchten Gebäude",
+      "options": [
+        {
+          "description": "ist die wärmeisolierende Schutzkleidung durch den Brandrauch kontaminiert.",
+          "correct": true
+        },
+        {
+          "description": "gibt die Schutzkleidung Atemgifte ab.",
+          "correct": true
+        },
+        {
+          "description": "genügt es immer, die Schutzkleidung bis zum nächsten Gebrauch an einen gut gelüfteten Ort aufzuhängen.",
+          "correct": false
+        },
+        {
+          "description": "muss unmittelbar nach dem Ablegen des Atemanschlusses mit dem Flüssigkeitsausgleich begonnen werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Beim Anlegen des Atemanschlusses ist zu beachten:",
+      "options": [
+        {
+          "description": "Bei der Handballendichtprobe wird die Atemschutzmaske mit der anderen Hand festgehalten und nicht an das Gesicht gedrückt.",
+          "correct": true
+        },
+        {
+          "description": "Die Dichtprobe wird nach dem Aufsetzen der Flammschutzhaube und des Helms nicht wiederholt.",
+          "correct": false
+        },
+        {
+          "description": "Die Atemanschlüsse sind so funktional aufgebaut, dass auf ein gleichmäßiges Anziehen der Bebänderung verzichtet werden kann.",
+          "correct": false
+        },
+        {
+          "description": "Die Herstellerangaben sind zu beachten.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Wie wird ein Brand im Innenangriff bekämpft?",
+      "options": [
+        {
+          "description": "mit Vollstrahl mit hohen Durchflussraten.",
+          "correct": false
+        },
+        {
+          "description": "mit einem Hohlstrahlrohr kann zu Beginn eine Rauchgaskühlung durchgeführt werden.",
+          "correct": true
+        },
+        {
+          "description": "die Löschwasserabgabe darf nicht unterbrochen werden.",
+          "correct": false
+        },
+        {
+          "description": "das Strahlrohr wird dynamisch geführt, um zu starke Dampfbildung und Wasserschäden zu vermeiden.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Die Einsatzkurzprüfung",
+      "options": [
+        {
+          "description": "muss auch nach dem Wechsel des Lungenautomaten durchgeführt werden.",
+          "correct": true
+        },
+        {
+          "description": "entscheidet darüber, ob ein Isoliergerät eingesetzt werden darf oder nicht.",
+          "correct": true
+        },
+        {
+          "description": "ist nur erforderlich, wenn der Pressluftatmer auf einem Feuerwehrfahrzeug verlastet wird.",
+          "correct": false
+        },
+        {
+          "description": "kann im Fahrzeug unvollständig ausgeführt werden, wenn die Anfahrtszeit sehr kurz ist.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die wärmeisolierende Schutzkleidung",
+      "options": [
+        {
+          "description": "wird durch die Flammschutzhaube ergänzt.",
+          "correct": true
+        },
+        {
+          "description": "kann ihre Schutzwirkung verlieren, wenn diese z.B. durch eine Rauchgasdurchzündung thermisch belastet worden ist.",
+          "correct": true
+        },
+        {
+          "description": "kann in einer üblichen Haushaltswaschmaschine gereinigt werden.",
+          "correct": false
+        },
+        {
+          "description": "bietet durch die integrierte Dampfsperre auch bei Dampfentwicklung infolge von Löschwassereinsatz ausreichend Schutz.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Nach dem Einsatz unter Isoliergerät",
+      "options": [
+        {
+          "description": "ist der Geräteträger immer und zu jeder Zeit ausreichend gegen Atemgifte geschützt.",
+          "correct": false
+        },
+        {
+          "description": "besteht durch die Schutzkleidung die Gefahr der Kontaminationsverschleppung.",
+          "correct": true
+        },
+        {
+          "description": "kann es zur Aufnahme von Gefahrstoffen durch Hautresorption kommen.",
+          "correct": true
+        },
+        {
+          "description": "gebrauchte Isoliergeräte werden gemeinsam mit den verschmutzten Schläuchen im Fußraum der Mannschaftskabine mitgeführt.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Die ersten Tätigkeiten eines AGT im Innenangriff müssen unter erfahrener Führung erfolgen,",
+      "options": [
+        {
+          "description": "da eine erhöhte Löschmittelabgabe mit starker Dampfbildung einhergeht.",
+          "correct": true
+        },
+        {
+          "description": "weil die Gefahrensituationen noch nicht eingeschätzt werden können.",
+          "correct": true
+        },
+        {
+          "description": "da erforderliche Handlungsabläufe noch nicht eingespielt sind.",
+          "correct": false
+        },
+        {
+          "description": "wenn nicht umfangreiches theoretisches Wissen angeeignet worden ist.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

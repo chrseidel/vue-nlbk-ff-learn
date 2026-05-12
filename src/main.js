@@ -4,12 +4,13 @@ import QuestionsView from './views/QuestionView.vue'
 import App from './App.vue'
 import SettingsView from './views/SettingsView.vue'
 import TrainingView from './views/TrainingView.vue'
+import TrainingSelectionView from './views/TrainingSelectionView.vue'
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import { createRouter, createWebHashHistory } from 'vue-router'
 
 const routes = [
-  { path: '/', component: App },
+  { path: '/', component: TrainingSelectionView },
   { path: '/settings', component: SettingsView },
   { path: '/questions', component: QuestionsView },
   { path: '/test-training', component: TrainingView }

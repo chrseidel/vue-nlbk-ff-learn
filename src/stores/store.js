@@ -1,35 +1,40 @@
 import { defineStore } from 'pinia'
-import rechtsgrundlagenJson from './rechtsgrundlagen.json'
+import maschiJson from './maschi.json'
+import agtJson from './agt.json'
 import brennenUndLoeschenJson from './brennen-und-loeschen.json'
-import fahrzeugkundeJson from './fahrzeugkunde.json'
-import persoenlicheAusruestungJson from './persoenliche-ausruestung.json'
-import geraetekundeJson from './geraetekunde-loeschgeraete.json'
-import geraetekundeRettungsgeraeteJson from './geraetekunde-rettungsgeraete.json'
-import geraetekundeGeraeteTHJson from './geraetekunde-einfache-t-h.json'
-import geraetekundeSonstigeJson from './geraetekunde-sonstige-geraete.json'
-import rettungJson from './rettung.json'
 import ersteHilfeJson from './erste-hilfe.json'
+import fahrzeugkundeJson from './fahrzeugkunde.json'
+import geraetekundeEinfacheTHJson from './geraetekunde-einfache-t-h.json'
+import geraetekundeLoeschgeraeteJson from './geraetekunde-loeschgeraete.json'
+import geraetekundeRettungsgeraeteJson from './geraetekunde-rettungsgeraete.json'
+import geraetekundeSonstigeGeraeteJson from './geraetekunde-sonstige-geraete.json'
 import loescheinsatzJson from './loescheinsatz.json'
+import personenlicheAusruestungJson from './persoenliche-ausruestung.json'
+import rechtsgrundlagenJson from './rechtsgrundlagen.json'
+import rettungJson from './rettung.json'
 import technischeHilfeleistungJson from './technische-hilfeleistung.json'
+import unfallversicherungJson from './unfallversicherung.json'
 import verhaltenBeiGefahrJson from './verhalten-bei-gefahr.json'
-import UnfallVersicherungJson from './unfallversicherung.json'
+import { trainings } from '../config/trainings'
 
 export const useQuestionsStore = defineStore('questions', () => {
   const categories = [
-    rechtsgrundlagenJson, 
-    brennenUndLoeschenJson, 
-    fahrzeugkundeJson, 
-    persoenlicheAusruestungJson, 
-    geraetekundeJson,
-    geraetekundeRettungsgeraeteJson,
-    geraetekundeGeraeteTHJson,
-    geraetekundeSonstigeJson,
-    rettungJson,
+    maschiJson,
+    agtJson,
+    brennenUndLoeschenJson,
     ersteHilfeJson,
+    fahrzeugkundeJson,
+    geraetekundeEinfacheTHJson,
+    geraetekundeLoeschgeraeteJson,
+    geraetekundeRettungsgeraeteJson,
+    geraetekundeSonstigeGeraeteJson,
     loescheinsatzJson,
+    personenlicheAusruestungJson,
+    rechtsgrundlagenJson,
+    rettungJson,
     technischeHilfeleistungJson,
-    verhaltenBeiGefahrJson,
-    UnfallVersicherungJson
+    unfallversicherungJson,
+    verhaltenBeiGefahrJson
   ].map((json) => ({
       name: json.category,
       questions: json.questions.map((q) => ({ ...q, category: json.category})),
@@ -64,5 +69,22 @@ export const useQuestionsStore = defineStore('questions', () => {
 
   const getCategories = () => categories.map((category) => ({name: category.name, include: category.include}))
 
-  return { setCategoryInclusion, getCategories, allQuestions, randomQuestions }
+  const selectTraining = (trainingName) => {
+    // First, exclude all categories
+    categories.forEach((c) => c.include = false)
+    // Find the training and include its categories
+    const training = trainings.find(t => t.name === trainingName)
+    if (training) {
+      training.categories.forEach(catName => {
+        const category = categories.find(c => c.name === catName)
+        if (category) {
+          category.include = true
+        }
+      })
+    }
+    // Store the selected training
+    localStorage.setItem('selectedTraining', trainingName)
+  }
+
+  return { setCategoryInclusion, getCategories, allQuestions, randomQuestions, selectTraining }
 })

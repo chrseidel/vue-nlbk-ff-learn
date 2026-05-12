@@ -1,8 +1,11 @@
 <script setup>
 import QuestionSet from '../components/QuestionSet.vue'
-
 import { useQuestionsStore } from '../stores/store'
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
+import { useRouter, useRoute } from 'vue-router'
+
+const router = useRouter()
+const route = useRoute()
 
 const questionsStore = useQuestionsStore()
 const questions = ref(questionsStore.allQuestions())
@@ -10,6 +13,15 @@ const isCheckBtnVisible = ref(true)
 const isNextBtnVisisble = ref(false)
 const showResult = ref(false)
 const questionSet = ref(null)
+const currentQuestionIndex = ref(0)
+
+const updateURL = () => {
+  router.replace({ 
+    query: { 
+      q: currentQuestionIndex.value 
+    }
+  })
+}
 
 const checkAnswers = () => {
   showNextButton()
@@ -19,7 +31,18 @@ const checkAnswers = () => {
 const nextQuestion = () => {
   showResult.value = false
   showCheckButton()
-  questionSet.value.nextQuestion()
+  currentQuestionIndex.value++
+  updateURL()
+}
+
+const prevQuestion = () => {
+  currentQuestionIndex.value--
+  updateURL()
+}
+
+const onPageSwitch = (newIndex) => {
+  currentQuestionIndex.value = newIndex
+  updateURL()
 }
 
 const showNextButton = () => {
@@ -32,18 +55,42 @@ const showCheckButton = () => {
   isNextBtnVisisble.value = false
 }
 
-const prevQuestion = () => {
-  questionSet.value.prevQuestion()
-}
+// Initialisiere die Startfrage aus der URL
+onMounted(() => {
+  const startQuestion = parseInt(route.query.q) || 0
+  if (startQuestion >= 0 && startQuestion < questions.value.length) {
+    currentQuestionIndex.value = startQuestion
+  }
+})
 </script>
 
 <template>
   <div id="main">
-    <QuestionSet :questions="questions" :show-results="showResult" ref="questionSet" :show-questions="[]"/>
+    <QuestionSet 
+      :questions="questions" 
+      :show-results="showResult" 
+      :current-index="currentQuestionIndex"
+      ref="questionSet" 
+      :show-questions="[currentQuestionIndex]"
+      @page-switch="onPageSwitch"
+    />
     <div id="control">
-      <button id="btn-prev" @click="prevQuestion()">zurück</button>
-      <button v-if="isCheckBtnVisible" id="btn-check" @click="checkAnswers()">Lösung</button>
-      <button v-if="isNextBtnVisisble" id="btn-next" @click="nextQuestion()">weiter</button>
+      <button 
+        id="btn-prev" 
+        @click="prevQuestion()"
+        :disabled="currentQuestionIndex <= 0"
+      >zurück</button>
+      <button 
+        v-if="isCheckBtnVisible" 
+        id="btn-check" 
+        @click="checkAnswers()"
+      >Lösung</button>
+      <button 
+        v-if="isNextBtnVisisble" 
+        id="btn-next" 
+        @click="nextQuestion()"
+        :disabled="currentQuestionIndex >= questions.length - 1"
+      >weiter</button>
     </div>
   </div>
 </template>
