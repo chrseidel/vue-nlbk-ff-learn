@@ -40,6 +40,11 @@ const prevQuestion = () => {
   updateURL()
 }
 
+const onPageSwitch = (newIndex) => {
+  currentQuestionIndex.value = newIndex
+  updateURL()
+}
+
 const showNextButton = () => {
   isCheckBtnVisible.value = false
   isNextBtnVisisble.value = true
@@ -67,6 +72,7 @@ onMounted(() => {
       :current-index="currentQuestionIndex"
       ref="questionSet" 
       :show-questions="[currentQuestionIndex]"
+      @page-switch="onPageSwitch"
     />
     <div id="control">
       <button 
