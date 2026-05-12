@@ -1,0 +1,69 @@
+{
+    "category": "Gerätekunde: Sonstige Geräte",
+    "questions": [
+        {
+            "title": "Zu den Warngeräten (z.B. technische Hilfeleistung: \"Verkehrsunfall\") zählt man",
+            "options": [
+                {
+                    "description": "Warnschilder",
+                    "correct": true
+                },
+                {
+                    "description": "Winkerkelle",
+                    "correct": true
+                },
+                {
+                    "description": "Warndreieck nach StVZO",
+                    "correct": true
+                },
+                {
+                    "description": "Verkehrsleitkegel",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "title": "An Einsatzstellen auf Bundesautobahnen (BAB) und Kraftfahrstraßen mit getrennten Richtungsfahrbahnen erfolgt die Absicherung entgegen der Fahrtrichtung des fließenden Verkehrs. Welche Entfernungen gelten gemäß Abbildung? Unfallstelle",
+            "img": "einsatzstelle.png",
+            "options": [
+                {
+                    "description": "A: 200 m, B: ca. 600 m, C: ca. 800 m",
+                    "correct": true
+                },
+                {
+                    "description": "A: 100 m, B: ca. 300 m, C: ca. 400 m",
+                    "correct": false
+                },
+                {
+                    "description": "A: 50 m, B: ca. 150 m, C: ca. 200 m",
+                    "correct": false
+                },
+                {
+                    "description": "A: 25 m, B: ca. 75 m, C: ca. 100 m",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "title": "Bei Einsatz der Winkerkelle ist zu beachten, dass",
+            "options": [
+                {
+                    "description": "Winkerkellen zur Verkehrsregelung eingesetzt werden dürfen.",
+                    "correct": false
+                },
+                {
+                    "description": "Winkerkellen nur zur Verkehrssicherung eingesetzt werden dürfen.",
+                    "correct": true
+                },
+                {
+                    "description": "Winkerkellen keine Feuerwehrzulassung haben",
+                    "correct": false
+                },
+                {
+                    "description": "Winkerkellen nur auf Anweisung der Polizei eingesetzt werden dürfen.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

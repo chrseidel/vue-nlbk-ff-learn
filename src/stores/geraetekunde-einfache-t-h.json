@@ -1,0 +1,152 @@
+{
+  "category": "Gerätekunde: Geräte für die einfache technische Hilfeleistung",
+  "questions": [
+    {
+      "title": "Für welche Einsatzmöglichkeiten findet die Brechstange Verwendung?",
+      "options": [
+        {
+          "description": "Verwendung als Hebel",
+          "correct": true
+        },
+        {
+          "description": "Verwendung zum Stoßen",
+          "correct": true
+        },
+        {
+          "description": "Verwendung um eine Kraft abzufedern",
+          "correct": false
+        },
+        {
+          "description": "Verwendung um Kraft und Weg zu sparen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Folgende Hinweise zur Sicherheit sind beim Einsatz einer Brechstange zu beachten",
+      "options": [
+        {
+          "description": "Beim Einsatz der Brechstange ist Gesichtsschutz zu verwenden.",
+          "correct": true
+        },
+        {
+          "description": "Beim Einsatz ist die Klaue nicht zum Stoßen zu benutzen.",
+          "correct": true
+        },
+        {
+          "description": "Beim Anheben muss die Last durch Unterbauen gesichert werden.",
+          "correct": true
+        },
+        {
+          "description": "Das maximal anzuhebende Gewicht darf nicht mehr als 100 N betragen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Das Nageleisen dient",
+      "options": [
+        {
+          "description": "zum Ziehen von Nägeln.",
+          "correct": true
+        },
+        {
+          "description": "Aufbrechen von Holzkonstruktionen.",
+          "correct": true
+        },
+        {
+          "description": "Lösen von Verschraubungen.",
+          "correct": false
+        },
+        {
+          "description": "Bewegen kleinerer Lasten.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Mit dem im Feuerwehr-Werkzeugkasten enthaltenen Werkzeug lassen sich u.a.",
+      "options": [
+        {
+          "description": "Rohrverbindungen verschweißen.",
+          "correct": false
+        },
+        {
+          "description": "Metallteile vernieten.",
+          "correct": false
+        },
+        {
+          "description": "Steine meißeln.",
+          "correct": true
+        },
+        {
+          "description": "Drähte trennen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "title": "Die Bestückung des Feuerwehr Elektrowerkzeugkastens",
+      "options": [
+        {
+          "description": "dient zum Feststellen der Spannungsfreiheit in Bereichen über 1000 V.",
+          "correct": false
+        },
+        {
+          "description": "dient zum Feststellen der Spannungsfreiheit in Bereichen unter 1000 V.",
+          "correct": true
+        },
+        {
+          "description": "beinhaltet eine Beschilderung, die freigeschaltete Anlagen kennzeichnet.",
+          "correct": true
+        },
+        {
+          "description": "beinhaltet eine Beschilderung, die Photovoltaik-Anlagen im speziellen kennzeichnet.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Beim Einsatz des Einreißhakens",
+      "options": [
+        {
+          "description": "ist Gesichtsschutz niemals erforderlich.",
+          "correct": false
+        },
+        {
+          "description": "ist Gesichtsschutz erforderlich.",
+          "correct": true
+        },
+        {
+          "description": "dürfen sich nicht beteiligte Personen im Wirkungsbereich aufhalten.",
+          "correct": false
+        },
+        {
+          "description": "kann generell auf Grundsätze, die einer Unfallverhütung dienen, verzichtet werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "title": "Mit der Feuerwehraxt ist es möglich:",
+      "options": [
+        {
+          "description": "Türen zu öffnen",
+          "correct": true
+        },
+        {
+          "description": "Holz für Abstützungen zu kürzen",
+          "correct": false
+        },
+        {
+          "description": "Die Feuerwehraxt hat heute keine Bedeutung mehr",
+          "correct": false
+        },
+        {
+          "description": "darf nur truppweise eingesetzt werden",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
