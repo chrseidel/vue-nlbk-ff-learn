@@ -26,14 +26,38 @@ nav {
 }
 
 a {
+  position: relative;
   font-weight: 700;
   line-height: 2rem;
-  padding: 1.3rem;
+  padding: 0.65rem 0.9rem;
   color: white;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+a:hover,
+a:focus-visible {
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+a.router-link-exact-active {
+  background-color: rgba(255, 255, 255, 0.16);
+}
+
+a.router-link-exact-active::after {
+  position: absolute;
+  right: 0.75rem;
+  bottom: 0.35rem;
+  left: 0.75rem;
+  height: 0.18rem;
+  border-radius: 999px;
+  background-color: #d6f5df;
+  content: '';
 }
 
 main {
-  margin-top: 6rem;
+  margin-top: 4rem;
   width: 100%;
 }
 
